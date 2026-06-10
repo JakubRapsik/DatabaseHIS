@@ -1,0 +1,464 @@
+Q3_5JOINS,BASE,1,"Plan hash value: 2703609015
+ 
+--------------------------------------------------------------------------------
+| Id  | Operation                 | Name                  | Rows  | Cost (%CPU)|
+--------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT          |                       |     1 |   138   (2)|
+|   1 |  SORT AGGREGATE           |                       |     1 |            |
+|   2 |   NESTED LOOPS            |                       | 11563 |   138   (2)|
+|*  3 |    HASH JOIN              |                       | 11563 |   137   (1)|
+|*  4 |     HASH JOIN             |                       | 11563 |    35   (3)|
+|   5 |      INDEX FAST FULL SCAN | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  6 |      HASH JOIN            |                       | 11563 |    21   (0)|
+|   7 |       INDEX FAST FULL SCAN| PK_ZAMESTNANCI        |  4847 |     6   (0)|
+|   8 |       TABLE ACCESS FULL   | VYSETRENIE            | 11563 |    15   (0)|
+|   9 |     TABLE ACCESS FULL     | ZDRAVOTNY_ZAZ         | 11607 |   102   (0)|
+|* 10 |    INDEX UNIQUE SCAN      | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+--------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$D98E416E
+   5 - SEL$D98E416E / H@SEL$3
+   7 - SEL$D98E416E / Z@SEL$5
+   8 - SEL$D98E416E / V@SEL$4
+   9 - SEL$D98E416E / ZZ@SEL$2
+  10 - SEL$D98E416E / ZK@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   3 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+   6 - access(""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+  10 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+",2026-05-21 22:43:34.726000
+Q3_5JOINS,HASH,1,"Plan hash value: 2115018875
+ 
+---------------------------------------------------------------------------------
+| Id  | Operation                  | Name                  | Rows  | Cost (%CPU)|
+---------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT           |                       |     1 |  1163K  (1)|
+|   1 |  SORT AGGREGATE            |                       |     1 |            |
+|*  2 |   HASH JOIN                |                       | 11634 |  1163K  (1)|
+|   3 |    INDEX FAST FULL SCAN    | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  4 |    HASH JOIN               |                       |   134M|  1162K  (1)|
+|   5 |     INDEX FAST FULL SCAN   | PK_PACIENT            |  2008 |     3   (0)|
+|*  6 |     HASH JOIN              |                       |   134M|  1161K  (1)|
+|   7 |      TABLE ACCESS FULL     | ZDRAVOTNA_KARTA       |  1998 |     5   (0)|
+|   8 |      MERGE JOIN CARTESIAN  |                       |   134M|  1161K  (1)|
+|*  9 |       HASH JOIN            |                       | 11563 |    21   (0)|
+|  10 |        INDEX FAST FULL SCAN| PK_ZAMESTNANCI        |  4847 |     6   (0)|
+|  11 |        TABLE ACCESS FULL   | VYSETRENIE            | 11563 |    15   (0)|
+|  12 |       BUFFER SORT          |                       | 11607 |  1161K  (1)|
+|  13 |        TABLE ACCESS FULL   | ZDRAVOTNY_ZAZ         | 11607 |   100   (0)|
+---------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$CCD74004
+   3 - SEL$CCD74004 / H@SEL$3
+   5 - SEL$CCD74004 / P@SEL$1
+   7 - SEL$CCD74004 / ZK@SEL$1
+  10 - SEL$CCD74004 / Z@SEL$5
+  11 - SEL$CCD74004 / V@SEL$4
+  13 - SEL$CCD74004 / ZZ@SEL$2
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   2 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"" AND 
+              ""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+   6 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+   9 - access(""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+",2026-05-21 22:43:35.086000
+Q3_5JOINS,NL,1,"Plan hash value: 506949283
+ 
+-----------------------------------------------------------------------------------------------
+| Id  | Operation                                | Name                  | Rows  | Cost (%CPU)|
+-----------------------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT                         |                       |     1 |    69M  (1)|
+|   1 |  SORT AGGREGATE                          |                       |     1 |            |
+|   2 |   NESTED LOOPS                           |                       | 11563 |    69M  (1)|
+|   3 |    NESTED LOOPS                          |                       | 11563 |    69M  (1)|
+|   4 |     NESTED LOOPS                         |                       | 11564 |    69M  (1)|
+|   5 |      NESTED LOOPS                        |                       |    23M|    46M  (1)|
+|   6 |       NESTED LOOPS                       |                       |    23M| 15829   (1)|
+|   7 |        INDEX FAST FULL SCAN              | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|   8 |        INDEX FAST FULL SCAN              | PK_PACIENT            |  2008 |     1   (0)|
+|   9 |       TABLE ACCESS BY INDEX ROWID BATCHED| ZDRAVOTNA_KARTA       |     1 |     2   (0)|
+|* 10 |        INDEX RANGE SCAN                  | IX_RELATIONSHIP39     |     1 |     1   (0)|
+|* 11 |      TABLE ACCESS BY INDEX ROWID         | ZDRAVOTNY_ZAZ         |     1 |     1   (0)|
+|* 12 |       INDEX UNIQUE SCAN                  | PK_ZDRAVOTNY_ZAZ_NEW  |     1 |     0   (0)|
+|  13 |     TABLE ACCESS BY INDEX ROWID BATCHED  | VYSETRENIE            |     1 |     2   (0)|
+|* 14 |      INDEX RANGE SCAN                    | IX_RELATIONSHIP51_NEW |     1 |     1   (0)|
+|* 15 |    INDEX FAST FULL SCAN                  | PK_ZAMESTNANCI        |     1 |     4   (0)|
+-----------------------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$CCD74004
+   7 - SEL$CCD74004 / H@SEL$3
+   8 - SEL$CCD74004 / P@SEL$1
+   9 - SEL$CCD74004 / ZK@SEL$1
+  10 - SEL$CCD74004 / ZK@SEL$1
+  11 - SEL$CCD74004 / ZZ@SEL$2
+  12 - SEL$CCD74004 / ZZ@SEL$2
+  13 - SEL$CCD74004 / V@SEL$4
+  14 - SEL$CCD74004 / V@SEL$4
+  15 - SEL$CCD74004 / Z@SEL$5
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+  10 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+  11 - filter(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+  12 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+  14 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+  15 - filter(""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+",2026-05-21 22:51:13.096000
+Q4_6JOINS,BASE,1,"Plan hash value: 436912680
+ 
+-------------------------------------------------------------------------------
+| Id  | Operation                | Name                  | Rows  | Cost (%CPU)|
+-------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT         |                       |     1 |   141   (2)|
+|   1 |  SORT AGGREGATE          |                       |     1 |            |
+|   2 |   NESTED LOOPS           |                       | 11563 |   141   (2)|
+|*  3 |    HASH JOIN             |                       | 11563 |   140   (1)|
+|*  4 |     HASH JOIN            |                       | 11563 |    38   (3)|
+|   5 |      INDEX FAST FULL SCAN| IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  6 |      HASH JOIN           |                       | 11563 |    24   (0)|
+|*  7 |       TABLE ACCESS FULL  | ZAMESTNANCI           |  2737 |     9   (0)|
+|   8 |       TABLE ACCESS FULL  | VYSETRENIE            | 11563 |    15   (0)|
+|   9 |     TABLE ACCESS FULL    | ZDRAVOTNY_ZAZ         | 11607 |   102   (0)|
+|* 10 |    INDEX UNIQUE SCAN     | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+-------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$B5516CC1
+   5 - SEL$B5516CC1 / H@SEL$3
+   7 - SEL$B5516CC1 / Z@SEL$5
+   8 - SEL$B5516CC1 / V@SEL$4
+   9 - SEL$B5516CC1 / ZZ@SEL$2
+  10 - SEL$B5516CC1 / ZK@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   3 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+   6 - access(""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+   7 - filter(""Z"".""ID_ODDELENIA"" IS NOT NULL)
+  10 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+",2026-05-21 23:00:38.031000
+Q4_6JOINS,HASH,1,"Plan hash value: 2792709799
+ 
+-------------------------------------------------------------------------------
+| Id  | Operation                | Name                  | Rows  | Cost (%CPU)|
+-------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT         |                       |     1 |  1163K  (1)|
+|   1 |  SORT AGGREGATE          |                       |     1 |            |
+|*  2 |   HASH JOIN              |                       | 11634 |  1163K  (1)|
+|   3 |    INDEX FAST FULL SCAN  | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  4 |    HASH JOIN             |                       |   134M|  1162K  (1)|
+|   5 |     INDEX FAST FULL SCAN | PK_PACIENT            |  2008 |     3   (0)|
+|*  6 |     HASH JOIN            |                       |   134M|  1161K  (1)|
+|   7 |      TABLE ACCESS FULL   | ZDRAVOTNA_KARTA       |  1998 |     5   (0)|
+|   8 |      MERGE JOIN CARTESIAN|                       |   134M|  1161K  (1)|
+|*  9 |       HASH JOIN          |                       | 11563 |    25   (0)|
+|* 10 |        HASH JOIN         |                       |  2737 |    10   (0)|
+|  11 |         INDEX FULL SCAN  | PK_ODDELENIE          |   400 |     1   (0)|
+|* 12 |         TABLE ACCESS FULL| ZAMESTNANCI           |  2737 |     9   (0)|
+|  13 |        TABLE ACCESS FULL | VYSETRENIE            | 11563 |    15   (0)|
+|  14 |       BUFFER SORT        |                       | 11607 |  1161K  (1)|
+|  15 |        TABLE ACCESS FULL | ZDRAVOTNY_ZAZ         | 11607 |   100   (0)|
+-------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$0F5ACDD3
+   3 - SEL$0F5ACDD3 / H@SEL$3
+   5 - SEL$0F5ACDD3 / P@SEL$1
+   7 - SEL$0F5ACDD3 / ZK@SEL$1
+  11 - SEL$0F5ACDD3 / O@SEL$6
+  12 - SEL$0F5ACDD3 / Z@SEL$5
+  13 - SEL$0F5ACDD3 / V@SEL$4
+  15 - SEL$0F5ACDD3 / ZZ@SEL$2
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   2 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"" AND 
+              ""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+   6 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+   9 - access(""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+  10 - access(""O"".""ID_ODDELENIA""=""Z"".""ID_ODDELENIA"")
+  12 - filter(""Z"".""ID_ODDELENIA"" IS NOT NULL)
+",2026-05-21 23:00:38.422000
+Q4_6JOINS,NL,1,"Plan hash value: 173312676
+ 
+------------------------------------------------------------------------------------------------
+| Id  | Operation                                 | Name                  | Rows  | Cost (%CPU)|
+------------------------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT                          |                       |     1 |    69M  (1)|
+|   1 |  SORT AGGREGATE                           |                       |     1 |            |
+|   2 |   NESTED LOOPS                            |                       | 11563 |    69M  (1)|
+|   3 |    NESTED LOOPS                           |                       | 11563 |    69M  (1)|
+|   4 |     NESTED LOOPS                          |                       | 11563 |    69M  (1)|
+|   5 |      NESTED LOOPS                         |                       | 11564 |    69M  (1)|
+|   6 |       NESTED LOOPS                        |                       |    23M|    46M  (1)|
+|   7 |        NESTED LOOPS                       |                       |    23M| 15829   (1)|
+|   8 |         INDEX FAST FULL SCAN              | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|   9 |         INDEX FAST FULL SCAN              | PK_PACIENT            |  2008 |     1   (0)|
+|  10 |        TABLE ACCESS BY INDEX ROWID BATCHED| ZDRAVOTNA_KARTA       |     1 |     2   (0)|
+|* 11 |         INDEX RANGE SCAN                  | IX_RELATIONSHIP39     |     1 |     1   (0)|
+|* 12 |       TABLE ACCESS BY INDEX ROWID         | ZDRAVOTNY_ZAZ         |     1 |     1   (0)|
+|* 13 |        INDEX UNIQUE SCAN                  | PK_ZDRAVOTNY_ZAZ_NEW  |     1 |     0   (0)|
+|  14 |      TABLE ACCESS BY INDEX ROWID BATCHED  | VYSETRENIE            |     1 |     2   (0)|
+|* 15 |       INDEX RANGE SCAN                    | IX_RELATIONSHIP51_NEW |     1 |     1   (0)|
+|* 16 |     TABLE ACCESS FULL                     | ZAMESTNANCI           |     1 |     8   (0)|
+|* 17 |    INDEX UNIQUE SCAN                      | PK_ODDELENIE          |     1 |     0   (0)|
+------------------------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$0F5ACDD3
+   8 - SEL$0F5ACDD3 / H@SEL$3
+   9 - SEL$0F5ACDD3 / P@SEL$1
+  10 - SEL$0F5ACDD3 / ZK@SEL$1
+  11 - SEL$0F5ACDD3 / ZK@SEL$1
+  12 - SEL$0F5ACDD3 / ZZ@SEL$2
+  13 - SEL$0F5ACDD3 / ZZ@SEL$2
+  14 - SEL$0F5ACDD3 / V@SEL$4
+  15 - SEL$0F5ACDD3 / V@SEL$4
+  16 - SEL$0F5ACDD3 / Z@SEL$5
+  17 - SEL$0F5ACDD3 / O@SEL$6
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+  11 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+  12 - filter(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+  13 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+  15 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+  16 - filter(""Z"".""ID_ODDELENIA"" IS NOT NULL AND ""Z"".""CISLO_ZAM""=""V"".""CISLO_ZAM"")
+  17 - access(""O"".""ID_ODDELENIA""=""Z"".""ID_ODDELENIA"")
+",2026-05-21 23:09:21.589000
+Q5_7JOINS,BASE,null,PLAN CAPTURE ERROR: ORA-25154: stĺpcová časť klauzuly USING nemôže mať kvalifikátor,2026-05-21 23:18:59.478000
+Q5_7JOINS,HASH,null,PLAN CAPTURE ERROR: ORA-25154: stĺpcová časť klauzuly USING nemôže mať kvalifikátor,2026-05-21 23:18:59.494000
+Q5_7JOINS,NL,null,PLAN CAPTURE ERROR: ORA-25154: stĺpcová časť klauzuly USING nemôže mať kvalifikátor,2026-05-21 23:18:59.509000
+Q1_3JOINS,BASE,1,"Plan hash value: 3721894652
+ 
+------------------------------------------------------------------------------
+| Id  | Operation               | Name                  | Rows  | Cost (%CPU)|
+------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT        |                       |     1 |   117   (2)|
+|   1 |  SORT AGGREGATE         |                       |     1 |            |
+|   2 |   NESTED LOOPS          |                       | 11564 |   117   (2)|
+|*  3 |    HASH JOIN            |                       | 11564 |   115   (0)|
+|   4 |     INDEX FAST FULL SCAN| IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|   5 |     TABLE ACCESS FULL   | ZDRAVOTNY_ZAZ         | 11607 |   102   (0)|
+|*  6 |    INDEX UNIQUE SCAN    | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$854FF3E1
+   4 - SEL$854FF3E1 / H@SEL$3
+   5 - SEL$854FF3E1 / ZZ@SEL$2
+   6 - SEL$854FF3E1 / ZK@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   3 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   6 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+",2026-05-21 22:35:38.215000
+Q1_3JOINS,HASH,1,"Plan hash value: 1110746351
+ 
+-------------------------------------------------------------------------------
+| Id  | Operation                | Name                  | Rows  | Cost (%CPU)|
+-------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT         |                       |     1 |   124   (1)|
+|   1 |  SORT AGGREGATE          |                       |     1 |            |
+|*  2 |   HASH JOIN              |                       | 11607 |   124   (1)|
+|   3 |    INDEX FAST FULL SCAN  | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  4 |    HASH JOIN             |                       | 11607 |   110   (0)|
+|*  5 |     HASH JOIN            |                       |  1998 |     8   (0)|
+|   6 |      INDEX FAST FULL SCAN| PK_PACIENT            |  2008 |     3   (0)|
+|   7 |      TABLE ACCESS FULL   | ZDRAVOTNA_KARTA       |  1998 |     5   (0)|
+|   8 |     TABLE ACCESS FULL    | ZDRAVOTNY_ZAZ         | 11607 |   102   (0)|
+-------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$EE94F965
+   3 - SEL$EE94F965 / H@SEL$3
+   6 - SEL$EE94F965 / P@SEL$1
+   7 - SEL$EE94F965 / ZK@SEL$1
+   8 - SEL$EE94F965 / ZZ@SEL$2
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   2 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+   5 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+",2026-05-21 22:35:38.731000
+Q1_3JOINS,NL,1,"Plan hash value: 2617290297
+ 
+--------------------------------------------------------------------------------------
+| Id  | Operation                       | Name                  | Rows  | Cost (%CPU)|
+--------------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT                |                       |     1 | 23152   (1)|
+|   1 |  SORT AGGREGATE                 |                       |     1 |            |
+|   2 |   NESTED LOOPS                  |                       | 11564 | 23152   (1)|
+|   3 |    NESTED LOOPS                 |                       | 11564 | 23151   (1)|
+|   4 |     NESTED LOOPS                |                       | 11564 | 11582   (1)|
+|   5 |      INDEX FAST FULL SCAN       | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|   6 |      TABLE ACCESS BY INDEX ROWID| ZDRAVOTNY_ZAZ         |     1 |     1   (0)|
+|*  7 |       INDEX UNIQUE SCAN         | PK_ZDRAVOTNY_ZAZ_NEW  |     1 |     0   (0)|
+|   8 |     TABLE ACCESS BY INDEX ROWID | ZDRAVOTNA_KARTA       |     1 |     1   (0)|
+|*  9 |      INDEX UNIQUE SCAN          | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+|* 10 |    INDEX UNIQUE SCAN            | PK_PACIENT            |     1 |     0   (0)|
+--------------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$EE94F965
+   5 - SEL$EE94F965 / H@SEL$3
+   6 - SEL$EE94F965 / ZZ@SEL$2
+   7 - SEL$EE94F965 / ZZ@SEL$2
+   8 - SEL$EE94F965 / ZK@SEL$1
+   9 - SEL$EE94F965 / ZK@SEL$1
+  10 - SEL$EE94F965 / P@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   7 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   9 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+  10 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+",2026-05-21 22:35:39.278000
+Q2_4JOINS,BASE,1,"Plan hash value: 1883210498
+ 
+-------------------------------------------------------------------------------
+| Id  | Operation                | Name                  | Rows  | Cost (%CPU)|
+-------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT         |                       |     1 |   129   (2)|
+|   1 |  SORT AGGREGATE          |                       |     1 |            |
+|   2 |   NESTED LOOPS           |                       | 11563 |   129   (2)|
+|*  3 |    HASH JOIN             |                       | 11563 |   128   (1)|
+|*  4 |     HASH JOIN            |                       | 11563 |    25   (0)|
+|   5 |      INDEX FAST FULL SCAN| IX_RELATIONSHIP51_NEW | 11563 |    12   (0)|
+|   6 |      INDEX FAST FULL SCAN| IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|   7 |     TABLE ACCESS FULL    | ZDRAVOTNY_ZAZ         | 11607 |   102   (0)|
+|*  8 |    INDEX UNIQUE SCAN     | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+-------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$2859A59E
+   5 - SEL$2859A59E / V@SEL$4
+   6 - SEL$2859A59E / H@SEL$3
+   7 - SEL$2859A59E / ZZ@SEL$2
+   8 - SEL$2859A59E / ZK@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   3 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+   8 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+",2026-05-21 22:35:39.856000
+Q2_4JOINS,HASH,1,"Plan hash value: 2211801145
+ 
+--------------------------------------------------------------------------------
+| Id  | Operation                 | Name                  | Rows  | Cost (%CPU)|
+--------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT          |                       |     1 |  1163K  (1)|
+|   1 |  SORT AGGREGATE           |                       |     1 |            |
+|*  2 |   HASH JOIN               |                       | 11634 |  1163K  (1)|
+|   3 |    INDEX FAST FULL SCAN   | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  4 |    HASH JOIN              |                       |   134M|  1162K  (1)|
+|   5 |     INDEX FAST FULL SCAN  | PK_PACIENT            |  2008 |     3   (0)|
+|*  6 |     HASH JOIN             |                       |   134M|  1161K  (1)|
+|   7 |      TABLE ACCESS FULL    | ZDRAVOTNA_KARTA       |  1998 |     5   (0)|
+|   8 |      MERGE JOIN CARTESIAN |                       |   134M|  1161K  (1)|
+|   9 |       INDEX FAST FULL SCAN| IX_RELATIONSHIP51_NEW | 11563 |    12   (0)|
+|  10 |       BUFFER SORT         |                       | 11607 |  1161K  (1)|
+|  11 |        TABLE ACCESS FULL  | ZDRAVOTNY_ZAZ         | 11607 |   100   (0)|
+--------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$81719215
+   3 - SEL$81719215 / H@SEL$3
+   5 - SEL$81719215 / P@SEL$1
+   7 - SEL$81719215 / ZK@SEL$1
+   9 - SEL$81719215 / V@SEL$4
+  11 - SEL$81719215 / ZZ@SEL$2
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   2 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"" AND 
+              ""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+   4 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+   6 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+",2026-05-21 22:35:40.137000
+Q2_4JOINS,NL,1,"Plan hash value: 2607692375
+ 
+--------------------------------------------------------------------------------------
+| Id  | Operation                       | Name                  | Rows  | Cost (%CPU)|
+--------------------------------------------------------------------------------------
+|   0 | SELECT STATEMENT                |                       |     1 | 34719   (1)|
+|   1 |  SORT AGGREGATE                 |                       |     1 |            |
+|   2 |   NESTED LOOPS                  |                       | 11563 | 34719   (1)|
+|   3 |    NESTED LOOPS                 |                       | 11563 | 34718   (1)|
+|   4 |     NESTED LOOPS                |                       | 11563 | 23150   (1)|
+|   5 |      NESTED LOOPS               |                       | 11563 | 11582   (1)|
+|   6 |       INDEX FAST FULL SCAN      | IX_RELATIONSHIP52_NEW | 11564 |    13   (0)|
+|*  7 |       INDEX RANGE SCAN          | IX_RELATIONSHIP51_NEW |     1 |     1   (0)|
+|   8 |      TABLE ACCESS BY INDEX ROWID| ZDRAVOTNY_ZAZ         |     1 |     1   (0)|
+|*  9 |       INDEX UNIQUE SCAN         | PK_ZDRAVOTNY_ZAZ_NEW  |     1 |     0   (0)|
+|  10 |     TABLE ACCESS BY INDEX ROWID | ZDRAVOTNA_KARTA       |     1 |     1   (0)|
+|* 11 |      INDEX UNIQUE SCAN          | PK_ZDRAVOTNA_KARTA    |     1 |     0   (0)|
+|* 12 |    INDEX UNIQUE SCAN            | PK_PACIENT            |     1 |     0   (0)|
+--------------------------------------------------------------------------------------
+ 
+Query Block Name / Object Alias (identified by operation id):
+-------------------------------------------------------------
+ 
+   1 - SEL$81719215
+   6 - SEL$81719215 / H@SEL$3
+   7 - SEL$81719215 / V@SEL$4
+   8 - SEL$81719215 / ZZ@SEL$2
+   9 - SEL$81719215 / ZZ@SEL$2
+  10 - SEL$81719215 / ZK@SEL$1
+  11 - SEL$81719215 / ZK@SEL$1
+  12 - SEL$81719215 / P@SEL$1
+ 
+Predicate Information (identified by operation id):
+---------------------------------------------------
+ 
+   7 - access(""H"".""ID_ZAZNAMU""=""V"".""ID_ZAZNAMU"")
+   9 - access(""ZZ"".""ID_ZAZNAMU""=""H"".""ID_ZAZNAMU"")
+  11 - access(""ZK"".""ID_KARTY""=TO_NUMBER(""ZZ"".""ID_KARTY""))
+  12 - access(""P"".""ID_PACIENTA""=""ZK"".""ID_PACIENTA"")
+",2026-05-21 22:43:33.851000

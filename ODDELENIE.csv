@@ -1,0 +1,400 @@
+1,1,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",196
+2,1,Interné oddelenie,135
+3,1,Alergologické oddelenie,196
+4,1,Otorinolaryngologické oddelenie,115
+5,1,Rádiologické oddelenie,141
+6,1,Hematologické oddelenie,116
+7,1,Fyziatricko-rehablitačné oddelenie,127
+8,1,ARO,186
+9,1,Oddelenie gastroenetrológie,146
+10,1,Psychiatrické oddelenie,112
+11,2,Kožné oddelenie,137
+12,2,Oddelenie telovýchovného lekárstva,198
+13,2,Fyziatricko-rehablitačné oddelenie,124
+14,2,Neurochirurgické oddelenie,198
+15,2,Oddelenie liečebnej výživy a stravovania,100
+16,2,Psychiatrické oddelenie,188
+17,2,Onkologické oddelenie,188
+18,2,ARO,180
+19,2,Oddelenie telovýchovného lekárstva,145
+20,2,ARO,158
+21,3,Fyziatricko-rehablitačné oddelenie,124
+22,3,Otorinolaryngologické oddelenie,183
+23,3,Oddelenie urológie,163
+24,3,Detské oddelenie,154
+25,3,Chirurgické oddelenie,182
+26,3,Oddelenie gastroenetrológie,107
+27,3,Oddelenie cievnej chirurgie,135
+28,3,Nefrologické oddelenie,179
+29,3,Oddelenie gastroenetrológie,130
+30,3,Oddelenie plastickej chirurgie,142
+31,4,Chirurgicko-traumatologické oddelenie,150
+32,4,Neurologické oddelenie,117
+33,4,Endokrinologické oddelenie,171
+34,4,Psychiatrické oddelenie,100
+35,4,Nefrologické oddelenie,185
+36,4,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",172
+37,4,Oddelenie plastickej chirurgie,108
+38,4,Onkologické oddelenie,112
+39,4,Oddelenie urológie,196
+40,4,Alergologické oddelenie,139
+41,5,Oddelenie cievnej chirurgie,116
+42,5,Neurologické oddelenie,196
+43,5,Endokrinologické oddelenie,146
+44,5,Endokrinologické oddelenie,167
+45,5,Oddelenie plastickej chirurgie,140
+46,5,Detské oddelenie,171
+47,5,ARO,142
+48,5,Novorodenecké oddelenie,180
+49,5,Psychiatrické oddelenie,144
+50,5,ARO,123
+51,6,Endokrinologické oddelenie,178
+52,6,Nefrologické oddelenie,166
+53,6,Gynegologicko-pôrodnícke oddelenie,184
+54,6,Oddelenie dlhodobo chorých,197
+55,6,Neurochirurgické oddelenie,198
+56,6,Angiologické oddelenie,155
+57,6,Nefrologické oddelenie,145
+58,6,Angiologické oddelenie,183
+59,6,Onkologické oddelenie,135
+60,6,Oddelenie úrazovej chirurgie,129
+61,7,Alergologické oddelenie,120
+62,7,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",162
+63,7,Interné oddelenie,181
+64,7,Neurochirurgické oddelenie,156
+65,7,Angiologické oddelenie,173
+66,7,Nefrologické oddelenie,168
+67,7,Oddelenie liečebnej výživy a stravovania,185
+68,7,Oddelenie plastickej chirurgie,128
+69,7,Kožné oddelenie,129
+70,7,Oddelenie úrazovej chirurgie,116
+71,8,ARO,110
+72,8,Gynegologicko-pôrodnícke oddelenie,151
+73,8,Rádiodiagnostické oddelenie,102
+74,8,Onkologické oddelenie,110
+75,8,Oddelenie telovýchovného lekárstva,178
+76,8,Oddelenie kardiológie,116
+77,8,Fyziatricko-rehablitačné oddelenie,132
+78,8,Oddelenie plastickej chirurgie,199
+79,8,JIP,180
+80,8,Novorodenecké oddelenie,144
+81,9,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",188
+82,9,Otorinolaryngologické oddelenie,178
+83,9,Rádiodiagnostické oddelenie,144
+84,9,Geriatrické oddelenie,187
+85,9,Oddelenie plastickej chirurgie,179
+86,9,Angiologické oddelenie,135
+87,9,Úrazové oddelenie,181
+88,9,Detské oddelenie,129
+89,9,JIP,173
+90,9,Ortopedické oddelenie,189
+91,10,JIP,150
+92,10,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",132
+93,10,Oddelenie urológie,101
+94,10,Anesteziologické oddelenie,175
+95,10,Chirurgicko-traumatologické oddelenie,112
+96,10,Oddelenie liečebnej výživy a stravovania,187
+97,10,Oddelenie úrazovej chirurgie,113
+98,10,Otorinolaryngologické oddelenie,177
+99,10,Oddelenie dlhodobo chorých,174
+100,10,Rádiodiagnostické oddelenie,195
+101,11,Anesteziologické oddelenie,173
+102,11,Anesteziologické oddelenie,129
+103,11,Oddelenie telovýchovného lekárstva,114
+104,11,Angiologické oddelenie,186
+105,11,Chirurgické oddelenie,199
+106,11,Chirurgicko-traumatologické oddelenie,113
+107,11,JIP,151
+108,11,Otorinolaryngologické oddelenie,160
+109,11,Angiologické oddelenie,119
+110,11,Kožné oddelenie,187
+111,12,Nefrologické oddelenie,107
+112,12,Oddelenie úrazovej chirurgie,106
+113,12,Pľúcne oddelenie,155
+114,12,Novorodenecké oddelenie,112
+115,12,Endokrinologické oddelenie,161
+116,12,Chirurgicko-traumatologické oddelenie,106
+117,12,Chirurgicko-traumatologické oddelenie,186
+118,12,Gynegologicko-pôrodnícke oddelenie,101
+119,12,Onkologické oddelenie,148
+120,12,Detské oddelenie,191
+121,13,Neurochirurgické oddelenie,147
+122,13,Psychiatrické oddelenie,161
+123,13,Rádiodiagnostické oddelenie,162
+124,13,Gynegologicko-pôrodnícke oddelenie,143
+125,13,Urologické oddelenie,103
+126,13,Chirurgické oddelenie,172
+127,13,Oddelenie gastroenetrológie,112
+128,13,Neurochirurgické oddelenie,125
+129,13,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",131
+130,13,Detské oddelenie,113
+131,14,Neurochirurgické oddelenie,133
+132,14,JIP,177
+133,14,Ortopedické oddelenie,165
+134,14,Hematologické oddelenie,156
+135,14,Oddelenie gastroenetrológie,113
+136,14,Anesteziologické oddelenie,151
+137,14,Novorodenecké oddelenie,185
+138,14,Infekčné oddelenie,165
+139,14,Rádiologické oddelenie,121
+140,14,Oddelenie pneumológie,139
+141,15,ARO,113
+142,15,Interné oddelenie,149
+143,15,Interné oddelenie,176
+144,15,Neurologické oddelenie,129
+145,15,Hematologické oddelenie,144
+146,15,JIP,133
+147,15,ARO,112
+148,15,Chirurgicko-traumatologické oddelenie,172
+149,15,Geriatrické oddelenie,181
+294,30,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",121
+295,30,Kožné oddelenie,192
+296,30,Otorinolaryngologické oddelenie,158
+297,30,Oddelenie plastickej chirurgie,134
+298,30,Chirurgicko-traumatologické oddelenie,106
+299,30,Oddelenie plastickej chirurgie,173
+300,30,Oddelenie úrazovej chirurgie,196
+301,31,Oddelenie liečebnej výživy a stravovania,108
+302,31,Kožné oddelenie,170
+303,31,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",106
+304,31,Fyziatricko-rehablitačné oddelenie,148
+305,31,Nefrologické oddelenie,119
+306,31,Oddelenie telovýchovného lekárstva,166
+307,31,Onkologické oddelenie,190
+308,31,Interné oddelenie,187
+309,31,Chirurgické oddelenie,146
+310,31,Angiologické oddelenie,162
+311,32,Angiologické oddelenie,161
+312,32,Neurochirurgické oddelenie,173
+313,32,Novorodenecké oddelenie,158
+314,32,Rádiologické oddelenie,163
+315,32,Infekčné oddelenie,200
+316,32,Oddelenie kardiológie,146
+317,32,Oddelenie dlhodobo chorých,176
+318,32,Chirurgické oddelenie,187
+319,32,JIP,195
+320,32,Oddelenie cievnej chirurgie,116
+321,33,JIP,136
+322,33,Interné oddelenie,176
+323,33,Neurochirurgické oddelenie,112
+324,33,Urologické oddelenie,199
+325,33,Oddelenie plastickej chirurgie,189
+326,33,Oddelenie gastroenetrológie,143
+327,33,Urologické oddelenie,190
+328,33,Úrazové oddelenie,152
+329,33,Oddelenie cievnej chirurgie,199
+330,33,Fyziatricko-rehablitačné oddelenie,148
+331,34,Pľúcne oddelenie,188
+332,34,Oddelenie urológie,152
+333,34,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",182
+334,34,Očné oddelenie,123
+335,34,Chirurgické oddelenie,104
+336,34,Onkologické oddelenie,158
+337,34,Neurochirurgické oddelenie,181
+338,34,JIP,183
+339,34,Anesteziologické oddelenie,156
+340,34,Onkologické oddelenie,110
+341,35,Kožné oddelenie,154
+342,35,Neurologické oddelenie,136
+343,35,Detské oddelenie,116
+344,35,Angiologické oddelenie,130
+345,35,Oddelenie cievnej chirurgie,139
+346,35,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",118
+347,35,Úrazové oddelenie,144
+348,35,Endokrinologické oddelenie,168
+349,35,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",181
+350,35,Fyziatricko-rehablitačné oddelenie,181
+351,36,Hematologické oddelenie,157
+352,36,Otorinolaryngologické oddelenie,113
+353,36,Úrazové oddelenie,176
+354,36,Oddelenie liečebnej výživy a stravovania,198
+355,36,Oddelenie úrazovej chirurgie,122
+356,36,Infekčné oddelenie,118
+357,36,Oddelenie telovýchovného lekárstva,166
+358,36,Endokrinologické oddelenie,124
+359,36,Oddelenie liečebnej výživy a stravovania,108
+360,36,Rádiologické oddelenie,104
+361,37,Oddelenie plastickej chirurgie,116
+362,37,Endokrinologické oddelenie,191
+363,37,Hematologické oddelenie,125
+364,37,Oddelenie cievnej chirurgie,141
+365,37,Gynegologicko-pôrodnícke oddelenie,165
+366,37,Alergologické oddelenie,150
+367,37,Endokrinologické oddelenie,191
+368,37,Očné oddelenie,100
+369,37,Psychiatrické oddelenie,186
+370,37,Oddelenie telovýchovného lekárstva,157
+371,38,Kožné oddelenie,112
+372,38,Rádiodiagnostické oddelenie,159
+373,38,Endokrinologické oddelenie,112
+374,38,Oddelenie liečebnej výživy a stravovania,157
+375,38,Onkologické oddelenie,142
+376,38,Oddelenie dlhodobo chorých,188
+377,38,JIP,198
+378,38,Chirurgicko-traumatologické oddelenie,154
+379,38,ARO,167
+380,38,Neurologické oddelenie,177
+381,39,Endokrinologické oddelenie,102
+382,39,Oddelenie telovýchovného lekárstva,151
+383,39,JIP,101
+384,39,Oddelenie liečebnej výživy a stravovania,113
+385,39,Angiologické oddelenie,148
+386,39,Fyziatricko-rehablitačné oddelenie,113
+387,39,Interné oddelenie,164
+388,39,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",135
+389,39,Oddelenie úrazovej chirurgie,105
+390,39,Otorinolaryngologické oddelenie,161
+391,40,Oddelenie telovýchovného lekárstva,114
+392,40,Oddelenie dlhodobo chorých,167
+393,40,Gynegologicko-pôrodnícke oddelenie,187
+394,40,Detské oddelenie,161
+395,40,Gynegologicko-pôrodnícke oddelenie,142
+396,40,Fyziatricko-rehablitačné oddelenie,148
+397,40,Onkologické oddelenie,126
+398,40,Oddelenie telovýchovného lekárstva,144
+399,40,Detské oddelenie,141
+400,40,Úrazové oddelenie,167
+150,15,Oddelenie telovýchovného lekárstva,121
+151,16,Otorinolaryngologické oddelenie,189
+152,16,Angiologické oddelenie,196
+153,16,Oddelenie pneumológie,184
+154,16,Oddelenie dlhodobo chorých,148
+155,16,Gynegologicko-pôrodnícke oddelenie,185
+156,16,Oddelenie gastroenetrológie,177
+157,16,Úrazové oddelenie,133
+158,16,Hematologické oddelenie,165
+159,16,Oddelenie pneumológie,126
+160,16,Chirurgické oddelenie,118
+161,17,Alergologické oddelenie,177
+162,17,Oddelenie kardiológie,180
+163,17,Oddelenie dlhodobo chorých,132
+164,17,Oddelenie gastroenetrológie,176
+165,17,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",107
+166,17,Interné oddelenie,172
+167,17,Detské oddelenie,177
+168,17,Urologické oddelenie,126
+169,17,Alergologické oddelenie,149
+170,17,Infekčné oddelenie,163
+171,18,Alergologické oddelenie,141
+172,18,Oddelenie úrazovej chirurgie,145
+173,18,Novorodenecké oddelenie,129
+174,18,Novorodenecké oddelenie,125
+175,18,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",142
+176,18,Neurochirurgické oddelenie,164
+177,18,Angiologické oddelenie,129
+178,18,Angiologické oddelenie,102
+179,18,Geriatrické oddelenie,164
+180,18,Oddelenie pneumológie,198
+181,19,Ortopedické oddelenie,156
+182,19,Oddelenie kardiológie,191
+183,19,Angiologické oddelenie,199
+184,19,Endokrinologické oddelenie,193
+185,19,Geriatrické oddelenie,140
+186,19,Fyziatricko-rehablitačné oddelenie,158
+187,19,Rádiodiagnostické oddelenie,104
+188,19,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",149
+189,19,Oddelenie plastickej chirurgie,187
+190,19,Kožné oddelenie,132
+191,20,Angiologické oddelenie,106
+192,20,Oddelenie dlhodobo chorých,144
+193,20,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",101
+194,20,Ortopedické oddelenie,149
+195,20,Interné oddelenie,129
+196,20,Chirurgické oddelenie,184
+197,20,Chirurgické oddelenie,124
+198,20,Onkologické oddelenie,194
+199,20,Endokrinologické oddelenie,134
+200,20,Hematologické oddelenie,195
+201,21,ARO,125
+202,21,Pľúcne oddelenie,132
+203,21,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",152
+204,21,Oddelenie cievnej chirurgie,195
+205,21,Oddelenie gastroenetrológie,193
+206,21,Nefrologické oddelenie,111
+207,21,Hematologické oddelenie,127
+208,21,Rádiologické oddelenie,122
+209,21,Neurologické oddelenie,133
+210,21,Otorinolaryngologické oddelenie,125
+211,22,Chirurgicko-traumatologické oddelenie,173
+212,22,Oddelenie telovýchovného lekárstva,191
+213,22,Úrazové oddelenie,130
+214,22,Alergologické oddelenie,167
+215,22,JIP,132
+216,22,JIP,154
+217,22,Kožné oddelenie,125
+218,22,Rádiodiagnostické oddelenie,108
+219,22,Detské oddelenie,153
+220,22,Oddelenie pneumológie,163
+221,23,Detské oddelenie,125
+222,23,Oddelenie liečebnej výživy a stravovania,176
+223,23,Detské oddelenie,161
+224,23,Hematologické oddelenie,125
+225,23,Oddelenie gastroenetrológie,167
+226,23,Rádiodiagnostické oddelenie,100
+227,23,Chirurgické oddelenie,163
+228,23,Gynegologicko-pôrodnícke oddelenie,174
+229,23,Rádiodiagnostické oddelenie,164
+230,23,Hematologické oddelenie,179
+231,24,Geriatrické oddelenie,157
+232,24,Anesteziologické oddelenie,105
+233,24,Oddelenie plastickej chirurgie,197
+234,24,Gynegologicko-pôrodnícke oddelenie,196
+235,24,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",143
+236,24,Oddelenie kardiológie,115
+237,24,Oddelenie kardiológie,191
+238,24,Oddelenie telovýchovného lekárstva,190
+239,24,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",195
+240,24,Pľúcne oddelenie,162
+241,25,Geriatrické oddelenie,158
+242,25,Kožné oddelenie,125
+243,25,"Oddelenie ústnej, čeľustnej a tvárovej chirurgie",152
+244,25,Kožné oddelenie,126
+245,25,Oddelenie gastroenetrológie,122
+246,25,Geriatrické oddelenie,101
+247,25,Rádiodiagnostické oddelenie,120
+248,25,Očné oddelenie,163
+249,25,Geriatrické oddelenie,100
+250,25,Otorinolaryngologické oddelenie,165
+251,26,Úrazové oddelenie,196
+252,26,Oddelenie liečebnej výživy a stravovania,188
+253,26,Chirurgické oddelenie,157
+254,26,Rádiodiagnostické oddelenie,167
+255,26,Anesteziologické oddelenie,133
+256,26,Kožné oddelenie,149
+257,26,Hematologické oddelenie,118
+258,26,Rádiologické oddelenie,200
+259,26,Oddelenie dlhodobo chorých,166
+260,26,Chirurgické oddelenie,131
+261,27,Neurochirurgické oddelenie,162
+262,27,Oddelenie plastickej chirurgie,198
+263,27,Ortopedické oddelenie,137
+264,27,Otorinolaryngologické oddelenie,113
+265,27,Pľúcne oddelenie,112
+266,27,Fyziatricko-rehablitačné oddelenie,123
+267,27,Neurochirurgické oddelenie,132
+268,27,Detské oddelenie,117
+269,27,Oddelenie plastickej chirurgie,145
+270,27,Oddelenie telovýchovného lekárstva,157
+271,28,Oddelenie kardiológie,141
+272,28,Oddelenie gastroenetrológie,180
+273,28,Alergologické oddelenie,103
+274,28,Chirurgické oddelenie,143
+275,28,Endokrinologické oddelenie,155
+276,28,Oddelenie urológie,181
+277,28,Oddelenie liečebnej výživy a stravovania,133
+278,28,Novorodenecké oddelenie,128
+279,28,Pľúcne oddelenie,168
+280,28,Oddelenie cievnej chirurgie,170
+281,29,Nefrologické oddelenie,115
+282,29,Otorinolaryngologické oddelenie,198
+283,29,Chirurgické oddelenie,129
+284,29,Chirurgicko-traumatologické oddelenie,151
+285,29,Ortopedické oddelenie,116
+286,29,Geriatrické oddelenie,186
+287,29,Neurologické oddelenie,200
+288,29,Neurologické oddelenie,185
+289,29,Nefrologické oddelenie,124
+290,29,Novorodenecké oddelenie,119
+291,30,Rádiodiagnostické oddelenie,167
+292,30,Oddelenie úrazovej chirurgie,190
+293,30,Oddelenie kardiológie,134

@@ -1,0 +1,1003 @@
+1,2025-02-10 11:12:21.107000,2025-02-10 13:12:21.107000,Koncert,Rock Festival,5000,Bezpečnostné opatrenia prijaté
+2,2025-02-10 11:12:21.810000,2025-02-10 14:12:21.810000,Športový zápas,Futbalový turnaj,15000,Zvýšená bezpečnosť
+3,2025-02-10 11:12:22.450000,2025-02-10 15:12:22.450000,Mestská oslava,Deň mesta,2000,Rodinná atmosféra
+954,2024-08-24 13:24:00.000000,2024-08-24 14:11:48.000000,Vzdelávacie podujatie,Hackathon pre študentov,128,Počas podujatia došlo k nepredvídaným komplikáciám.
+955,2024-04-21 09:32:00.000000,2024-04-21 10:14:07.000000,Športové podujatie,Národný šachový turnaj,3943,Podujatie prebiehalo bez incidentov.
+956,2024-11-03 11:48:00.000000,2024-11-03 12:30:57.000000,Kultúrne podujatie,Jazzový koncert v parku,1114,Nahlásené menšie technické problémy.
+957,2024-03-25 12:53:00.000000,2024-03-25 13:39:14.000000,Kultúrne podujatie,Literárna noc v knižnici,361,Počas podujatia došlo k nepredvídaným komplikáciám.
+958,2024-09-18 10:17:00.000000,2024-09-18 10:57:48.000000,Politické a spoločenské podujatie,Pochod za práva žien,2996,Nahlásené menšie technické problémy.
+959,2024-11-22 12:57:00.000000,2024-11-22 13:44:17.000000,Kultúrne podujatie,Výstava súčasného umenia,436,Počas podujatia došlo k nepredvídaným komplikáciám.
+960,2024-10-27 11:20:00.000000,2024-10-27 12:03:08.000000,Politické a spoločenské podujatie,Pochod za práva žien,1325,Z bezpečnostných dôvodov boli prijaté opatrenia.
+961,2024-06-03 16:08:00.000000,2024-06-03 16:49:09.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,489,Nahlásené menšie technické problémy.
+962,2024-05-30 12:59:00.000000,2024-05-30 13:46:57.000000,Verejná akcia,Letný mestský piknik,242,Nahlásené menšie technické problémy.
+963,2024-07-11 16:31:00.000000,2024-07-11 17:14:56.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,137,Z bezpečnostných dôvodov boli prijaté opatrenia.
+964,2025-02-10 10:47:00.000000,2025-02-10 11:31:58.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2238,Z bezpečnostných dôvodov boli prijaté opatrenia.
+965,2024-02-28 08:03:00.000000,2024-02-28 08:51:20.000000,Verejná akcia,Mestská diskusia so starostom,360,Z bezpečnostných dôvodov boli prijaté opatrenia.
+966,2024-10-05 08:32:00.000000,2024-10-05 09:21:23.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,720,"Veľký záujem verejnosti, vysoká účasť."
+967,2024-06-30 18:10:00.000000,2024-06-30 18:53:01.000000,Neočakávané podujatie,Náhly výpadok elektriny,21,Z bezpečnostných dôvodov boli prijaté opatrenia.
+968,2024-07-30 17:12:00.000000,2024-07-30 17:53:38.000000,Športové podujatie,Hokejový zápas finále ligy,3237,Nahlásené menšie technické problémy.
+969,2024-04-14 13:02:00.000000,2024-04-14 13:48:21.000000,Verejná akcia,Svetový deň dobrovoľníctva,261,Podujatie malo pozitívny ohlas v médiách.
+970,2024-12-14 17:56:00.000000,2024-12-14 18:41:25.000000,Neočakávané podujatie,Havária vodovodného potrubia,92,"Veľký záujem verejnosti, vysoká účasť."
+971,2024-03-03 10:37:00.000000,2024-03-03 11:17:53.000000,Športové podujatie,Bežecká súťaž na 10 km,1844,Počas podujatia došlo k nepredvídaným komplikáciám.
+972,2024-04-23 19:22:00.000000,2024-04-23 20:06:38.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,435,Podujatie prebiehalo bez incidentov.
+973,2024-10-04 19:08:00.000000,2024-10-04 19:48:54.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,298,Počas podujatia došlo k nepredvídaným komplikáciám.
+974,2024-10-20 08:03:00.000000,2024-10-20 08:51:42.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,203,Počas podujatia došlo k nepredvídaným komplikáciám.
+975,2024-08-03 08:27:00.000000,2024-08-03 09:12:59.000000,Neočakávané podujatie,Havária vodovodného potrubia,168,Podujatie malo pozitívny ohlas v médiách.
+976,2024-08-09 08:05:00.000000,2024-08-09 08:45:40.000000,Súkromná udalosť,Firemný teambuilding,44,Nahlásené menšie technické problémy.
+977,2024-03-03 15:33:00.000000,2024-03-03 16:21:12.000000,Súkromná udalosť,Rodinné stretnutie v parku,53,Podujatie malo pozitívny ohlas v médiách.
+978,2024-02-11 19:44:00.000000,2024-02-11 20:24:39.000000,Mimoriadna udalosť,Policajná operácia v centre,97,Počas podujatia došlo k nepredvídaným komplikáciám.
+979,2024-12-31 14:42:00.000000,2024-12-31 15:22:46.000000,Súkromná udalosť,Firemný teambuilding,46,Počas podujatia došlo k nepredvídaným komplikáciám.
+980,2024-05-08 09:02:00.000000,2024-05-08 09:43:02.000000,Neočakávané podujatie,Náhly výpadok elektriny,103,Počas podujatia došlo k nepredvídaným komplikáciám.
+981,2024-06-26 19:16:00.000000,2024-06-26 20:04:53.000000,Neočakávané podujatie,Náhly výpadok elektriny,112,Z bezpečnostných dôvodov boli prijaté opatrenia.
+982,2024-08-14 10:01:00.000000,2024-08-14 10:45:39.000000,Športové podujatie,Svetový šampionát v plávaní,1240,"Veľký záujem verejnosti, vysoká účasť."
+983,2024-11-17 08:10:00.000000,2024-11-17 08:57:01.000000,Kultúrne podujatie,Letný filmový festival,1362,"Veľký záujem verejnosti, vysoká účasť."
+984,2024-07-18 12:08:00.000000,2024-07-18 12:56:05.000000,Kultúrne podujatie,Stand-up comedy večer,916,Podujatie malo pozitívny ohlas v médiách.
+985,2024-11-10 13:46:00.000000,2024-11-10 14:30:35.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,363,Podujatie prebiehalo bez incidentov.
+986,2024-03-24 18:28:00.000000,2024-03-24 19:17:41.000000,Vzdelávacie podujatie,Hackathon pre študentov,443,Nahlásené menšie technické problémy.
+987,2024-12-11 14:12:00.000000,2024-12-11 14:57:24.000000,Vopred nahlásené podujatie,Celomestská dobrovoľnícka akcia,682,Nahlásené menšie technické problémy.
+988,2024-07-06 10:07:00.000000,2024-07-06 10:49:29.000000,Športové podujatie,Hokejový zápas finále ligy,3806,Nahlásené menšie technické problémy.
+989,2024-08-09 09:08:00.000000,2024-08-09 09:54:28.000000,Športové podujatie,Bežecká súťaž na 10 km,3057,Podujatie malo pozitívny ohlas v médiách.
+990,2025-01-20 13:21:00.000000,2025-01-20 14:05:21.000000,Súkromná udalosť,Rodinné stretnutie v parku,63,Podujatie prebiehalo bez incidentov.
+991,2024-05-07 11:28:00.000000,2024-05-07 12:13:10.000000,Súkromná udalosť,Rodinné stretnutie v parku,50,Podujatie malo pozitívny ohlas v médiách.
+992,2024-02-25 18:45:00.000000,2024-02-25 19:33:21.000000,Politické a spoločenské podujatie,Pochod za práva žien,2620,Nahlásené menšie technické problémy.
+993,2024-06-24 16:25:00.000000,2024-06-24 17:07:22.000000,Mimoriadna udalosť,Policajná operácia v centre,835,Podujatie malo pozitívny ohlas v médiách.
+994,2024-08-09 11:55:00.000000,2024-08-09 12:38:06.000000,Súkromná udalosť,Rodinné stretnutie v parku,25,Nahlásené menšie technické problémy.
+995,2024-11-08 08:46:00.000000,2024-11-08 09:33:52.000000,Športové podujatie,Bežecká súťaž na 10 km,4141,Nahlásené menšie technické problémy.
+996,2024-05-06 09:27:00.000000,2024-05-06 10:08:33.000000,Verejná akcia,Svetový deň dobrovoľníctva,715,Nahlásené menšie technické problémy.
+997,2024-07-16 10:55:00.000000,2024-07-16 11:38:37.000000,Verejná akcia,Mestská diskusia so starostom,437,Nahlásené menšie technické problémy.
+998,2024-12-12 10:24:00.000000,2024-12-12 11:06:55.000000,Mimoriadna udalosť,Policajná operácia v centre,106,Nahlásené menšie technické problémy.
+999,2024-10-24 13:42:00.000000,2024-10-24 14:28:16.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,193,Z bezpečnostných dôvodov boli prijaté opatrenia.
+1000,2024-09-04 15:15:00.000000,2024-09-04 16:00:36.000000,Športové podujatie,Svetový šampionát v plávaní,3078,Nahlásené menšie technické problémy.
+1001,2024-12-03 17:26:00.000000,2024-12-03 18:06:58.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,151,Podujatie prebiehalo bez incidentov.
+1002,2024-05-01 13:12:00.000000,2024-05-01 13:54:11.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,486,Podujatie prebiehalo bez incidentov.
+1003,2024-05-29 17:27:00.000000,2024-05-29 18:10:33.000000,Športové podujatie,Bežecká súťaž na 10 km,1276,Počas podujatia došlo k nepredvídaným komplikáciám.
+396,2024-04-03 16:42:00.000000,2024-04-03 17:26:03.000000,Kultúrne podujatie,Výstava súčasného umenia,1164,"Veľký záujem verejnosti, vysoká účasť."
+397,2024-03-11 12:55:00.000000,2024-03-11 13:36:36.000000,Verejná akcia,Svetový deň dobrovoľníctva,410,Počas podujatia došlo k nepredvídaným komplikáciám.
+398,2025-01-25 15:44:00.000000,2025-01-25 16:29:05.000000,Športové podujatie,Hokejový zápas finále ligy,4179,Nahlásené menšie technické problémy.
+399,2024-04-20 18:02:00.000000,2024-04-20 18:43:08.000000,Náboženské a duchovné podujatie,Meditačný workshop,738,Počas podujatia došlo k nepredvídaným komplikáciám.
+400,2025-01-01 14:24:00.000000,2025-01-01 15:13:55.000000,Športové podujatie,Bežecká súťaž na 10 km,4074,Z bezpečnostných dôvodov boli prijaté opatrenia.
+401,2024-09-26 15:35:00.000000,2024-09-26 16:24:48.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,274,Nahlásené menšie technické problémy.
+402,2024-07-28 07:58:00.000000,2024-07-28 08:39:55.000000,Mimoriadna udalosť,Policajná operácia v centre,720,Z bezpečnostných dôvodov boli prijaté opatrenia.
+403,2024-03-09 13:02:00.000000,2024-03-09 13:46:04.000000,Športové podujatie,Medzinárodný futbalový turnaj,4299,Podujatie malo pozitívny ohlas v médiách.
+404,2024-07-18 10:09:00.000000,2024-07-18 10:51:55.000000,Športové podujatie,Medzinárodný futbalový turnaj,3668,Počas podujatia došlo k nepredvídaným komplikáciám.
+405,2024-08-01 17:02:00.000000,2024-08-01 17:45:10.000000,Kultúrne podujatie,Stand-up comedy večer,1488,"Veľký záujem verejnosti, vysoká účasť."
+406,2024-12-24 16:50:00.000000,2024-12-24 17:36:40.000000,Kultúrne podujatie,Letný filmový festival,843,Počas podujatia došlo k nepredvídaným komplikáciám.
+407,2025-02-10 11:02:11.950000,2025-02-10 11:46:11.950000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,437,Podujatie prebiehalo bez incidentov.
+408,2024-10-15 09:45:00.000000,2024-10-15 10:32:34.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,254,Z bezpečnostných dôvodov boli prijaté opatrenia.
+409,2024-05-31 12:59:00.000000,2024-05-31 13:47:56.000000,Verejná akcia,Mestská diskusia so starostom,443,Podujatie malo pozitívny ohlas v médiách.
+410,2024-09-15 15:57:00.000000,2024-09-15 16:40:18.000000,Športové podujatie,Hokejový zápas finále ligy,1140,Počas podujatia došlo k nepredvídaným komplikáciám.
+411,2025-02-07 13:46:00.000000,2025-02-07 14:26:57.000000,Kultúrne podujatie,Jazzový koncert v parku,1247,Nahlásené menšie technické problémy.
+412,2024-09-20 17:08:00.000000,2024-09-20 17:50:22.000000,Športové podujatie,Hokejový zápas finále ligy,4968,Z bezpečnostných dôvodov boli prijaté opatrenia.
+413,2024-07-30 12:59:00.000000,2024-07-30 13:47:33.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,696,"Veľký záujem verejnosti, vysoká účasť."
+414,2024-07-16 18:32:00.000000,2024-07-16 19:15:50.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,484,Podujatie malo pozitívny ohlas v médiách.
+415,2024-10-15 12:42:00.000000,2024-10-15 13:22:44.000000,Verejná akcia,Pouličný trh a remeslá,217,Nahlásené menšie technické problémy.
+416,2024-11-03 11:16:00.000000,2024-11-03 12:06:01.000000,Verejná akcia,Letný mestský piknik,283,Počas podujatia došlo k nepredvídaným komplikáciám.
+417,2024-06-17 17:59:00.000000,2024-06-17 18:48:52.000000,Súkromná udalosť,Rodinné stretnutie v parku,96,Nahlásené menšie technické problémy.
+418,2024-04-14 18:44:00.000000,2024-04-14 19:33:11.000000,Športové podujatie,Svetový šampionát v plávaní,3792,Nahlásené menšie technické problémy.
+419,2024-08-17 12:18:00.000000,2024-08-17 12:59:20.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,558,Nahlásené menšie technické problémy.
+420,2024-12-11 08:38:00.000000,2024-12-11 09:23:01.000000,Súkromná udalosť,Rodinné stretnutie v parku,54,Z bezpečnostných dôvodov boli prijaté opatrenia.
+421,2024-08-20 15:27:00.000000,2024-08-20 16:15:36.000000,Športové podujatie,Národný šachový turnaj,2395,Nahlásené menšie technické problémy.
+422,2024-03-26 08:01:00.000000,2024-03-26 08:48:23.000000,Športové podujatie,Svetový šampionát v plávaní,3309,Z bezpečnostných dôvodov boli prijaté opatrenia.
+423,2024-10-24 18:05:00.000000,2024-10-24 18:47:16.000000,Súkromná udalosť,Firemný teambuilding,35,Počas podujatia došlo k nepredvídaným komplikáciám.
+424,2024-06-25 13:12:00.000000,2024-06-25 13:58:44.000000,Verejná akcia,Mestská diskusia so starostom,691,Podujatie prebiehalo bez incidentov.
+425,2024-11-03 15:29:00.000000,2024-11-03 16:13:54.000000,Súkromná udalosť,Firemný teambuilding,38,Podujatie prebiehalo bez incidentov.
+426,2024-08-04 08:38:00.000000,2024-08-04 09:23:09.000000,Neočakávané podujatie,Náhly výpadok elektriny,184,Počas podujatia došlo k nepredvídaným komplikáciám.
+427,2024-08-17 19:34:00.000000,2024-08-17 20:18:18.000000,Športové podujatie,Hokejový zápas finále ligy,3206,Z bezpečnostných dôvodov boli prijaté opatrenia.
+428,2024-06-23 13:19:00.000000,2024-06-23 14:06:06.000000,Vzdelávacie podujatie,Hackathon pre študentov,317,Podujatie malo pozitívny ohlas v médiách.
+429,2024-11-22 08:57:00.000000,2024-11-22 09:39:35.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,560,Počas podujatia došlo k nepredvídaným komplikáciám.
+430,2024-07-13 10:36:00.000000,2024-07-13 11:25:52.000000,Športové podujatie,Svetový šampionát v plávaní,2989,Podujatie malo pozitívny ohlas v médiách.
+431,2024-06-03 09:51:00.000000,2024-06-03 10:39:28.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,488,Počas podujatia došlo k nepredvídaným komplikáciám.
+432,2024-06-06 18:48:00.000000,2024-06-06 19:33:22.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,408,"Veľký záujem verejnosti, vysoká účasť."
+433,2024-05-02 19:09:00.000000,2024-05-02 19:58:57.000000,Športové podujatie,Svetový šampionát v plávaní,2182,Z bezpečnostných dôvodov boli prijaté opatrenia.
+434,2024-12-30 13:05:00.000000,2024-12-30 13:49:27.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,454,Podujatie prebiehalo bez incidentov.
+435,2024-05-24 18:25:00.000000,2024-05-24 19:07:59.000000,Športové podujatie,Národný šachový turnaj,4777,Nahlásené menšie technické problémy.
+436,2024-12-17 16:04:00.000000,2024-12-17 16:49:34.000000,Kultúrne podujatie,Jazzový koncert v parku,948,Z bezpečnostných dôvodov boli prijaté opatrenia.
+437,2024-07-21 14:46:00.000000,2024-07-21 15:28:49.000000,Neočakávané podujatie,Náhly výpadok elektriny,136,Podujatie malo pozitívny ohlas v médiách.
+438,2025-01-19 10:43:00.000000,2025-01-19 11:31:15.000000,Neočakávané podujatie,Náhla evakuácia budovy,29,Nahlásené menšie technické problémy.
+439,2025-01-24 14:03:00.000000,2025-01-24 14:48:48.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,954,Nahlásené menšie technické problémy.
+440,2024-08-16 18:24:00.000000,2024-08-16 19:07:02.000000,Neočakávané podujatie,Náhla evakuácia budovy,56,Podujatie prebiehalo bez incidentov.
+441,2025-01-18 13:46:00.000000,2025-01-18 14:30:12.000000,Súkromná udalosť,Svadobná hostina,39,Podujatie malo pozitívny ohlas v médiách.
+442,2024-09-10 12:55:00.000000,2024-09-10 13:39:23.000000,Verejná akcia,Pouličný trh a remeslá,62,Z bezpečnostných dôvodov boli prijaté opatrenia.
+443,2024-06-11 16:43:00.000000,2024-06-11 17:24:37.000000,Súkromná udalosť,Rodinné stretnutie v parku,16,Nahlásené menšie technické problémy.
+444,2024-08-18 17:09:00.000000,2024-08-18 17:50:50.000000,Náboženské a duchovné podujatie,Meditačný workshop,504,Podujatie malo pozitívny ohlas v médiách.
+445,2024-09-05 13:49:00.000000,2024-09-05 14:33:05.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,864,Podujatie prebiehalo bez incidentov.
+446,2024-12-25 11:11:00.000000,2024-12-25 11:52:37.000000,Športové podujatie,Hokejový zápas finále ligy,3657,Z bezpečnostných dôvodov boli prijaté opatrenia.
+447,2024-05-20 19:03:00.000000,2024-05-20 19:51:30.000000,Neočakávané podujatie,Náhla evakuácia budovy,159,Nahlásené menšie technické problémy.
+448,2024-07-19 17:07:00.000000,2024-07-19 17:50:25.000000,Kultúrne podujatie,Výstava súčasného umenia,401,Podujatie prebiehalo bez incidentov.
+449,2024-08-23 15:04:00.000000,2024-08-23 15:47:52.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,136,Podujatie malo pozitívny ohlas v médiách.
+450,2024-10-03 14:19:00.000000,2024-10-03 15:04:31.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,149,Z bezpečnostných dôvodov boli prijaté opatrenia.
+451,2024-08-22 09:05:00.000000,2024-08-22 09:53:29.000000,Verejná akcia,Svetový deň dobrovoľníctva,208,Podujatie prebiehalo bez incidentov.
+452,2024-12-27 14:47:00.000000,2024-12-27 15:30:03.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,250,Podujatie prebiehalo bez incidentov.
+453,2024-06-29 14:16:00.000000,2024-06-29 15:01:02.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1074,Z bezpečnostných dôvodov boli prijaté opatrenia.
+454,2025-01-10 10:10:00.000000,2025-01-10 10:52:38.000000,Kultúrne podujatie,Stand-up comedy večer,974,Z bezpečnostných dôvodov boli prijaté opatrenia.
+455,2025-01-07 16:20:00.000000,2025-01-07 17:08:52.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,50,Podujatie prebiehalo bez incidentov.
+456,2024-12-10 13:19:00.000000,2024-12-10 14:05:35.000000,Kultúrne podujatie,Jazzový koncert v parku,981,Nahlásené menšie technické problémy.
+457,2024-10-29 16:39:00.000000,2024-10-29 17:27:02.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,123,Nahlásené menšie technické problémy.
+458,2024-11-15 12:00:00.000000,2024-11-15 12:41:03.000000,Kultúrne podujatie,Výstava súčasného umenia,823,"Veľký záujem verejnosti, vysoká účasť."
+459,2024-11-02 19:42:00.000000,2024-11-02 20:26:55.000000,Verejná akcia,Pouličný trh a remeslá,220,Počas podujatia došlo k nepredvídaným komplikáciám.
+460,2024-02-24 17:52:00.000000,2024-02-24 18:40:12.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,580,Podujatie prebiehalo bez incidentov.
+461,2024-04-01 16:33:00.000000,2024-04-01 17:19:11.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,172,"Veľký záujem verejnosti, vysoká účasť."
+462,2025-01-02 17:58:00.000000,2025-01-02 18:47:22.000000,Súkromná udalosť,Firemný teambuilding,66,Počas podujatia došlo k nepredvídaným komplikáciám.
+463,2024-12-12 10:10:00.000000,2024-12-12 10:53:00.000000,Verejná akcia,Mestská diskusia so starostom,989,Počas podujatia došlo k nepredvídaným komplikáciám.
+464,2024-12-21 14:23:00.000000,2024-12-21 15:04:51.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,370,Podujatie prebiehalo bez incidentov.
+465,2024-10-29 11:33:00.000000,2024-10-29 12:17:52.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,316,Podujatie malo pozitívny ohlas v médiách.
+466,2024-11-15 08:01:00.000000,2024-11-15 08:42:47.000000,Neočakávané podujatie,Náhly výpadok elektriny,85,Nahlásené menšie technické problémy.
+467,2025-01-31 17:54:00.000000,2025-01-31 18:39:14.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,228,Z bezpečnostných dôvodov boli prijaté opatrenia.
+468,2025-02-06 13:45:00.000000,2025-02-06 14:32:19.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,343,Nahlásené menšie technické problémy.
+469,2024-11-13 08:42:00.000000,2024-11-13 09:23:36.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,99,Nahlásené menšie technické problémy.
+470,2024-07-29 18:05:00.000000,2024-07-29 18:53:04.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,535,Nahlásené menšie technické problémy.
+471,2024-04-19 18:23:00.000000,2024-04-19 19:07:18.000000,Kultúrne podujatie,Jazzový koncert v parku,224,"Veľký záujem verejnosti, vysoká účasť."
+472,2024-07-24 19:48:00.000000,2024-07-24 20:34:06.000000,Verejná akcia,Mestská diskusia so starostom,414,"Veľký záujem verejnosti, vysoká účasť."
+473,2025-01-10 15:07:00.000000,2025-01-10 15:49:10.000000,Verejná akcia,Mestská diskusia so starostom,710,Podujatie prebiehalo bez incidentov.
+474,2024-08-21 19:06:00.000000,2024-08-21 19:52:52.000000,Športové podujatie,Národný šachový turnaj,2143,Počas podujatia došlo k nepredvídaným komplikáciám.
+475,2024-08-28 16:46:00.000000,2024-08-28 17:27:40.000000,Súkromná udalosť,Rodinné stretnutie v parku,17,Nahlásené menšie technické problémy.
+476,2024-07-11 14:24:00.000000,2024-07-11 15:07:08.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2978,"Veľký záujem verejnosti, vysoká účasť."
+477,2024-08-14 08:47:00.000000,2024-08-14 09:32:32.000000,Verejná akcia,Mestská diskusia so starostom,965,Z bezpečnostných dôvodov boli prijaté opatrenia.
+478,2024-02-26 09:08:00.000000,2024-02-26 09:55:24.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,927,Z bezpečnostných dôvodov boli prijaté opatrenia.
+479,2024-08-20 15:09:00.000000,2024-08-20 15:51:57.000000,Súkromná udalosť,Rodinné stretnutie v parku,39,"Veľký záujem verejnosti, vysoká účasť."
+480,2024-07-15 11:15:00.000000,2024-07-15 11:59:56.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1865,Nahlásené menšie technické problémy.
+481,2024-02-14 09:59:00.000000,2024-02-14 10:41:25.000000,Politické a spoločenské podujatie,Protest proti korupcii,2345,"Veľký záujem verejnosti, vysoká účasť."
+482,2025-01-28 16:47:00.000000,2025-01-28 17:34:15.000000,Neočakávané podujatie,Havária vodovodného potrubia,27,Z bezpečnostných dôvodov boli prijaté opatrenia.
+483,2024-12-05 12:50:00.000000,2024-12-05 13:35:37.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,384,Počas podujatia došlo k nepredvídaným komplikáciám.
+484,2024-09-30 17:56:00.000000,2024-09-30 18:38:36.000000,Súkromná udalosť,Súkromná oslava narodenín,64,Podujatie malo pozitívny ohlas v médiách.
+485,2024-03-01 18:18:00.000000,2024-03-01 18:59:17.000000,Športové podujatie,Národný šachový turnaj,1363,Nahlásené menšie technické problémy.
+486,2024-12-07 14:29:00.000000,2024-12-07 15:17:45.000000,Politické a spoločenské podujatie,Pochod za práva žien,2758,Počas podujatia došlo k nepredvídaným komplikáciám.
+487,2024-10-22 10:44:00.000000,2024-10-22 11:33:12.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,257,"Veľký záujem verejnosti, vysoká účasť."
+488,2024-07-14 12:53:00.000000,2024-07-14 13:39:45.000000,Kultúrne podujatie,Stand-up comedy večer,296,Nahlásené menšie technické problémy.
+489,2024-05-24 12:27:00.000000,2024-05-24 13:09:05.000000,Verejná akcia,Svetový deň dobrovoľníctva,549,Podujatie malo pozitívny ohlas v médiách.
+490,2024-07-14 16:39:00.000000,2024-07-14 17:27:23.000000,Mimoriadna udalosť,Policajná operácia v centre,997,Z bezpečnostných dôvodov boli prijaté opatrenia.
+491,2024-02-26 10:28:00.000000,2024-02-26 11:14:12.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,519,"Veľký záujem verejnosti, vysoká účasť."
+492,2024-04-02 10:35:00.000000,2024-04-02 11:18:39.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,312,Podujatie prebiehalo bez incidentov.
+493,2024-10-13 14:41:00.000000,2024-10-13 15:26:50.000000,Verejná akcia,Mestská diskusia so starostom,625,Počas podujatia došlo k nepredvídaným komplikáciám.
+494,2024-06-21 15:11:00.000000,2024-06-21 15:55:00.000000,Verejná akcia,Mestská diskusia so starostom,67,Z bezpečnostných dôvodov boli prijaté opatrenia.
+495,2024-04-05 16:28:00.000000,2024-04-05 17:10:07.000000,Neočakávané podujatie,Náhla evakuácia budovy,155,Počas podujatia došlo k nepredvídaným komplikáciám.
+496,2024-10-16 09:21:00.000000,2024-10-16 10:10:24.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,410,Z bezpečnostných dôvodov boli prijaté opatrenia.
+497,2024-12-11 12:45:00.000000,2024-12-11 13:30:23.000000,Verejná akcia,Letný mestský piknik,803,Z bezpečnostných dôvodov boli prijaté opatrenia.
+498,2024-09-30 12:18:00.000000,2024-09-30 13:01:17.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,627,Z bezpečnostných dôvodov boli prijaté opatrenia.
+499,2024-09-02 18:49:00.000000,2024-09-02 19:31:16.000000,Verejná akcia,Svetový deň dobrovoľníctva,640,Z bezpečnostných dôvodov boli prijaté opatrenia.
+500,2024-02-16 11:26:00.000000,2024-02-16 12:13:18.000000,Verejná akcia,Mestská diskusia so starostom,898,Podujatie prebiehalo bez incidentov.
+501,2024-03-17 16:54:00.000000,2024-03-17 17:37:37.000000,Súkromná udalosť,Súkromná oslava narodenín,32,Podujatie malo pozitívny ohlas v médiách.
+502,2024-06-08 19:05:00.000000,2024-06-08 19:46:39.000000,Verejná akcia,Pouličný trh a remeslá,910,"Veľký záujem verejnosti, vysoká účasť."
+503,2024-09-02 14:07:00.000000,2024-09-02 14:56:06.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,718,Podujatie malo pozitívny ohlas v médiách.
+504,2024-12-13 08:16:00.000000,2024-12-13 09:05:43.000000,Neočakávané podujatie,Náhly výpadok elektriny,57,Nahlásené menšie technické problémy.
+505,2024-07-28 16:53:00.000000,2024-07-28 17:39:24.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,149,Počas podujatia došlo k nepredvídaným komplikáciám.
+506,2024-10-04 13:59:00.000000,2024-10-04 14:42:09.000000,Verejná akcia,Mestská diskusia so starostom,609,Z bezpečnostných dôvodov boli prijaté opatrenia.
+507,2024-08-19 16:04:00.000000,2024-08-19 16:53:29.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,469,Z bezpečnostných dôvodov boli prijaté opatrenia.
+508,2024-05-27 11:55:00.000000,2024-05-27 12:44:18.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,2157,Z bezpečnostných dôvodov boli prijaté opatrenia.
+509,2024-07-28 08:58:00.000000,2024-07-28 09:47:30.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,703,Podujatie prebiehalo bez incidentov.
+510,2024-05-09 09:18:00.000000,2024-05-09 10:05:58.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,70,"Veľký záujem verejnosti, vysoká účasť."
+511,2025-01-25 19:29:00.000000,2025-01-25 20:11:29.000000,Neočakávané podujatie,Náhla evakuácia budovy,140,Nahlásené menšie technické problémy.
+512,2024-10-07 08:40:00.000000,2024-10-07 09:24:47.000000,Súkromná udalosť,Firemný teambuilding,84,"Veľký záujem verejnosti, vysoká účasť."
+513,2024-11-30 12:11:00.000000,2024-11-30 12:58:44.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1524,Z bezpečnostných dôvodov boli prijaté opatrenia.
+514,2024-04-03 13:58:00.000000,2024-04-03 14:44:58.000000,Kultúrne podujatie,Výstava súčasného umenia,999,"Veľký záujem verejnosti, vysoká účasť."
+515,2024-08-20 13:10:00.000000,2024-08-20 13:53:22.000000,Verejná akcia,Svetový deň dobrovoľníctva,601,Nahlásené menšie technické problémy.
+516,2025-02-08 16:52:00.000000,2025-02-08 17:34:28.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,977,Nahlásené menšie technické problémy.
+517,2024-06-25 09:51:00.000000,2024-06-25 10:32:13.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,71,"Veľký záujem verejnosti, vysoká účasť."
+518,2024-09-16 10:00:00.000000,2024-09-16 10:41:51.000000,Športové podujatie,Bežecká súťaž na 10 km,3605,"Veľký záujem verejnosti, vysoká účasť."
+519,2024-04-12 15:09:00.000000,2024-04-12 15:53:22.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,473,Počas podujatia došlo k nepredvídaným komplikáciám.
+520,2024-07-07 19:20:00.000000,2024-07-07 20:05:05.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,112,Počas podujatia došlo k nepredvídaným komplikáciám.
+521,2024-02-19 12:39:00.000000,2024-02-19 13:25:20.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,354,Z bezpečnostných dôvodov boli prijaté opatrenia.
+522,2024-09-17 11:54:00.000000,2024-09-17 12:35:11.000000,Súkromná udalosť,Rodinné stretnutie v parku,97,Z bezpečnostných dôvodov boli prijaté opatrenia.
+523,2024-08-06 16:23:00.000000,2024-08-06 17:06:27.000000,Kultúrne podujatie,Jazzový koncert v parku,544,Nahlásené menšie technické problémy.
+524,2024-07-08 15:56:00.000000,2024-07-08 16:38:07.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,661,"Veľký záujem verejnosti, vysoká účasť."
+525,2024-06-02 12:18:00.000000,2024-06-02 13:02:33.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1799,Počas podujatia došlo k nepredvídaným komplikáciám.
+526,2024-11-21 14:43:00.000000,2024-11-21 15:24:09.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,838,Z bezpečnostných dôvodov boli prijaté opatrenia.
+527,2024-10-18 16:15:00.000000,2024-10-18 17:02:01.000000,Súkromná udalosť,Rodinné stretnutie v parku,52,Z bezpečnostných dôvodov boli prijaté opatrenia.
+528,2024-03-02 16:01:00.000000,2024-03-02 16:44:59.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1242,Nahlásené menšie technické problémy.
+529,2024-07-16 18:22:00.000000,2024-07-16 19:05:32.000000,Športové podujatie,Národný šachový turnaj,4310,"Veľký záujem verejnosti, vysoká účasť."
+530,2024-06-21 15:03:00.000000,2024-06-21 15:49:10.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,2600,Podujatie malo pozitívny ohlas v médiách.
+531,2024-07-17 14:17:00.000000,2024-07-17 15:04:15.000000,Kultúrne podujatie,Jazzový koncert v parku,915,Počas podujatia došlo k nepredvídaným komplikáciám.
+532,2024-03-22 18:00:00.000000,2024-03-22 18:49:57.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,766,Z bezpečnostných dôvodov boli prijaté opatrenia.
+533,2024-07-07 18:05:00.000000,2024-07-07 18:52:31.000000,Súkromná udalosť,Rodinné stretnutie v parku,69,Podujatie prebiehalo bez incidentov.
+534,2024-08-12 15:31:00.000000,2024-08-12 16:15:46.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,1797,"Veľký záujem verejnosti, vysoká účasť."
+535,2024-08-13 17:37:00.000000,2024-08-13 18:24:05.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,326,Nahlásené menšie technické problémy.
+536,2024-12-07 10:43:00.000000,2024-12-07 11:31:12.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,811,Nahlásené menšie technické problémy.
+537,2024-10-07 14:40:00.000000,2024-10-07 15:22:48.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,128,Nahlásené menšie technické problémy.
+538,2024-08-29 17:17:00.000000,2024-08-29 18:05:50.000000,Politické a spoločenské podujatie,Pochod za práva žien,1370,Z bezpečnostných dôvodov boli prijaté opatrenia.
+539,2024-07-07 15:08:00.000000,2024-07-07 15:52:54.000000,Náboženské a duchovné podujatie,Meditačný workshop,686,Nahlásené menšie technické problémy.
+540,2024-11-02 11:16:00.000000,2024-11-02 11:57:18.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,193,Podujatie malo pozitívny ohlas v médiách.
+541,2024-05-31 14:45:00.000000,2024-05-31 15:29:59.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,372,Počas podujatia došlo k nepredvídaným komplikáciám.
+542,2024-04-14 14:41:00.000000,2024-04-14 15:30:14.000000,Športové podujatie,Svetový šampionát v plávaní,3770,Počas podujatia došlo k nepredvídaným komplikáciám.
+543,2024-04-04 14:09:00.000000,2024-04-04 14:52:25.000000,Kultúrne podujatie,Letný filmový festival,1076,Počas podujatia došlo k nepredvídaným komplikáciám.
+544,2024-09-11 16:16:00.000000,2024-09-11 17:00:04.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,185,Počas podujatia došlo k nepredvídaným komplikáciám.
+545,2024-02-14 10:26:00.000000,2024-02-14 11:12:53.000000,Verejná akcia,Pouličný trh a remeslá,899,Nahlásené menšie technické problémy.
+546,2025-02-07 10:47:00.000000,2025-02-07 11:31:13.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,144,"Veľký záujem verejnosti, vysoká účasť."
+547,2024-03-08 12:59:00.000000,2024-03-08 13:43:13.000000,Športové podujatie,Bežecká súťaž na 10 km,2172,Z bezpečnostných dôvodov boli prijaté opatrenia.
+548,2024-08-21 08:50:00.000000,2024-08-21 09:34:01.000000,Súkromná udalosť,Svadobná hostina,46,Podujatie prebiehalo bez incidentov.
+549,2024-08-21 12:33:00.000000,2024-08-21 13:15:51.000000,Politické a spoločenské podujatie,Protest proti korupcii,625,Z bezpečnostných dôvodov boli prijaté opatrenia.
+550,2024-12-16 09:00:00.000000,2024-12-16 09:48:52.000000,Neočakávané podujatie,Náhla evakuácia budovy,189,Počas podujatia došlo k nepredvídaným komplikáciám.
+551,2024-10-16 11:32:00.000000,2024-10-16 12:18:57.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,927,Nahlásené menšie technické problémy.
+552,2024-11-22 13:36:00.000000,2024-11-22 14:20:26.000000,Neočakávané podujatie,Náhla evakuácia budovy,86,"Veľký záujem verejnosti, vysoká účasť."
+553,2024-05-10 13:20:00.000000,2024-05-10 14:02:36.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,446,Z bezpečnostných dôvodov boli prijaté opatrenia.
+554,2024-05-30 09:51:00.000000,2024-05-30 10:37:50.000000,Kultúrne podujatie,Výstava súčasného umenia,705,"Veľký záujem verejnosti, vysoká účasť."
+555,2024-09-27 12:36:00.000000,2024-09-27 13:24:08.000000,Súkromná udalosť,Súkromná oslava narodenín,47,Podujatie prebiehalo bez incidentov.
+556,2024-08-27 16:50:00.000000,2024-08-27 17:36:38.000000,Kultúrne podujatie,Letný filmový festival,1167,Z bezpečnostných dôvodov boli prijaté opatrenia.
+557,2024-10-29 19:22:00.000000,2024-10-29 20:10:33.000000,Neočakávané podujatie,Náhly výpadok elektriny,81,Nahlásené menšie technické problémy.
+558,2024-07-12 19:07:00.000000,2024-07-12 19:48:03.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,141,Z bezpečnostných dôvodov boli prijaté opatrenia.
+559,2024-03-22 15:45:00.000000,2024-03-22 16:34:57.000000,Súkromná udalosť,Firemný teambuilding,38,Podujatie malo pozitívny ohlas v médiách.
+560,2024-10-06 15:58:00.000000,2024-10-06 16:43:30.000000,Športové podujatie,Hokejový zápas finále ligy,4144,Počas podujatia došlo k nepredvídaným komplikáciám.
+561,2025-01-18 09:30:00.000000,2025-01-18 10:19:24.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,970,Nahlásené menšie technické problémy.
+562,2024-12-19 10:28:00.000000,2024-12-19 11:09:38.000000,Verejná akcia,Svetový deň dobrovoľníctva,380,"Veľký záujem verejnosti, vysoká účasť."
+563,2024-04-28 10:12:00.000000,2024-04-28 10:57:03.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,606,Počas podujatia došlo k nepredvídaným komplikáciám.
+564,2024-02-16 13:14:00.000000,2024-02-16 13:59:35.000000,Športové podujatie,Svetový šampionát v plávaní,2713,"Veľký záujem verejnosti, vysoká účasť."
+565,2025-01-15 13:05:00.000000,2025-01-15 13:54:44.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,465,Nahlásené menšie technické problémy.
+566,2024-10-02 10:41:00.000000,2024-10-02 11:29:56.000000,Športové podujatie,Medzinárodný futbalový turnaj,4761,Z bezpečnostných dôvodov boli prijaté opatrenia.
+567,2024-10-21 15:33:00.000000,2024-10-21 16:21:45.000000,Verejná akcia,Svetový deň dobrovoľníctva,470,Nahlásené menšie technické problémy.
+568,2024-05-21 19:24:00.000000,2024-05-21 20:11:11.000000,Neočakávané podujatie,Náhla evakuácia budovy,36,"Veľký záujem verejnosti, vysoká účasť."
+569,2024-09-21 10:30:00.000000,2024-09-21 11:12:50.000000,Kultúrne podujatie,Výstava súčasného umenia,477,Podujatie prebiehalo bez incidentov.
+570,2024-08-27 18:17:00.000000,2024-08-27 19:04:41.000000,Politické a spoločenské podujatie,Protest proti korupcii,2830,Nahlásené menšie technické problémy.
+571,2024-12-06 10:42:00.000000,2024-12-06 11:25:16.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,70,Počas podujatia došlo k nepredvídaným komplikáciám.
+572,2024-02-12 11:32:00.000000,2024-02-12 12:20:30.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,465,"Veľký záujem verejnosti, vysoká účasť."
+573,2024-10-30 12:29:00.000000,2024-10-30 13:14:11.000000,Neočakávané podujatie,Náhly výpadok elektriny,49,Nahlásené menšie technické problémy.
+574,2024-07-06 17:39:00.000000,2024-07-06 18:22:36.000000,Kultúrne podujatie,Stand-up comedy večer,707,Nahlásené menšie technické problémy.
+575,2024-07-08 13:17:00.000000,2024-07-08 14:06:14.000000,Súkromná udalosť,Firemný teambuilding,49,"Veľký záujem verejnosti, vysoká účasť."
+576,2024-09-24 10:10:00.000000,2024-09-24 10:52:13.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,706,Počas podujatia došlo k nepredvídaným komplikáciám.
+577,2024-10-18 08:03:00.000000,2024-10-18 08:51:20.000000,Neočakávané podujatie,Náhly výpadok elektriny,155,"Veľký záujem verejnosti, vysoká účasť."
+578,2024-02-29 19:13:00.000000,2024-02-29 19:53:43.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,263,Nahlásené menšie technické problémy.
+579,2024-08-25 09:48:00.000000,2024-08-25 10:32:14.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,985,"Veľký záujem verejnosti, vysoká účasť."
+580,2024-04-26 10:49:00.000000,2024-04-26 11:30:50.000000,Neočakávané podujatie,Havária vodovodného potrubia,31,"Veľký záujem verejnosti, vysoká účasť."
+581,2024-09-21 12:53:00.000000,2024-09-21 13:37:34.000000,Súkromná udalosť,Firemný teambuilding,50,Počas podujatia došlo k nepredvídaným komplikáciám.
+582,2025-01-29 17:23:00.000000,2025-01-29 18:05:32.000000,Politické a spoločenské podujatie,Pochod za práva žien,2026,Nahlásené menšie technické problémy.
+583,2024-03-26 16:19:00.000000,2024-03-26 17:08:10.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,513,Počas podujatia došlo k nepredvídaným komplikáciám.
+584,2024-03-22 16:23:00.000000,2024-03-22 17:12:41.000000,Športové podujatie,Hokejový zápas finále ligy,4491,Nahlásené menšie technické problémy.
+585,2025-01-13 13:22:00.000000,2025-01-13 14:09:27.000000,Kultúrne podujatie,Stand-up comedy večer,464,Z bezpečnostných dôvodov boli prijaté opatrenia.
+586,2024-05-11 16:58:00.000000,2024-05-11 17:42:10.000000,Súkromná udalosť,Rodinné stretnutie v parku,65,Nahlásené menšie technické problémy.
+587,2024-11-06 18:41:00.000000,2024-11-06 19:25:56.000000,Mimoriadna udalosť,Policajná operácia v centre,529,Počas podujatia došlo k nepredvídaným komplikáciám.
+588,2025-02-02 18:55:00.000000,2025-02-02 19:39:48.000000,Športové podujatie,Hokejový zápas finále ligy,3912,Podujatie malo pozitívny ohlas v médiách.
+589,2024-12-14 09:08:00.000000,2024-12-14 09:56:30.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,225,Počas podujatia došlo k nepredvídaným komplikáciám.
+590,2024-02-18 09:23:00.000000,2024-02-18 10:05:16.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2721,"Veľký záujem verejnosti, vysoká účasť."
+591,2024-09-03 09:13:00.000000,2024-09-03 10:00:27.000000,Súkromná udalosť,Rodinné stretnutie v parku,40,Nahlásené menšie technické problémy.
+592,2024-09-28 08:17:00.000000,2024-09-28 09:03:47.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,474,Podujatie malo pozitívny ohlas v médiách.
+593,2024-12-16 19:12:00.000000,2024-12-16 19:53:39.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,887,Z bezpečnostných dôvodov boli prijaté opatrenia.
+594,2024-08-29 15:48:00.000000,2024-08-29 16:37:15.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,732,Z bezpečnostných dôvodov boli prijaté opatrenia.
+595,2024-06-28 08:27:00.000000,2024-06-28 09:08:35.000000,Vzdelávacie podujatie,Hackathon pre študentov,257,"Veľký záujem verejnosti, vysoká účasť."
+596,2024-03-28 11:07:00.000000,2024-03-28 11:55:39.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,657,"Veľký záujem verejnosti, vysoká účasť."
+597,2024-11-27 10:35:00.000000,2024-11-27 11:24:31.000000,Športové podujatie,Svetový šampionát v plávaní,3895,"Veľký záujem verejnosti, vysoká účasť."
+598,2024-03-22 09:22:00.000000,2024-03-22 10:03:57.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1908,Nahlásené menšie technické problémy.
+599,2024-12-19 11:18:00.000000,2024-12-19 12:05:47.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,849,"Veľký záujem verejnosti, vysoká účasť."
+600,2024-09-11 12:10:00.000000,2024-09-11 12:52:01.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,124,"Veľký záujem verejnosti, vysoká účasť."
+601,2024-10-13 13:40:00.000000,2024-10-13 14:30:05.000000,Verejná akcia,Mestská diskusia so starostom,370,Počas podujatia došlo k nepredvídaným komplikáciám.
+602,2024-04-05 13:19:00.000000,2024-04-05 14:07:54.000000,Neočakávané podujatie,Náhla evakuácia budovy,125,Podujatie malo pozitívny ohlas v médiách.
+603,2024-07-11 09:29:00.000000,2024-07-11 10:15:58.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,211,Počas podujatia došlo k nepredvídaným komplikáciám.
+604,2024-07-01 13:19:00.000000,2024-07-01 14:07:57.000000,Kultúrne podujatie,Literárna noc v knižnici,1200,Podujatie malo pozitívny ohlas v médiách.
+605,2024-05-02 09:06:00.000000,2024-05-02 09:50:08.000000,Politické a spoločenské podujatie,Protest proti korupcii,2333,Podujatie malo pozitívny ohlas v médiách.
+606,2024-10-04 18:52:00.000000,2024-10-04 19:39:22.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,33,Nahlásené menšie technické problémy.
+607,2024-12-06 17:04:00.000000,2024-12-06 17:52:07.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,64,Podujatie malo pozitívny ohlas v médiách.
+608,2024-05-25 18:33:00.000000,2024-05-25 19:22:19.000000,Kultúrne podujatie,Literárna noc v knižnici,342,Podujatie prebiehalo bez incidentov.
+609,2024-04-22 10:55:00.000000,2024-04-22 11:39:33.000000,Verejná akcia,Svetový deň dobrovoľníctva,365,Podujatie prebiehalo bez incidentov.
+610,2024-07-20 13:07:00.000000,2024-07-20 13:49:22.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,249,"Veľký záujem verejnosti, vysoká účasť."
+611,2024-04-22 08:08:00.000000,2024-04-22 08:52:02.000000,Verejná akcia,Pouličný trh a remeslá,307,Z bezpečnostných dôvodov boli prijaté opatrenia.
+612,2024-08-11 17:13:00.000000,2024-08-11 17:57:49.000000,Kultúrne podujatie,Jazzový koncert v parku,387,Podujatie malo pozitívny ohlas v médiách.
+613,2024-07-12 08:55:00.000000,2024-07-12 09:44:31.000000,Športové podujatie,Hokejový zápas finále ligy,2380,Počas podujatia došlo k nepredvídaným komplikáciám.
+614,2024-10-19 10:31:00.000000,2024-10-19 11:13:53.000000,Neočakávané podujatie,Náhla evakuácia budovy,141,Podujatie prebiehalo bez incidentov.
+615,2024-09-08 08:03:00.000000,2024-09-08 08:45:22.000000,Neočakávané podujatie,Náhla evakuácia budovy,171,Počas podujatia došlo k nepredvídaným komplikáciám.
+616,2024-12-25 14:22:00.000000,2024-12-25 15:04:59.000000,Verejná akcia,Svetový deň dobrovoľníctva,99,Nahlásené menšie technické problémy.
+617,2024-09-05 08:52:00.000000,2024-09-05 09:40:58.000000,Súkromná udalosť,Firemný teambuilding,89,"Veľký záujem verejnosti, vysoká účasť."
+618,2024-08-09 14:43:00.000000,2024-08-09 15:28:40.000000,Športové podujatie,Bežecká súťaž na 10 km,2274,Nahlásené menšie technické problémy.
+619,2024-10-22 09:16:00.000000,2024-10-22 10:03:20.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,104,Počas podujatia došlo k nepredvídaným komplikáciám.
+620,2024-09-28 17:18:00.000000,2024-09-28 18:00:39.000000,Verejná akcia,Mestská diskusia so starostom,200,"Veľký záujem verejnosti, vysoká účasť."
+621,2024-09-19 16:53:00.000000,2024-09-19 17:41:18.000000,Verejná akcia,Mestská diskusia so starostom,848,Počas podujatia došlo k nepredvídaným komplikáciám.
+622,2024-08-28 08:36:00.000000,2024-08-28 09:21:50.000000,Neočakávané podujatie,Náhly výpadok elektriny,43,"Veľký záujem verejnosti, vysoká účasť."
+623,2024-03-15 10:06:00.000000,2024-03-15 10:55:43.000000,Neočakávané podujatie,Náhla evakuácia budovy,178,Nahlásené menšie technické problémy.
+624,2025-01-27 18:09:00.000000,2025-01-27 18:52:25.000000,Verejná akcia,Mestská diskusia so starostom,517,Počas podujatia došlo k nepredvídaným komplikáciám.
+625,2024-12-21 17:27:00.000000,2024-12-21 18:12:45.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,493,"Veľký záujem verejnosti, vysoká účasť."
+626,2024-10-11 18:59:00.000000,2024-10-11 19:48:10.000000,Športové podujatie,Hokejový zápas finále ligy,1581,Počas podujatia došlo k nepredvídaným komplikáciám.
+627,2024-10-31 14:51:00.000000,2024-10-31 15:40:55.000000,Športové podujatie,Svetový šampionát v plávaní,3660,"Veľký záujem verejnosti, vysoká účasť."
+628,2024-07-11 13:58:00.000000,2024-07-11 14:41:56.000000,Súkromná udalosť,Firemný teambuilding,44,"Veľký záujem verejnosti, vysoká účasť."
+629,2024-07-02 12:31:00.000000,2024-07-02 13:19:52.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,327,"Veľký záujem verejnosti, vysoká účasť."
+630,2024-06-06 13:36:00.000000,2024-06-06 14:17:03.000000,Súkromná udalosť,Rodinné stretnutie v parku,63,Z bezpečnostných dôvodov boli prijaté opatrenia.
+631,2025-01-13 16:05:00.000000,2025-01-13 16:46:19.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1841,Podujatie malo pozitívny ohlas v médiách.
+632,2024-12-13 17:20:00.000000,2024-12-13 18:04:24.000000,Kultúrne podujatie,Stand-up comedy večer,1482,Podujatie malo pozitívny ohlas v médiách.
+633,2024-04-22 08:12:00.000000,2024-04-22 09:01:00.000000,Neočakávané podujatie,Náhla evakuácia budovy,43,Počas podujatia došlo k nepredvídaným komplikáciám.
+634,2024-04-29 08:29:00.000000,2024-04-29 09:15:36.000000,Kultúrne podujatie,Jazzový koncert v parku,268,Počas podujatia došlo k nepredvídaným komplikáciám.
+635,2024-11-06 19:15:00.000000,2024-11-06 20:04:15.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,224,Z bezpečnostných dôvodov boli prijaté opatrenia.
+636,2025-01-21 18:31:00.000000,2025-01-21 19:17:04.000000,Kultúrne podujatie,Výstava súčasného umenia,1293,Podujatie malo pozitívny ohlas v médiách.
+637,2024-12-25 13:32:00.000000,2024-12-25 14:19:37.000000,Politické a spoločenské podujatie,Pochod za práva žien,1908,Počas podujatia došlo k nepredvídaným komplikáciám.
+638,2024-06-25 13:57:00.000000,2024-06-25 14:42:25.000000,Kultúrne podujatie,Letný filmový festival,680,Z bezpečnostných dôvodov boli prijaté opatrenia.
+639,2024-08-04 11:01:00.000000,2024-08-04 11:50:34.000000,Politické a spoločenské podujatie,Pochod za práva žien,1117,Nahlásené menšie technické problémy.
+640,2024-03-29 10:30:00.000000,2024-03-29 11:15:10.000000,Mimoriadna udalosť,Policajná operácia v centre,659,Počas podujatia došlo k nepredvídaným komplikáciám.
+641,2024-12-17 12:50:00.000000,2024-12-17 13:37:21.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,325,Nahlásené menšie technické problémy.
+642,2024-06-03 14:50:00.000000,2024-06-03 15:39:44.000000,Neočakávané podujatie,Náhla evakuácia budovy,70,Podujatie malo pozitívny ohlas v médiách.
+643,2024-06-10 16:31:00.000000,2024-06-10 17:14:08.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,77,Podujatie prebiehalo bez incidentov.
+644,2024-02-22 17:35:00.000000,2024-02-22 18:16:08.000000,Kultúrne podujatie,Výstava súčasného umenia,877,Počas podujatia došlo k nepredvídaným komplikáciám.
+645,2024-08-09 14:24:00.000000,2024-08-09 15:13:41.000000,Mimoriadna udalosť,Policajná operácia v centre,762,"Veľký záujem verejnosti, vysoká účasť."
+646,2024-06-03 08:02:00.000000,2024-06-03 08:51:28.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1840,Podujatie prebiehalo bez incidentov.
+647,2024-09-30 09:23:00.000000,2024-09-30 10:11:16.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,178,Podujatie malo pozitívny ohlas v médiách.
+648,2024-03-23 17:29:00.000000,2024-03-23 18:16:33.000000,Súkromná udalosť,Firemný teambuilding,65,"Veľký záujem verejnosti, vysoká účasť."
+649,2024-06-06 17:53:00.000000,2024-06-06 18:42:48.000000,Verejná akcia,Mestská diskusia so starostom,729,Počas podujatia došlo k nepredvídaným komplikáciám.
+650,2024-05-05 19:49:00.000000,2024-05-05 20:35:22.000000,Politické a spoločenské podujatie,Protest proti korupcii,2613,Podujatie prebiehalo bez incidentov.
+651,2024-12-11 08:12:00.000000,2024-12-11 08:54:24.000000,Verejná akcia,Svetový deň dobrovoľníctva,906,"Veľký záujem verejnosti, vysoká účasť."
+652,2024-04-25 13:47:00.000000,2024-04-25 14:29:37.000000,Súkromná udalosť,Svadobná hostina,40,Nahlásené menšie technické problémy.
+653,2025-01-12 16:10:00.000000,2025-01-12 16:53:50.000000,Kultúrne podujatie,Literárna noc v knižnici,1016,Nahlásené menšie technické problémy.
+654,2024-12-23 19:34:00.000000,2024-12-23 20:18:07.000000,Súkromná udalosť,Rodinné stretnutie v parku,82,Nahlásené menšie technické problémy.
+655,2024-08-04 15:46:00.000000,2024-08-04 16:27:22.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,134,Z bezpečnostných dôvodov boli prijaté opatrenia.
+656,2024-11-30 08:00:00.000000,2024-11-30 08:42:19.000000,Neočakávané podujatie,Havária vodovodného potrubia,89,"Veľký záujem verejnosti, vysoká účasť."
+657,2024-05-31 15:21:00.000000,2024-05-31 16:09:22.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,844,Z bezpečnostných dôvodov boli prijaté opatrenia.
+658,2024-02-26 15:59:00.000000,2024-02-26 16:46:07.000000,Športové podujatie,Bežecká súťaž na 10 km,3932,Z bezpečnostných dôvodov boli prijaté opatrenia.
+659,2025-01-20 10:28:00.000000,2025-01-20 11:13:13.000000,Kultúrne podujatie,Stand-up comedy večer,1163,"Veľký záujem verejnosti, vysoká účasť."
+660,2024-05-04 14:02:00.000000,2024-05-04 14:44:29.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,265,Z bezpečnostných dôvodov boli prijaté opatrenia.
+661,2024-08-05 16:51:00.000000,2024-08-05 17:32:45.000000,Verejná akcia,Svetový deň dobrovoľníctva,154,Podujatie malo pozitívny ohlas v médiách.
+662,2024-09-09 10:46:00.000000,2024-09-09 11:36:02.000000,Politické a spoločenské podujatie,Pochod za práva žien,2218,"Veľký záujem verejnosti, vysoká účasť."
+663,2024-03-01 19:35:00.000000,2024-03-01 20:19:42.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1296,Podujatie prebiehalo bez incidentov.
+664,2024-02-15 19:42:00.000000,2024-02-15 20:25:25.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,534,Z bezpečnostných dôvodov boli prijaté opatrenia.
+665,2024-03-09 15:24:00.000000,2024-03-09 16:08:21.000000,Verejná akcia,Svetový deň dobrovoľníctva,981,Podujatie prebiehalo bez incidentov.
+666,2024-11-30 15:30:00.000000,2024-11-30 16:18:34.000000,Mimoriadna udalosť,Policajná operácia v centre,724,"Veľký záujem verejnosti, vysoká účasť."
+667,2024-06-18 17:11:00.000000,2024-06-18 18:00:18.000000,Kultúrne podujatie,Jazzový koncert v parku,905,Počas podujatia došlo k nepredvídaným komplikáciám.
+668,2024-03-11 15:53:00.000000,2024-03-11 16:42:04.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,839,Z bezpečnostných dôvodov boli prijaté opatrenia.
+669,2024-02-15 09:42:00.000000,2024-02-15 10:31:09.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,519,Podujatie malo pozitívny ohlas v médiách.
+670,2024-06-15 17:57:00.000000,2024-06-15 18:40:30.000000,Verejná akcia,Pouličný trh a remeslá,954,Nahlásené menšie technické problémy.
+671,2024-03-04 11:09:00.000000,2024-03-04 11:54:49.000000,Športové podujatie,Bežecká súťaž na 10 km,3681,Z bezpečnostných dôvodov boli prijaté opatrenia.
+672,2024-12-08 09:49:00.000000,2024-12-08 10:36:31.000000,Športové podujatie,Bežecká súťaž na 10 km,1437,Podujatie prebiehalo bez incidentov.
+673,2024-12-16 08:25:00.000000,2024-12-16 09:11:57.000000,Verejná akcia,Svetový deň dobrovoľníctva,457,Z bezpečnostných dôvodov boli prijaté opatrenia.
+674,2024-07-31 14:46:00.000000,2024-07-31 15:35:46.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,2768,Podujatie prebiehalo bez incidentov.
+675,2024-09-14 11:54:00.000000,2024-09-14 12:37:08.000000,Neočakávané podujatie,Náhly výpadok elektriny,138,Podujatie malo pozitívny ohlas v médiách.
+676,2024-07-31 13:15:00.000000,2024-07-31 13:58:24.000000,Súkromná udalosť,Firemný teambuilding,11,Podujatie prebiehalo bez incidentov.
+677,2024-11-29 08:32:00.000000,2024-11-29 09:17:06.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,90,Nahlásené menšie technické problémy.
+678,2024-08-21 15:58:00.000000,2024-08-21 16:40:54.000000,Verejná akcia,Mestská diskusia so starostom,744,Počas podujatia došlo k nepredvídaným komplikáciám.
+679,2024-09-17 14:58:00.000000,2024-09-17 15:44:42.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1981,Počas podujatia došlo k nepredvídaným komplikáciám.
+680,2024-09-14 15:41:00.000000,2024-09-14 16:23:25.000000,Verejná akcia,Svetový deň dobrovoľníctva,371,Podujatie prebiehalo bez incidentov.
+681,2024-08-12 19:02:00.000000,2024-08-12 19:51:29.000000,Neočakávané podujatie,Havária vodovodného potrubia,62,Podujatie malo pozitívny ohlas v médiách.
+682,2024-08-31 15:28:00.000000,2024-08-31 16:14:01.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,586,"Veľký záujem verejnosti, vysoká účasť."
+683,2024-09-11 13:32:00.000000,2024-09-11 14:15:36.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2763,Počas podujatia došlo k nepredvídaným komplikáciám.
+684,2024-05-15 14:18:00.000000,2024-05-15 15:01:46.000000,Športové podujatie,Národný šachový turnaj,1997,Z bezpečnostných dôvodov boli prijaté opatrenia.
+685,2024-08-05 18:09:00.000000,2024-08-05 18:58:50.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,847,Počas podujatia došlo k nepredvídaným komplikáciám.
+686,2024-05-11 13:11:00.000000,2024-05-11 14:00:35.000000,Kultúrne podujatie,Stand-up comedy večer,1378,Nahlásené menšie technické problémy.
+687,2024-08-12 09:28:00.000000,2024-08-12 10:09:10.000000,Verejná akcia,Pouličný trh a remeslá,387,Nahlásené menšie technické problémy.
+688,2024-05-06 13:17:00.000000,2024-05-06 14:01:06.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,75,Nahlásené menšie technické problémy.
+689,2024-06-22 14:25:00.000000,2024-06-22 15:09:32.000000,Kultúrne podujatie,Literárna noc v knižnici,1363,"Veľký záujem verejnosti, vysoká účasť."
+690,2024-10-06 13:22:00.000000,2024-10-06 14:05:58.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,428,Počas podujatia došlo k nepredvídaným komplikáciám.
+691,2024-03-05 14:00:00.000000,2024-03-05 14:49:45.000000,Náboženské a duchovné podujatie,Gospelový koncert,997,Počas podujatia došlo k nepredvídaným komplikáciám.
+692,2024-11-23 11:39:00.000000,2024-11-23 12:22:46.000000,Súkromná udalosť,Svadobná hostina,49,Počas podujatia došlo k nepredvídaným komplikáciám.
+693,2024-10-09 08:20:00.000000,2024-10-09 09:07:08.000000,Verejná akcia,Mestská diskusia so starostom,764,Podujatie prebiehalo bez incidentov.
+694,2024-09-13 10:39:00.000000,2024-09-13 11:27:40.000000,Kultúrne podujatie,Jazzový koncert v parku,608,"Veľký záujem verejnosti, vysoká účasť."
+695,2024-12-03 12:44:00.000000,2024-12-03 13:28:22.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,261,Počas podujatia došlo k nepredvídaným komplikáciám.
+696,2024-07-13 10:39:00.000000,2024-07-13 11:28:59.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,558,"Veľký záujem verejnosti, vysoká účasť."
+697,2024-09-29 08:16:00.000000,2024-09-29 08:59:00.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,131,Počas podujatia došlo k nepredvídaným komplikáciám.
+698,2024-11-01 09:55:00.000000,2024-11-01 10:43:28.000000,Športové podujatie,Svetový šampionát v plávaní,2609,Podujatie malo pozitívny ohlas v médiách.
+699,2024-06-09 11:32:00.000000,2024-06-09 12:21:42.000000,Kultúrne podujatie,Stand-up comedy večer,1229,Nahlásené menšie technické problémy.
+700,2024-02-27 11:17:00.000000,2024-02-27 12:03:12.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,111,Počas podujatia došlo k nepredvídaným komplikáciám.
+701,2025-02-03 18:12:00.000000,2025-02-03 18:53:04.000000,Súkromná udalosť,Súkromná oslava narodenín,33,"Veľký záujem verejnosti, vysoká účasť."
+702,2024-06-12 09:50:00.000000,2024-06-12 10:38:27.000000,Súkromná udalosť,Rodinné stretnutie v parku,71,Z bezpečnostných dôvodov boli prijaté opatrenia.
+703,2024-10-08 12:01:00.000000,2024-10-08 12:45:21.000000,Súkromná udalosť,Súkromná oslava narodenín,18,Nahlásené menšie technické problémy.
+704,2024-03-20 15:01:00.000000,2024-03-20 15:46:18.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,361,Podujatie prebiehalo bez incidentov.
+705,2024-11-25 16:59:00.000000,2024-11-25 17:41:39.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,383,Podujatie malo pozitívny ohlas v médiách.
+706,2024-03-20 10:47:00.000000,2024-03-20 11:36:52.000000,Kultúrne podujatie,Stand-up comedy večer,1219,Podujatie prebiehalo bez incidentov.
+707,2025-02-02 12:39:00.000000,2025-02-02 13:26:46.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,183,"Veľký záujem verejnosti, vysoká účasť."
+708,2024-07-24 13:13:00.000000,2024-07-24 13:57:17.000000,Športové podujatie,Hokejový zápas finále ligy,1775,"Veľký záujem verejnosti, vysoká účasť."
+709,2024-06-21 13:55:00.000000,2024-06-21 14:44:37.000000,Kultúrne podujatie,Výstava súčasného umenia,362,"Veľký záujem verejnosti, vysoká účasť."
+710,2024-08-30 18:09:00.000000,2024-08-30 18:55:14.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,133,Z bezpečnostných dôvodov boli prijaté opatrenia.
+711,2024-09-17 10:36:00.000000,2024-09-17 11:24:35.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,717,Počas podujatia došlo k nepredvídaným komplikáciám.
+712,2024-08-24 12:38:00.000000,2024-08-24 13:23:04.000000,Športové podujatie,Svetový šampionát v plávaní,4728,"Veľký záujem verejnosti, vysoká účasť."
+713,2024-08-03 15:02:00.000000,2024-08-03 15:43:57.000000,Politické a spoločenské podujatie,Pochod za práva žien,740,"Veľký záujem verejnosti, vysoká účasť."
+714,2024-04-05 12:10:00.000000,2024-04-05 12:55:35.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,767,Počas podujatia došlo k nepredvídaným komplikáciám.
+715,2025-02-06 18:18:00.000000,2025-02-06 19:03:49.000000,Kultúrne podujatie,Výstava súčasného umenia,1356,Podujatie prebiehalo bez incidentov.
+716,2024-04-23 15:46:00.000000,2024-04-23 16:31:17.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,76,Nahlásené menšie technické problémy.
+717,2024-10-23 14:58:00.000000,2024-10-23 15:44:36.000000,Športové podujatie,Bežecká súťaž na 10 km,3853,Nahlásené menšie technické problémy.
+718,2024-05-28 13:22:00.000000,2024-05-28 14:02:35.000000,Neočakávané podujatie,Náhla evakuácia budovy,116,Z bezpečnostných dôvodov boli prijaté opatrenia.
+719,2025-01-09 15:08:00.000000,2025-01-09 15:57:50.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,722,Nahlásené menšie technické problémy.
+720,2024-02-20 19:26:00.000000,2024-02-20 20:09:00.000000,Športové podujatie,Svetový šampionát v plávaní,2706,Nahlásené menšie technické problémy.
+721,2024-02-17 12:04:00.000000,2024-02-17 12:50:11.000000,Neočakávané podujatie,Náhla evakuácia budovy,186,Počas podujatia došlo k nepredvídaným komplikáciám.
+722,2024-11-06 17:10:00.000000,2024-11-06 17:56:27.000000,Verejná akcia,Letný mestský piknik,204,"Veľký záujem verejnosti, vysoká účasť."
+723,2024-09-27 19:06:00.000000,2024-09-27 19:54:07.000000,Politické a spoločenské podujatie,Protest proti korupcii,1859,Počas podujatia došlo k nepredvídaným komplikáciám.
+724,2025-01-02 09:25:00.000000,2025-01-02 10:12:31.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,147,Z bezpečnostných dôvodov boli prijaté opatrenia.
+725,2024-11-09 17:22:00.000000,2024-11-09 18:11:40.000000,Súkromná udalosť,Firemný teambuilding,93,Počas podujatia došlo k nepredvídaným komplikáciám.
+726,2024-09-14 19:22:00.000000,2024-09-14 20:03:30.000000,Neočakávané podujatie,Náhla evakuácia budovy,32,Nahlásené menšie technické problémy.
+727,2024-10-08 09:28:00.000000,2024-10-08 10:10:17.000000,Verejná akcia,Svetový deň dobrovoľníctva,671,Počas podujatia došlo k nepredvídaným komplikáciám.
+728,2024-11-20 11:27:00.000000,2024-11-20 12:14:13.000000,Kultúrne podujatie,Jazzový koncert v parku,1374,Počas podujatia došlo k nepredvídaným komplikáciám.
+729,2024-11-07 08:46:00.000000,2024-11-07 09:35:14.000000,Kultúrne podujatie,Stand-up comedy večer,1263,Nahlásené menšie technické problémy.
+730,2024-12-24 10:11:00.000000,2024-12-24 10:57:53.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,288,"Veľký záujem verejnosti, vysoká účasť."
+731,2024-06-29 19:49:00.000000,2024-06-29 20:36:12.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,995,Nahlásené menšie technické problémy.
+732,2025-01-04 18:59:00.000000,2025-01-04 19:48:31.000000,Športové podujatie,Bežecká súťaž na 10 km,1686,Z bezpečnostných dôvodov boli prijaté opatrenia.
+733,2024-09-09 08:42:00.000000,2024-09-09 09:22:52.000000,Kultúrne podujatie,Stand-up comedy večer,1418,Počas podujatia došlo k nepredvídaným komplikáciám.
+734,2024-08-07 09:51:00.000000,2024-08-07 10:33:28.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,389,"Veľký záujem verejnosti, vysoká účasť."
+735,2024-03-30 15:13:00.000000,2024-03-30 16:00:26.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,503,Podujatie prebiehalo bez incidentov.
+736,2025-02-04 19:43:00.000000,2025-02-04 20:30:14.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,33,"Veľký záujem verejnosti, vysoká účasť."
+737,2024-11-09 17:21:00.000000,2024-11-09 18:10:04.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,496,Podujatie malo pozitívny ohlas v médiách.
+738,2024-11-29 10:32:00.000000,2024-11-29 11:17:34.000000,Verejná akcia,Mestská diskusia so starostom,971,Z bezpečnostných dôvodov boli prijaté opatrenia.
+739,2024-08-09 09:11:00.000000,2024-08-09 09:55:22.000000,Neočakávané podujatie,Havária vodovodného potrubia,194,Počas podujatia došlo k nepredvídaným komplikáciám.
+740,2024-08-15 10:52:00.000000,2024-08-15 11:36:12.000000,Kultúrne podujatie,Jazzový koncert v parku,1264,Podujatie malo pozitívny ohlas v médiách.
+741,2024-03-27 18:27:00.000000,2024-03-27 19:14:04.000000,Súkromná udalosť,Firemný teambuilding,49,Počas podujatia došlo k nepredvídaným komplikáciám.
+742,2024-09-30 08:07:00.000000,2024-09-30 08:51:29.000000,Kultúrne podujatie,Jazzový koncert v parku,406,Z bezpečnostných dôvodov boli prijaté opatrenia.
+743,2025-01-29 11:34:00.000000,2025-01-29 12:20:15.000000,Verejná akcia,Mestská diskusia so starostom,226,Podujatie malo pozitívny ohlas v médiách.
+744,2024-12-30 10:20:00.000000,2024-12-30 11:05:08.000000,Verejná akcia,Svetový deň dobrovoľníctva,961,Podujatie prebiehalo bez incidentov.
+745,2025-01-07 09:54:00.000000,2025-01-07 10:40:55.000000,Kultúrne podujatie,Literárna noc v knižnici,387,Podujatie malo pozitívny ohlas v médiách.
+746,2024-06-18 14:07:00.000000,2024-06-18 14:52:13.000000,Súkromná udalosť,Súkromná oslava narodenín,34,Z bezpečnostných dôvodov boli prijaté opatrenia.
+747,2024-02-29 07:55:00.000000,2024-02-29 08:37:02.000000,Športové podujatie,Národný šachový turnaj,2629,Počas podujatia došlo k nepredvídaným komplikáciám.
+748,2024-11-17 19:30:00.000000,2024-11-17 20:18:46.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,238,"Veľký záujem verejnosti, vysoká účasť."
+749,2024-08-31 09:53:00.000000,2024-08-31 10:36:39.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,823,Počas podujatia došlo k nepredvídaným komplikáciám.
+750,2024-03-24 16:08:00.000000,2024-03-24 16:53:07.000000,Verejná akcia,Mestská diskusia so starostom,208,Nahlásené menšie technické problémy.
+751,2024-05-28 16:20:00.000000,2024-05-28 17:06:33.000000,Kultúrne podujatie,Jazzový koncert v parku,1318,Z bezpečnostných dôvodov boli prijaté opatrenia.
+752,2024-12-26 13:11:00.000000,2024-12-26 13:57:35.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,2173,Z bezpečnostných dôvodov boli prijaté opatrenia.
+753,2024-10-05 19:37:00.000000,2024-10-05 20:20:44.000000,Politické a spoločenské podujatie,Protest proti korupcii,2063,Nahlásené menšie technické problémy.
+754,2024-08-06 17:45:00.000000,2024-08-06 18:35:03.000000,Verejná akcia,Pouličný trh a remeslá,686,Podujatie malo pozitívny ohlas v médiách.
+755,2024-07-02 18:55:00.000000,2024-07-02 19:37:12.000000,Súkromná udalosť,Svadobná hostina,72,"Veľký záujem verejnosti, vysoká účasť."
+756,2024-08-06 14:40:00.000000,2024-08-06 15:21:56.000000,Súkromná udalosť,Firemný teambuilding,23,Z bezpečnostných dôvodov boli prijaté opatrenia.
+757,2024-05-05 15:59:00.000000,2024-05-05 16:41:44.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,769,Z bezpečnostných dôvodov boli prijaté opatrenia.
+758,2024-08-24 15:08:00.000000,2024-08-24 15:50:47.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,169,Nahlásené menšie technické problémy.
+759,2025-01-03 12:01:00.000000,2025-01-03 12:45:10.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,123,"Veľký záujem verejnosti, vysoká účasť."
+760,2024-06-14 09:36:00.000000,2024-06-14 10:22:51.000000,Neočakávané podujatie,Havária vodovodného potrubia,85,"Veľký záujem verejnosti, vysoká účasť."
+761,2024-04-12 13:53:00.000000,2024-04-12 14:38:21.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,101,Nahlásené menšie technické problémy.
+762,2024-12-31 07:50:00.000000,2024-12-31 08:36:19.000000,Mimoriadna udalosť,Policajná operácia v centre,502,Z bezpečnostných dôvodov boli prijaté opatrenia.
+763,2024-08-09 11:58:00.000000,2024-08-09 12:42:38.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,147,Počas podujatia došlo k nepredvídaným komplikáciám.
+764,2024-02-22 13:30:00.000000,2024-02-22 14:16:10.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,395,Počas podujatia došlo k nepredvídaným komplikáciám.
+765,2024-12-18 10:34:00.000000,2024-12-18 11:21:25.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,297,Z bezpečnostných dôvodov boli prijaté opatrenia.
+766,2024-07-30 08:42:00.000000,2024-07-30 09:23:56.000000,Vopred nahlásené podujatie,Celomestská dobrovoľnícka akcia,952,Podujatie prebiehalo bez incidentov.
+767,2024-03-25 11:48:00.000000,2024-03-25 12:28:56.000000,Neočakávané podujatie,Náhla evakuácia budovy,108,"Veľký záujem verejnosti, vysoká účasť."
+768,2024-09-10 15:15:00.000000,2024-09-10 15:56:07.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,490,Z bezpečnostných dôvodov boli prijaté opatrenia.
+769,2024-06-29 15:44:00.000000,2024-06-29 16:33:38.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1813,Z bezpečnostných dôvodov boli prijaté opatrenia.
+770,2024-03-20 13:11:00.000000,2024-03-20 13:57:20.000000,Kultúrne podujatie,Výstava súčasného umenia,477,Podujatie malo pozitívny ohlas v médiách.
+771,2024-10-22 18:40:00.000000,2024-10-22 19:27:04.000000,Športové podujatie,Národný šachový turnaj,2491,Z bezpečnostných dôvodov boli prijaté opatrenia.
+772,2024-05-19 13:04:00.000000,2024-05-19 13:45:28.000000,Súkromná udalosť,Súkromná oslava narodenín,22,"Veľký záujem verejnosti, vysoká účasť."
+773,2024-11-26 16:46:00.000000,2024-11-26 17:29:53.000000,Kultúrne podujatie,Stand-up comedy večer,1478,Nahlásené menšie technické problémy.
+774,2024-06-29 16:51:00.000000,2024-06-29 17:32:13.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1844,Nahlásené menšie technické problémy.
+775,2024-11-22 12:06:00.000000,2024-11-22 12:52:30.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,588,Nahlásené menšie technické problémy.
+776,2024-12-05 12:52:00.000000,2024-12-05 13:41:16.000000,Neočakávané podujatie,Havária vodovodného potrubia,49,Z bezpečnostných dôvodov boli prijaté opatrenia.
+777,2024-06-23 15:54:00.000000,2024-06-23 16:37:34.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,482,"Veľký záujem verejnosti, vysoká účasť."
+778,2024-04-26 15:46:00.000000,2024-04-26 16:32:07.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,2539,Z bezpečnostných dôvodov boli prijaté opatrenia.
+779,2024-12-23 09:12:00.000000,2024-12-23 10:01:03.000000,Športové podujatie,Svetový šampionát v plávaní,2249,"Veľký záujem verejnosti, vysoká účasť."
+780,2024-03-21 15:44:00.000000,2024-03-21 16:31:28.000000,Náboženské a duchovné podujatie,Meditačný workshop,440,Počas podujatia došlo k nepredvídaným komplikáciám.
+781,2024-12-22 08:32:00.000000,2024-12-22 09:16:40.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,596,Počas podujatia došlo k nepredvídaným komplikáciám.
+782,2024-10-25 16:51:00.000000,2024-10-25 17:33:19.000000,Verejná akcia,Pouličný trh a remeslá,641,Nahlásené menšie technické problémy.
+783,2025-01-16 12:25:00.000000,2025-01-16 13:14:33.000000,Verejná akcia,Pouličný trh a remeslá,965,Počas podujatia došlo k nepredvídaným komplikáciám.
+784,2024-10-10 09:39:00.000000,2024-10-10 10:22:59.000000,Športové podujatie,Bežecká súťaž na 10 km,3315,Počas podujatia došlo k nepredvídaným komplikáciám.
+785,2024-09-19 11:45:00.000000,2024-09-19 12:30:48.000000,Kultúrne podujatie,Stand-up comedy večer,349,"Veľký záujem verejnosti, vysoká účasť."
+786,2024-08-14 13:52:00.000000,2024-08-14 14:40:00.000000,Vopred nahlásené podujatie,Celomestská dobrovoľnícka akcia,66,Nahlásené menšie technické problémy.
+787,2024-03-29 12:13:00.000000,2024-03-29 12:54:52.000000,Súkromná udalosť,Rodinné stretnutie v parku,65,Počas podujatia došlo k nepredvídaným komplikáciám.
+788,2024-12-29 12:09:00.000000,2024-12-29 12:52:18.000000,Súkromná udalosť,Svadobná hostina,87,Nahlásené menšie technické problémy.
+789,2024-09-01 18:14:00.000000,2024-09-01 18:55:17.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,190,"Veľký záujem verejnosti, vysoká účasť."
+790,2024-10-21 12:13:00.000000,2024-10-21 12:59:51.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2317,Z bezpečnostných dôvodov boli prijaté opatrenia.
+791,2024-06-13 16:58:00.000000,2024-06-13 17:47:49.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,164,"Veľký záujem verejnosti, vysoká účasť."
+792,2024-03-17 14:32:00.000000,2024-03-17 15:16:49.000000,Verejná akcia,Mestská diskusia so starostom,459,"Veľký záujem verejnosti, vysoká účasť."
+793,2024-02-13 18:19:00.000000,2024-02-13 19:04:23.000000,Súkromná udalosť,Rodinné stretnutie v parku,88,Podujatie malo pozitívny ohlas v médiách.
+794,2024-03-29 13:41:00.000000,2024-03-29 14:30:42.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,949,"Veľký záujem verejnosti, vysoká účasť."
+795,2024-07-30 18:27:00.000000,2024-07-30 19:08:52.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,367,Počas podujatia došlo k nepredvídaným komplikáciám.
+796,2024-03-19 16:39:00.000000,2024-03-19 17:22:57.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,395,Nahlásené menšie technické problémy.
+797,2024-06-15 12:47:00.000000,2024-06-15 13:31:43.000000,Mimoriadna udalosť,Policajná operácia v centre,273,"Veľký záujem verejnosti, vysoká účasť."
+798,2024-03-20 17:38:00.000000,2024-03-20 18:20:46.000000,Neočakávané podujatie,Náhla evakuácia budovy,72,Z bezpečnostných dôvodov boli prijaté opatrenia.
+799,2025-01-07 09:31:00.000000,2025-01-07 10:20:27.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,875,"Veľký záujem verejnosti, vysoká účasť."
+800,2024-03-02 15:47:00.000000,2024-03-02 16:30:54.000000,Verejná akcia,Mestská diskusia so starostom,542,Podujatie malo pozitívny ohlas v médiách.
+801,2025-01-09 19:37:00.000000,2025-01-09 20:26:33.000000,Kultúrne podujatie,Výstava súčasného umenia,1240,"Veľký záujem verejnosti, vysoká účasť."
+802,2024-08-19 16:13:00.000000,2024-08-19 16:57:47.000000,Verejná akcia,Svetový deň dobrovoľníctva,768,Počas podujatia došlo k nepredvídaným komplikáciám.
+803,2024-12-13 08:28:00.000000,2024-12-13 09:11:56.000000,Verejná akcia,Letný mestský piknik,225,Počas podujatia došlo k nepredvídaným komplikáciám.
+804,2024-07-16 10:48:00.000000,2024-07-16 11:30:34.000000,Mimoriadna udalosť,Policajná operácia v centre,841,Podujatie prebiehalo bez incidentov.
+805,2024-08-31 13:39:00.000000,2024-08-31 14:25:41.000000,Športové podujatie,Hokejový zápas finále ligy,4980,Z bezpečnostných dôvodov boli prijaté opatrenia.
+806,2024-11-25 09:23:00.000000,2024-11-25 10:08:40.000000,Kultúrne podujatie,Stand-up comedy večer,1306,Počas podujatia došlo k nepredvídaným komplikáciám.
+807,2024-09-29 14:27:00.000000,2024-09-29 15:12:13.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,201,"Veľký záujem verejnosti, vysoká účasť."
+808,2024-12-04 08:02:00.000000,2024-12-04 08:47:27.000000,Politické a spoločenské podujatie,Pochod za práva žien,1557,"Veľký záujem verejnosti, vysoká účasť."
+809,2025-01-14 10:10:00.000000,2025-01-14 10:58:24.000000,Kultúrne podujatie,Výstava súčasného umenia,407,"Veľký záujem verejnosti, vysoká účasť."
+810,2024-07-12 11:07:00.000000,2024-07-12 11:53:39.000000,Verejná akcia,Pouličný trh a remeslá,120,Z bezpečnostných dôvodov boli prijaté opatrenia.
+811,2024-06-30 14:18:00.000000,2024-06-30 15:00:47.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,418,"Veľký záujem verejnosti, vysoká účasť."
+812,2024-07-11 14:45:00.000000,2024-07-11 15:27:08.000000,Súkromná udalosť,Súkromná oslava narodenín,65,Počas podujatia došlo k nepredvídaným komplikáciám.
+813,2024-02-17 14:15:00.000000,2024-02-17 15:04:42.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2676,Podujatie prebiehalo bez incidentov.
+814,2025-01-24 19:16:00.000000,2025-01-24 20:05:27.000000,Neočakávané podujatie,Náhla evakuácia budovy,134,Z bezpečnostných dôvodov boli prijaté opatrenia.
+815,2024-05-15 17:55:00.000000,2024-05-15 18:35:38.000000,Mimoriadna udalosť,Policajná operácia v centre,818,Nahlásené menšie technické problémy.
+816,2024-05-06 09:28:00.000000,2024-05-06 10:12:08.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,300,Podujatie malo pozitívny ohlas v médiách.
+817,2024-12-09 13:01:00.000000,2024-12-09 13:48:58.000000,Verejná akcia,Mestská diskusia so starostom,251,Z bezpečnostných dôvodov boli prijaté opatrenia.
+818,2024-08-23 08:11:00.000000,2024-08-23 09:00:42.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,643,"Veľký záujem verejnosti, vysoká účasť."
+819,2024-06-12 17:07:00.000000,2024-06-12 17:53:35.000000,Politické a spoločenské podujatie,Pochod za práva žien,2805,Podujatie prebiehalo bez incidentov.
+820,2024-04-12 19:23:00.000000,2024-04-12 20:09:03.000000,Politické a spoločenské podujatie,Pochod za práva žien,1709,Z bezpečnostných dôvodov boli prijaté opatrenia.
+821,2024-11-29 11:45:00.000000,2024-11-29 12:32:18.000000,Športové podujatie,Bežecká súťaž na 10 km,2699,Podujatie prebiehalo bez incidentov.
+822,2024-04-23 16:01:00.000000,2024-04-23 16:44:09.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,52,Počas podujatia došlo k nepredvídaným komplikáciám.
+823,2024-09-22 17:30:00.000000,2024-09-22 18:10:59.000000,Kultúrne podujatie,Literárna noc v knižnici,947,Z bezpečnostných dôvodov boli prijaté opatrenia.
+824,2024-06-10 17:12:00.000000,2024-06-10 17:52:53.000000,Verejná akcia,Mestská diskusia so starostom,579,"Veľký záujem verejnosti, vysoká účasť."
+825,2024-04-21 11:56:00.000000,2024-04-21 12:42:14.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,478,Z bezpečnostných dôvodov boli prijaté opatrenia.
+826,2024-08-11 09:45:00.000000,2024-08-11 10:32:22.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,304,Počas podujatia došlo k nepredvídaným komplikáciám.
+827,2024-05-27 13:45:00.000000,2024-05-27 14:28:15.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,183,Podujatie prebiehalo bez incidentov.
+828,2025-01-23 10:22:00.000000,2025-01-23 11:07:08.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,126,Počas podujatia došlo k nepredvídaným komplikáciám.
+829,2024-10-21 19:25:00.000000,2024-10-21 20:11:46.000000,Verejná akcia,Mestská diskusia so starostom,327,Podujatie prebiehalo bez incidentov.
+830,2025-01-11 15:30:00.000000,2025-01-11 16:18:48.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,880,Podujatie malo pozitívny ohlas v médiách.
+831,2024-04-23 13:12:00.000000,2024-04-23 13:59:11.000000,Verejná akcia,Svetový deň dobrovoľníctva,128,Z bezpečnostných dôvodov boli prijaté opatrenia.
+832,2024-11-11 09:16:00.000000,2024-11-11 09:58:55.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,821,Z bezpečnostných dôvodov boli prijaté opatrenia.
+833,2024-06-23 18:30:00.000000,2024-06-23 19:16:06.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,716,Počas podujatia došlo k nepredvídaným komplikáciám.
+834,2024-05-14 16:44:00.000000,2024-05-14 17:31:24.000000,Kultúrne podujatie,Stand-up comedy večer,739,Počas podujatia došlo k nepredvídaným komplikáciám.
+835,2024-10-20 10:51:00.000000,2024-10-20 11:33:29.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,96,Z bezpečnostných dôvodov boli prijaté opatrenia.
+836,2025-01-06 18:00:00.000000,2025-01-06 18:41:01.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,698,Podujatie malo pozitívny ohlas v médiách.
+837,2024-09-12 09:56:00.000000,2024-09-12 10:39:54.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,661,Z bezpečnostných dôvodov boli prijaté opatrenia.
+838,2024-12-02 15:30:00.000000,2024-12-02 16:15:03.000000,Športové podujatie,Hokejový zápas finále ligy,2269,Podujatie prebiehalo bez incidentov.
+839,2024-06-23 17:47:00.000000,2024-06-23 18:35:31.000000,Verejná akcia,Pouličný trh a remeslá,158,Nahlásené menšie technické problémy.
+840,2024-07-17 19:06:00.000000,2024-07-17 19:52:16.000000,Súkromná udalosť,Súkromná oslava narodenín,49,Nahlásené menšie technické problémy.
+841,2024-09-11 15:19:00.000000,2024-09-11 16:02:06.000000,Kultúrne podujatie,Stand-up comedy večer,1335,Z bezpečnostných dôvodov boli prijaté opatrenia.
+842,2024-05-21 16:57:00.000000,2024-05-21 17:43:30.000000,Politické a spoločenské podujatie,Pochod za práva žien,2115,"Veľký záujem verejnosti, vysoká účasť."
+843,2024-02-25 13:58:00.000000,2024-02-25 14:39:05.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,392,"Veľký záujem verejnosti, vysoká účasť."
+844,2024-06-22 16:20:00.000000,2024-06-22 17:00:42.000000,Súkromná udalosť,Firemný teambuilding,98,Z bezpečnostných dôvodov boli prijaté opatrenia.
+845,2024-12-15 09:15:00.000000,2024-12-15 09:58:43.000000,Kultúrne podujatie,Stand-up comedy večer,254,Počas podujatia došlo k nepredvídaným komplikáciám.
+846,2024-03-17 12:23:00.000000,2024-03-17 13:10:12.000000,Kultúrne podujatie,Jazzový koncert v parku,1167,"Veľký záujem verejnosti, vysoká účasť."
+847,2024-10-05 09:33:00.000000,2024-10-05 10:18:41.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,840,Nahlásené menšie technické problémy.
+848,2024-11-17 14:20:00.000000,2024-11-17 15:05:07.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,81,Z bezpečnostných dôvodov boli prijaté opatrenia.
+849,2024-10-07 10:07:00.000000,2024-10-07 10:56:19.000000,Súkromná udalosť,Svadobná hostina,27,Podujatie prebiehalo bez incidentov.
+850,2024-06-09 10:45:00.000000,2024-06-09 11:32:57.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,195,Podujatie prebiehalo bez incidentov.
+851,2024-07-29 16:01:00.000000,2024-07-29 16:43:53.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,949,Podujatie prebiehalo bez incidentov.
+852,2024-09-05 18:17:00.000000,2024-09-05 18:58:23.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,609,Podujatie prebiehalo bez incidentov.
+853,2024-12-12 09:26:00.000000,2024-12-12 10:09:31.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,102,Podujatie prebiehalo bez incidentov.
+854,2024-06-19 08:39:00.000000,2024-06-19 09:25:56.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,614,Z bezpečnostných dôvodov boli prijaté opatrenia.
+855,2025-01-14 09:00:00.000000,2025-01-14 09:42:10.000000,Kultúrne podujatie,Letný filmový festival,1023,Z bezpečnostných dôvodov boli prijaté opatrenia.
+856,2024-07-27 10:17:00.000000,2024-07-27 10:57:39.000000,Súkromná udalosť,Firemný teambuilding,10,Nahlásené menšie technické problémy.
+857,2024-12-27 11:10:00.000000,2024-12-27 11:50:46.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,484,Nahlásené menšie technické problémy.
+858,2024-10-13 15:41:00.000000,2024-10-13 16:25:44.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1785,Počas podujatia došlo k nepredvídaným komplikáciám.
+859,2024-07-09 18:12:00.000000,2024-07-09 19:01:11.000000,Neočakávané podujatie,Havária vodovodného potrubia,180,Z bezpečnostných dôvodov boli prijaté opatrenia.
+860,2024-11-08 16:35:00.000000,2024-11-08 17:15:50.000000,Súkromná udalosť,Rodinné stretnutie v parku,46,Z bezpečnostných dôvodov boli prijaté opatrenia.
+861,2024-06-26 18:01:00.000000,2024-06-26 18:42:14.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,180,Podujatie prebiehalo bez incidentov.
+862,2024-06-14 16:42:00.000000,2024-06-14 17:30:21.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,273,Podujatie prebiehalo bez incidentov.
+863,2024-09-01 12:26:00.000000,2024-09-01 13:11:07.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2359,Nahlásené menšie technické problémy.
+864,2024-11-17 14:41:00.000000,2024-11-17 15:28:56.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,244,"Veľký záujem verejnosti, vysoká účasť."
+865,2024-04-10 17:20:00.000000,2024-04-10 18:00:51.000000,Verejná akcia,Mestská diskusia so starostom,276,Počas podujatia došlo k nepredvídaným komplikáciám.
+866,2024-03-11 16:35:00.000000,2024-03-11 17:22:03.000000,Športové podujatie,Medzinárodný futbalový turnaj,4581,Počas podujatia došlo k nepredvídaným komplikáciám.
+867,2024-03-22 19:19:00.000000,2024-03-22 20:04:44.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,133,Z bezpečnostných dôvodov boli prijaté opatrenia.
+868,2025-02-09 16:48:00.000000,2025-02-09 17:32:15.000000,Športové podujatie,Národný šachový turnaj,1936,Z bezpečnostných dôvodov boli prijaté opatrenia.
+869,2024-06-15 08:55:00.000000,2024-06-15 09:39:32.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,748,"Veľký záujem verejnosti, vysoká účasť."
+870,2024-02-29 09:43:00.000000,2024-02-29 10:24:55.000000,Verejná akcia,Mestská diskusia so starostom,303,Nahlásené menšie technické problémy.
+871,2024-12-02 16:48:00.000000,2024-12-02 17:33:34.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,220,Podujatie malo pozitívny ohlas v médiách.
+872,2024-08-25 15:03:00.000000,2024-08-25 15:52:27.000000,Kultúrne podujatie,Stand-up comedy večer,621,"Veľký záujem verejnosti, vysoká účasť."
+873,2024-02-24 10:28:00.000000,2024-02-24 11:13:55.000000,Súkromná udalosť,Súkromná oslava narodenín,52,Podujatie prebiehalo bez incidentov.
+874,2024-12-14 08:45:00.000000,2024-12-14 09:30:33.000000,Súkromná udalosť,Rodinné stretnutie v parku,59,Nahlásené menšie technické problémy.
+875,2024-11-12 14:59:00.000000,2024-11-12 15:39:46.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,685,Z bezpečnostných dôvodov boli prijaté opatrenia.
+876,2024-10-19 11:27:00.000000,2024-10-19 12:13:30.000000,Kultúrne podujatie,Výstava súčasného umenia,1092,Nahlásené menšie technické problémy.
+877,2024-05-19 10:13:00.000000,2024-05-19 11:03:03.000000,Športové podujatie,Hokejový zápas finále ligy,3552,"Veľký záujem verejnosti, vysoká účasť."
+878,2024-10-25 09:16:00.000000,2024-10-25 10:06:03.000000,Športové podujatie,Hokejový zápas finále ligy,3629,Nahlásené menšie technické problémy.
+879,2024-11-06 13:57:00.000000,2024-11-06 14:42:00.000000,Športové podujatie,Hokejový zápas finále ligy,4194,Nahlásené menšie technické problémy.
+880,2024-07-21 12:42:00.000000,2024-07-21 13:31:33.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,213,Z bezpečnostných dôvodov boli prijaté opatrenia.
+881,2024-07-26 16:20:00.000000,2024-07-26 17:08:29.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,138,Podujatie malo pozitívny ohlas v médiách.
+882,2024-05-17 10:01:00.000000,2024-05-17 10:48:38.000000,Verejná akcia,Svetový deň dobrovoľníctva,750,Z bezpečnostných dôvodov boli prijaté opatrenia.
+883,2024-09-16 12:01:00.000000,2024-09-16 12:43:49.000000,Športové podujatie,Hokejový zápas finále ligy,4945,Podujatie prebiehalo bez incidentov.
+884,2024-10-12 18:46:00.000000,2024-10-12 19:32:54.000000,Kultúrne podujatie,Literárna noc v knižnici,696,"Veľký záujem verejnosti, vysoká účasť."
+885,2024-06-14 11:42:00.000000,2024-06-14 12:24:21.000000,Kultúrne podujatie,Letný filmový festival,648,Nahlásené menšie technické problémy.
+886,2024-09-04 17:42:00.000000,2024-09-04 18:31:19.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,610,Podujatie malo pozitívny ohlas v médiách.
+887,2024-03-18 15:56:00.000000,2024-03-18 16:42:04.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,163,Nahlásené menšie technické problémy.
+888,2024-07-08 11:58:00.000000,2024-07-08 12:47:35.000000,Športové podujatie,Národný šachový turnaj,3581,"Veľký záujem verejnosti, vysoká účasť."
+889,2024-12-12 11:36:00.000000,2024-12-12 12:17:18.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1693,Podujatie malo pozitívny ohlas v médiách.
+890,2024-06-04 17:47:00.000000,2024-06-04 18:32:15.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,722,Nahlásené menšie technické problémy.
+891,2024-09-11 17:20:00.000000,2024-09-11 18:07:55.000000,Politické a spoločenské podujatie,Pochod za práva žien,1635,Nahlásené menšie technické problémy.
+892,2025-01-03 11:58:00.000000,2025-01-03 12:48:07.000000,Súkromná udalosť,Súkromná oslava narodenín,52,Nahlásené menšie technické problémy.
+893,2024-06-10 12:22:00.000000,2024-06-10 13:06:02.000000,Kultúrne podujatie,Jazzový koncert v parku,740,Podujatie prebiehalo bez incidentov.
+894,2024-12-08 08:17:00.000000,2024-12-08 09:00:26.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,551,Počas podujatia došlo k nepredvídaným komplikáciám.
+895,2024-11-24 14:06:00.000000,2024-11-24 14:47:07.000000,Verejná akcia,Letný mestský piknik,240,Počas podujatia došlo k nepredvídaným komplikáciám.
+896,2024-06-18 13:16:00.000000,2024-06-18 13:58:06.000000,Kultúrne podujatie,Výstava súčasného umenia,1375,"Veľký záujem verejnosti, vysoká účasť."
+897,2024-07-02 09:15:00.000000,2024-07-02 10:03:52.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,498,Podujatie malo pozitívny ohlas v médiách.
+898,2024-03-17 11:59:00.000000,2024-03-17 12:42:28.000000,Verejná akcia,Pouličný trh a remeslá,498,Z bezpečnostných dôvodov boli prijaté opatrenia.
+899,2024-05-11 15:58:00.000000,2024-05-11 16:44:16.000000,Kultúrne podujatie,Stand-up comedy večer,797,Z bezpečnostných dôvodov boli prijaté opatrenia.
+900,2024-07-28 19:43:00.000000,2024-07-28 20:27:23.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,313,"Veľký záujem verejnosti, vysoká účasť."
+901,2024-05-01 12:02:00.000000,2024-05-01 12:45:32.000000,Súkromná udalosť,Firemný teambuilding,34,Počas podujatia došlo k nepredvídaným komplikáciám.
+902,2024-11-25 19:32:00.000000,2024-11-25 20:17:26.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1156,Nahlásené menšie technické problémy.
+903,2024-10-24 12:03:00.000000,2024-10-24 12:46:14.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,787,Podujatie malo pozitívny ohlas v médiách.
+904,2024-02-19 18:19:00.000000,2024-02-19 19:01:08.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,282,Z bezpečnostných dôvodov boli prijaté opatrenia.
+905,2024-09-19 18:58:00.000000,2024-09-19 19:44:56.000000,Neočakávané podujatie,Náhla evakuácia budovy,61,Počas podujatia došlo k nepredvídaným komplikáciám.
+906,2024-06-15 12:46:00.000000,2024-06-15 13:32:20.000000,Neočakávané podujatie,Havária vodovodného potrubia,172,Nahlásené menšie technické problémy.
+907,2024-08-31 08:50:00.000000,2024-08-31 09:32:16.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2061,Nahlásené menšie technické problémy.
+908,2025-01-30 18:28:00.000000,2025-01-30 19:17:54.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,288,Počas podujatia došlo k nepredvídaným komplikáciám.
+909,2025-02-05 15:42:00.000000,2025-02-05 16:28:26.000000,Športové podujatie,Hokejový zápas finále ligy,3146,Z bezpečnostných dôvodov boli prijaté opatrenia.
+910,2024-06-05 16:13:00.000000,2024-06-05 16:53:35.000000,Športové podujatie,Bežecká súťaž na 10 km,3502,Podujatie malo pozitívny ohlas v médiách.
+911,2024-04-13 09:07:00.000000,2024-04-13 09:56:09.000000,Neočakávané podujatie,Náhly výpadok elektriny,182,Nahlásené menšie technické problémy.
+912,2024-12-22 16:51:00.000000,2024-12-22 17:32:35.000000,Kultúrne podujatie,Literárna noc v knižnici,422,Počas podujatia došlo k nepredvídaným komplikáciám.
+913,2024-12-13 11:15:00.000000,2024-12-13 12:03:41.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,443,Nahlásené menšie technické problémy.
+914,2024-12-18 14:55:00.000000,2024-12-18 15:38:41.000000,Náboženské a duchovné podujatie,Meditačný workshop,667,"Veľký záujem verejnosti, vysoká účasť."
+915,2024-07-10 08:11:00.000000,2024-07-10 08:57:51.000000,Športové podujatie,Národný šachový turnaj,4757,Počas podujatia došlo k nepredvídaným komplikáciám.
+916,2025-01-12 13:41:00.000000,2025-01-12 14:23:07.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,61,Počas podujatia došlo k nepredvídaným komplikáciám.
+917,2024-05-07 11:33:00.000000,2024-05-07 12:16:56.000000,Neočakávané podujatie,Náhla evakuácia budovy,109,"Veľký záujem verejnosti, vysoká účasť."
+918,2024-02-25 17:34:00.000000,2024-02-25 18:21:56.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,308,Nahlásené menšie technické problémy.
+919,2024-09-22 09:47:00.000000,2024-09-22 10:36:01.000000,Mimoriadna udalosť,Policajná operácia v centre,981,Počas podujatia došlo k nepredvídaným komplikáciám.
+920,2024-07-21 12:33:00.000000,2024-07-21 13:22:05.000000,Politické a spoločenské podujatie,Protest proti korupcii,504,Nahlásené menšie technické problémy.
+921,2024-05-30 18:19:00.000000,2024-05-30 19:03:44.000000,Športové podujatie,Medzinárodný futbalový turnaj,2468,Podujatie malo pozitívny ohlas v médiách.
+922,2024-06-26 18:19:00.000000,2024-06-26 19:08:01.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,842,Nahlásené menšie technické problémy.
+923,2025-02-01 11:59:00.000000,2025-02-01 12:41:42.000000,Verejná akcia,Mestská diskusia so starostom,446,Z bezpečnostných dôvodov boli prijaté opatrenia.
+924,2024-07-08 19:25:00.000000,2024-07-08 20:12:57.000000,Kultúrne podujatie,Stand-up comedy večer,1203,Nahlásené menšie technické problémy.
+925,2024-08-25 11:53:00.000000,2024-08-25 12:38:21.000000,Neočakávané podujatie,Náhla evakuácia budovy,117,"Veľký záujem verejnosti, vysoká účasť."
+926,2024-05-05 19:16:00.000000,2024-05-05 20:04:32.000000,Neočakávané podujatie,Náhly výpadok elektriny,192,"Veľký záujem verejnosti, vysoká účasť."
+927,2024-07-24 14:53:00.000000,2024-07-24 15:41:27.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,488,Podujatie malo pozitívny ohlas v médiách.
+928,2024-09-21 14:37:00.000000,2024-09-21 15:23:46.000000,Neočakávané podujatie,Náhly výpadok elektriny,118,Nahlásené menšie technické problémy.
+929,2024-10-04 16:37:00.000000,2024-10-04 17:26:05.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2636,Podujatie malo pozitívny ohlas v médiách.
+930,2024-03-03 10:51:00.000000,2024-03-03 11:33:49.000000,Súkromná udalosť,Súkromná oslava narodenín,93,Z bezpečnostných dôvodov boli prijaté opatrenia.
+931,2024-10-13 08:47:00.000000,2024-10-13 09:32:33.000000,Vzdelávacie podujatie,Hackathon pre študentov,451,"Veľký záujem verejnosti, vysoká účasť."
+932,2024-07-10 12:32:00.000000,2024-07-10 13:21:19.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,280,"Veľký záujem verejnosti, vysoká účasť."
+933,2024-11-03 18:56:00.000000,2024-11-03 19:36:57.000000,Športové podujatie,Hokejový zápas finále ligy,2217,Podujatie prebiehalo bez incidentov.
+934,2024-05-24 11:13:00.000000,2024-05-24 12:00:19.000000,Vzdelávacie podujatie,Hackathon pre študentov,345,"Veľký záujem verejnosti, vysoká účasť."
+935,2024-06-27 12:08:00.000000,2024-06-27 12:53:31.000000,Súkromná udalosť,Rodinné stretnutie v parku,91,Podujatie prebiehalo bez incidentov.
+936,2025-01-03 12:56:00.000000,2025-01-03 13:43:39.000000,Športové podujatie,Svetový šampionát v plávaní,1872,Nahlásené menšie technické problémy.
+937,2024-06-29 14:29:00.000000,2024-06-29 15:14:24.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,244,Podujatie prebiehalo bez incidentov.
+938,2025-01-04 15:45:00.000000,2025-01-04 16:29:37.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,403,Počas podujatia došlo k nepredvídaným komplikáciám.
+939,2024-08-13 16:27:00.000000,2024-08-13 17:15:04.000000,Verejná akcia,Mestská diskusia so starostom,938,Podujatie malo pozitívny ohlas v médiách.
+940,2024-07-09 11:04:00.000000,2024-07-09 11:44:42.000000,Neočakávané podujatie,Náhla evakuácia budovy,158,"Veľký záujem verejnosti, vysoká účasť."
+941,2024-04-26 09:13:00.000000,2024-04-26 09:59:22.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2907,Počas podujatia došlo k nepredvídaným komplikáciám.
+942,2024-06-30 15:06:00.000000,2024-06-30 15:55:33.000000,Športové podujatie,Bežecká súťaž na 10 km,2911,"Veľký záujem verejnosti, vysoká účasť."
+943,2024-12-08 17:58:00.000000,2024-12-08 18:46:33.000000,Kultúrne podujatie,Stand-up comedy večer,1443,Podujatie malo pozitívny ohlas v médiách.
+944,2024-10-27 14:57:00.000000,2024-10-27 15:41:17.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,404,Z bezpečnostných dôvodov boli prijaté opatrenia.
+945,2024-04-13 08:10:00.000000,2024-04-13 08:52:11.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,573,Z bezpečnostných dôvodov boli prijaté opatrenia.
+946,2025-02-06 07:52:00.000000,2025-02-06 08:40:29.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,213,Počas podujatia došlo k nepredvídaným komplikáciám.
+947,2025-01-14 10:39:00.000000,2025-01-14 11:26:10.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,963,Počas podujatia došlo k nepredvídaným komplikáciám.
+948,2024-08-13 11:24:00.000000,2024-08-13 12:14:07.000000,Súkromná udalosť,Rodinné stretnutie v parku,74,"Veľký záujem verejnosti, vysoká účasť."
+949,2025-01-29 08:20:00.000000,2025-01-29 09:09:35.000000,Kultúrne podujatie,Stand-up comedy večer,1429,Nahlásené menšie technické problémy.
+950,2024-12-24 13:06:00.000000,2024-12-24 13:49:29.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2116,"Veľký záujem verejnosti, vysoká účasť."
+951,2024-09-18 08:05:00.000000,2024-09-18 08:50:01.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,105,Z bezpečnostných dôvodov boli prijaté opatrenia.
+952,2024-07-04 18:31:00.000000,2024-07-04 19:16:31.000000,Politické a spoločenské podujatie,Pochod za práva žien,1601,"Veľký záujem verejnosti, vysoká účasť."
+953,2024-03-07 16:08:00.000000,2024-03-07 16:54:06.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,263,Nahlásené menšie technické problémy.
+171,2024-04-24 18:38:00.000000,2024-04-24 19:20:11.000000,Kultúrne podujatie,Výstava súčasného umenia,1422,"Veľký záujem verejnosti, vysoká účasť."
+172,2024-04-23 10:11:00.000000,2024-04-23 10:51:51.000000,Súkromná udalosť,Rodinné stretnutie v parku,56,Počas podujatia došlo k nepredvídaným komplikáciám.
+173,2025-01-20 08:01:00.000000,2025-01-20 08:48:00.000000,Neočakávané podujatie,Náhly výpadok elektriny,175,Podujatie prebiehalo bez incidentov.
+174,2024-05-08 19:22:00.000000,2024-05-08 20:10:05.000000,Športové podujatie,Medzinárodný futbalový turnaj,3088,Podujatie malo pozitívny ohlas v médiách.
+175,2024-07-27 15:23:00.000000,2024-07-27 16:03:36.000000,Verejná akcia,Mestská diskusia so starostom,339,Podujatie malo pozitívny ohlas v médiách.
+176,2024-04-15 18:10:00.000000,2024-04-15 18:52:15.000000,Kultúrne podujatie,Letný filmový festival,1086,Z bezpečnostných dôvodov boli prijaté opatrenia.
+177,2025-01-18 13:44:00.000000,2025-01-18 14:26:35.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,191,"Veľký záujem verejnosti, vysoká účasť."
+178,2024-12-30 10:41:00.000000,2024-12-30 11:25:33.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,418,Z bezpečnostných dôvodov boli prijaté opatrenia.
+179,2024-10-31 17:12:00.000000,2024-10-31 17:58:44.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,150,Počas podujatia došlo k nepredvídaným komplikáciám.
+180,2024-04-15 16:38:00.000000,2024-04-15 17:27:49.000000,Neočakávané podujatie,Náhla evakuácia budovy,99,Podujatie prebiehalo bez incidentov.
+181,2024-12-19 11:37:00.000000,2024-12-19 12:21:52.000000,Kultúrne podujatie,Stand-up comedy večer,1006,Z bezpečnostných dôvodov boli prijaté opatrenia.
+182,2024-10-07 16:57:00.000000,2024-10-07 17:38:55.000000,Športové podujatie,Hokejový zápas finále ligy,3873,"Veľký záujem verejnosti, vysoká účasť."
+183,2024-10-10 18:15:00.000000,2024-10-10 19:02:33.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,550,"Veľký záujem verejnosti, vysoká účasť."
+184,2025-02-01 13:12:00.000000,2025-02-01 13:55:47.000000,Súkromná udalosť,Súkromná oslava narodenín,43,"Veľký záujem verejnosti, vysoká účasť."
+185,2024-11-22 12:44:00.000000,2024-11-22 13:27:05.000000,Verejná akcia,Mestská diskusia so starostom,796,Nahlásené menšie technické problémy.
+186,2024-12-26 09:21:00.000000,2024-12-26 10:02:30.000000,Neočakávané podujatie,Náhla evakuácia budovy,79,Nahlásené menšie technické problémy.
+187,2025-01-05 19:19:00.000000,2025-01-05 20:00:23.000000,Kultúrne podujatie,Výstava súčasného umenia,1335,Počas podujatia došlo k nepredvídaným komplikáciám.
+188,2024-04-17 10:01:00.000000,2024-04-17 10:41:45.000000,Verejná akcia,Letný mestský piknik,71,Podujatie prebiehalo bez incidentov.
+189,2024-02-25 13:31:00.000000,2024-02-25 14:12:35.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,1957,Nahlásené menšie technické problémy.
+190,2024-04-12 18:34:00.000000,2024-04-12 19:22:39.000000,Športové podujatie,Hokejový zápas finále ligy,4941,Podujatie malo pozitívny ohlas v médiách.
+191,2024-06-17 08:04:00.000000,2024-06-17 08:51:44.000000,Súkromná udalosť,Svadobná hostina,89,Nahlásené menšie technické problémy.
+192,2024-10-15 14:52:00.000000,2024-10-15 15:32:51.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,955,"Veľký záujem verejnosti, vysoká účasť."
+193,2024-04-14 13:59:00.000000,2024-04-14 14:48:49.000000,Verejná akcia,Svetový deň dobrovoľníctva,113,Nahlásené menšie technické problémy.
+194,2024-08-13 09:00:00.000000,2024-08-13 09:44:46.000000,Športové podujatie,Svetový šampionát v plávaní,1794,"Veľký záujem verejnosti, vysoká účasť."
+195,2024-11-05 17:40:00.000000,2024-11-05 18:30:02.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,404,Počas podujatia došlo k nepredvídaným komplikáciám.
+196,2025-01-22 14:49:00.000000,2025-01-22 15:38:41.000000,Súkromná udalosť,Firemný teambuilding,47,Podujatie prebiehalo bez incidentov.
+197,2025-01-12 19:01:00.000000,2025-01-12 19:47:34.000000,Športové podujatie,Medzinárodný futbalový turnaj,3412,Podujatie prebiehalo bez incidentov.
+198,2024-06-26 18:46:00.000000,2024-06-26 19:32:14.000000,Športové podujatie,Bežecká súťaž na 10 km,2458,Počas podujatia došlo k nepredvídaným komplikáciám.
+199,2025-01-08 16:30:00.000000,2025-01-08 17:12:49.000000,Neočakávané podujatie,Náhly výpadok elektriny,106,Podujatie prebiehalo bez incidentov.
+200,2024-02-18 09:31:00.000000,2024-02-18 10:13:34.000000,Športové podujatie,Bežecká súťaž na 10 km,3112,Podujatie malo pozitívny ohlas v médiách.
+201,2024-10-22 11:31:00.000000,2024-10-22 12:18:21.000000,Neočakávané podujatie,Havária vodovodného potrubia,196,Počas podujatia došlo k nepredvídaným komplikáciám.
+202,2025-01-07 14:02:00.000000,2025-01-07 14:44:41.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,216,Nahlásené menšie technické problémy.
+203,2024-11-12 18:59:00.000000,2024-11-12 19:48:52.000000,Súkromná udalosť,Svadobná hostina,98,Podujatie malo pozitívny ohlas v médiách.
+204,2024-12-31 14:24:00.000000,2024-12-31 15:04:58.000000,Neočakávané podujatie,Náhla evakuácia budovy,197,Podujatie malo pozitívny ohlas v médiách.
+205,2024-11-25 12:47:00.000000,2024-11-25 13:35:44.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,304,"Veľký záujem verejnosti, vysoká účasť."
+206,2024-11-11 15:57:00.000000,2024-11-11 16:41:48.000000,Športové podujatie,Bežecká súťaž na 10 km,1630,"Veľký záujem verejnosti, vysoká účasť."
+207,2024-10-05 07:57:00.000000,2024-10-05 08:38:48.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,352,Podujatie prebiehalo bez incidentov.
+208,2024-10-13 08:47:00.000000,2024-10-13 09:28:41.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,369,"Veľký záujem verejnosti, vysoká účasť."
+209,2024-08-02 18:32:00.000000,2024-08-02 19:16:00.000000,Súkromná udalosť,Rodinné stretnutie v parku,71,Nahlásené menšie technické problémy.
+210,2024-11-06 17:19:00.000000,2024-11-06 18:03:17.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,208,Podujatie malo pozitívny ohlas v médiách.
+211,2024-10-13 09:44:00.000000,2024-10-13 10:28:11.000000,Neočakávané podujatie,Náhly výpadok elektriny,25,Z bezpečnostných dôvodov boli prijaté opatrenia.
+212,2024-03-04 15:12:00.000000,2024-03-04 15:55:21.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,395,Podujatie prebiehalo bez incidentov.
+213,2024-07-17 09:34:00.000000,2024-07-17 10:24:01.000000,Neočakávané podujatie,Náhly výpadok elektriny,119,Podujatie prebiehalo bez incidentov.
+214,2024-09-21 13:01:00.000000,2024-09-21 13:44:35.000000,Športové podujatie,Svetový šampionát v plávaní,2425,Nahlásené menšie technické problémy.
+215,2024-05-03 15:30:00.000000,2024-05-03 16:12:19.000000,Súkromná udalosť,Rodinné stretnutie v parku,96,Počas podujatia došlo k nepredvídaným komplikáciám.
+216,2024-09-16 13:30:00.000000,2024-09-16 14:19:51.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,519,Počas podujatia došlo k nepredvídaným komplikáciám.
+217,2025-02-03 09:20:00.000000,2025-02-03 10:03:16.000000,Verejná akcia,Svetový deň dobrovoľníctva,183,Podujatie prebiehalo bez incidentov.
+218,2024-05-17 18:21:00.000000,2024-05-17 19:03:59.000000,Mimoriadna udalosť,Policajná operácia v centre,956,Podujatie prebiehalo bez incidentov.
+219,2024-09-18 08:08:00.000000,2024-09-18 08:50:05.000000,Neočakávané podujatie,Náhla evakuácia budovy,46,Nahlásené menšie technické problémy.
+220,2024-06-18 18:01:00.000000,2024-06-18 18:44:35.000000,Kultúrne podujatie,Literárna noc v knižnici,755,"Veľký záujem verejnosti, vysoká účasť."
+221,2024-07-15 11:45:00.000000,2024-07-15 12:30:36.000000,Verejná akcia,Letný mestský piknik,185,Z bezpečnostných dôvodov boli prijaté opatrenia.
+222,2024-05-08 18:50:00.000000,2024-05-08 19:37:04.000000,Súkromná udalosť,Firemný teambuilding,67,Podujatie malo pozitívny ohlas v médiách.
+223,2024-08-11 15:50:00.000000,2024-08-11 16:38:55.000000,Kultúrne podujatie,Stand-up comedy večer,1412,Podujatie malo pozitívny ohlas v médiách.
+224,2024-04-22 15:36:00.000000,2024-04-22 16:20:27.000000,Súkromná udalosť,Firemný teambuilding,83,"Veľký záujem verejnosti, vysoká účasť."
+225,2024-11-08 08:32:00.000000,2024-11-08 09:16:42.000000,Mimoriadna udalosť,Policajná operácia v centre,776,Podujatie malo pozitívny ohlas v médiách.
+226,2024-04-02 08:21:00.000000,2024-04-02 09:05:16.000000,Súkromná udalosť,Firemný teambuilding,15,Nahlásené menšie technické problémy.
+227,2024-04-05 16:49:00.000000,2024-04-05 17:30:38.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,354,Nahlásené menšie technické problémy.
+228,2024-08-26 08:40:00.000000,2024-08-26 09:22:56.000000,Športové podujatie,Svetový šampionát v plávaní,3369,Počas podujatia došlo k nepredvídaným komplikáciám.
+229,2024-03-29 19:48:00.000000,2024-03-29 20:33:46.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,97,"Veľký záujem verejnosti, vysoká účasť."
+230,2024-04-10 13:31:00.000000,2024-04-10 14:14:32.000000,Súkromná udalosť,Súkromná oslava narodenín,79,Podujatie malo pozitívny ohlas v médiách.
+231,2024-11-24 08:34:00.000000,2024-11-24 09:16:26.000000,Verejná akcia,Pouličný trh a remeslá,56,Z bezpečnostných dôvodov boli prijaté opatrenia.
+232,2024-07-17 11:16:00.000000,2024-07-17 11:59:01.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,222,Nahlásené menšie technické problémy.
+233,2024-06-11 13:07:00.000000,2024-06-11 13:47:46.000000,Súkromná udalosť,Svadobná hostina,27,Nahlásené menšie technické problémy.
+234,2024-09-28 12:18:00.000000,2024-09-28 13:06:04.000000,Kultúrne podujatie,Výstava súčasného umenia,891,"Veľký záujem verejnosti, vysoká účasť."
+235,2025-01-26 16:07:00.000000,2025-01-26 16:49:13.000000,Športové podujatie,Hokejový zápas finále ligy,4626,Podujatie prebiehalo bez incidentov.
+236,2024-05-30 16:47:00.000000,2024-05-30 17:32:00.000000,Súkromná udalosť,Rodinné stretnutie v parku,73,Počas podujatia došlo k nepredvídaným komplikáciám.
+237,2024-12-26 16:17:00.000000,2024-12-26 16:58:28.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,169,Počas podujatia došlo k nepredvídaným komplikáciám.
+238,2024-11-30 08:58:00.000000,2024-11-30 09:47:02.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,193,Z bezpečnostných dôvodov boli prijaté opatrenia.
+239,2024-10-29 13:54:00.000000,2024-10-29 14:37:41.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,585,"Veľký záujem verejnosti, vysoká účasť."
+240,2024-08-03 18:05:00.000000,2024-08-03 18:48:39.000000,Súkromná udalosť,Rodinné stretnutie v parku,55,"Veľký záujem verejnosti, vysoká účasť."
+241,2025-01-19 13:37:00.000000,2025-01-19 14:25:24.000000,Športové podujatie,Hokejový zápas finále ligy,2693,Nahlásené menšie technické problémy.
+242,2024-11-03 16:17:00.000000,2024-11-03 17:05:38.000000,Mimoriadna udalosť,Policajná operácia v centre,156,Počas podujatia došlo k nepredvídaným komplikáciám.
+243,2024-09-04 14:30:00.000000,2024-09-04 15:19:05.000000,Športové podujatie,Bežecká súťaž na 10 km,2521,Počas podujatia došlo k nepredvídaným komplikáciám.
+244,2024-12-26 14:52:00.000000,2024-12-26 15:38:31.000000,Verejná akcia,Mestská diskusia so starostom,766,Podujatie prebiehalo bez incidentov.
+245,2024-02-20 10:23:00.000000,2024-02-20 11:07:11.000000,Súkromná udalosť,Rodinné stretnutie v parku,58,Z bezpečnostných dôvodov boli prijaté opatrenia.
+246,2024-10-25 19:15:00.000000,2024-10-25 20:04:38.000000,Verejná akcia,Svetový deň dobrovoľníctva,831,Z bezpečnostných dôvodov boli prijaté opatrenia.
+247,2024-11-06 08:54:00.000000,2024-11-06 09:41:46.000000,Kultúrne podujatie,Stand-up comedy večer,809,Nahlásené menšie technické problémy.
+248,2024-04-09 12:09:00.000000,2024-04-09 12:51:54.000000,Politické a spoločenské podujatie,Protest proti korupcii,2583,Nahlásené menšie technické problémy.
+249,2025-01-01 18:26:00.000000,2025-01-01 19:10:24.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,312,Počas podujatia došlo k nepredvídaným komplikáciám.
+250,2024-08-18 08:44:00.000000,2024-08-18 09:28:56.000000,Verejná akcia,Svetový deň dobrovoľníctva,545,"Veľký záujem verejnosti, vysoká účasť."
+251,2025-01-25 11:09:00.000000,2025-01-25 11:55:33.000000,Kultúrne podujatie,Stand-up comedy večer,1175,Nahlásené menšie technické problémy.
+252,2024-08-30 18:33:00.000000,2024-08-30 19:15:09.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,593,Z bezpečnostných dôvodov boli prijaté opatrenia.
+253,2024-10-16 09:38:00.000000,2024-10-16 10:21:59.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,908,Počas podujatia došlo k nepredvídaným komplikáciám.
+254,2024-07-06 12:11:00.000000,2024-07-06 12:55:32.000000,Neočakávané podujatie,Náhla evakuácia budovy,56,Nahlásené menšie technické problémy.
+255,2024-04-07 12:55:00.000000,2024-04-07 13:36:31.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,411,Nahlásené menšie technické problémy.
+256,2024-09-25 16:13:00.000000,2024-09-25 16:59:19.000000,Neočakávané podujatie,Havária vodovodného potrubia,177,Z bezpečnostných dôvodov boli prijaté opatrenia.
+257,2024-12-21 17:41:00.000000,2024-12-21 18:23:00.000000,Kultúrne podujatie,Stand-up comedy večer,994,Počas podujatia došlo k nepredvídaným komplikáciám.
+258,2024-07-23 19:32:00.000000,2024-07-23 20:17:48.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,384,Nahlásené menšie technické problémy.
+259,2024-09-21 18:03:00.000000,2024-09-21 18:49:51.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2342,"Veľký záujem verejnosti, vysoká účasť."
+260,2024-02-24 10:15:00.000000,2024-02-24 11:02:48.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,216,Počas podujatia došlo k nepredvídaným komplikáciám.
+261,2024-10-05 15:54:00.000000,2024-10-05 16:44:00.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,2870,Podujatie prebiehalo bez incidentov.
+262,2024-02-21 16:49:00.000000,2024-02-21 17:36:50.000000,Verejná akcia,Pouličný trh a remeslá,463,Nahlásené menšie technické problémy.
+263,2024-10-25 10:29:00.000000,2024-10-25 11:12:18.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,927,Z bezpečnostných dôvodov boli prijaté opatrenia.
+264,2024-03-06 09:01:00.000000,2024-03-06 09:46:57.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,429,"Veľký záujem verejnosti, vysoká účasť."
+265,2024-03-29 16:03:00.000000,2024-03-29 16:48:35.000000,Verejná akcia,Mestská diskusia so starostom,852,"Veľký záujem verejnosti, vysoká účasť."
+266,2024-10-24 10:57:00.000000,2024-10-24 11:46:46.000000,Verejná akcia,Letný mestský piknik,804,Podujatie malo pozitívny ohlas v médiách.
+267,2024-08-15 08:25:00.000000,2024-08-15 09:13:44.000000,Verejná akcia,Svetový deň dobrovoľníctva,245,Podujatie malo pozitívny ohlas v médiách.
+268,2024-09-15 16:38:00.000000,2024-09-15 17:23:20.000000,Kultúrne podujatie,Výstava súčasného umenia,1499,Podujatie prebiehalo bez incidentov.
+269,2024-05-31 17:57:00.000000,2024-05-31 18:44:53.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,279,Z bezpečnostných dôvodov boli prijaté opatrenia.
+270,2024-06-17 17:33:00.000000,2024-06-17 18:21:03.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,762,Počas podujatia došlo k nepredvídaným komplikáciám.
+271,2024-05-24 10:42:00.000000,2024-05-24 11:23:01.000000,Verejná akcia,Svetový deň dobrovoľníctva,250,Podujatie prebiehalo bez incidentov.
+272,2024-06-25 14:12:00.000000,2024-06-25 14:58:59.000000,Kultúrne podujatie,Jazzový koncert v parku,821,Nahlásené menšie technické problémy.
+273,2024-10-14 10:28:00.000000,2024-10-14 11:16:28.000000,Kultúrne podujatie,Výstava súčasného umenia,1109,Nahlásené menšie technické problémy.
+274,2024-12-07 16:27:00.000000,2024-12-07 17:09:05.000000,Verejná akcia,Pouličný trh a remeslá,697,Nahlásené menšie technické problémy.
+275,2024-05-07 15:28:00.000000,2024-05-07 16:13:15.000000,Vopred nahlásené podujatie,Hudobný festival Starlight,970,Podujatie prebiehalo bez incidentov.
+276,2024-08-27 09:12:00.000000,2024-08-27 09:59:29.000000,Športové podujatie,Hokejový zápas finále ligy,2237,"Veľký záujem verejnosti, vysoká účasť."
+277,2024-04-01 13:42:00.000000,2024-04-01 14:24:15.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,69,Počas podujatia došlo k nepredvídaným komplikáciám.
+278,2024-11-23 15:43:00.000000,2024-11-23 16:30:20.000000,Kultúrne podujatie,Výstava súčasného umenia,510,Z bezpečnostných dôvodov boli prijaté opatrenia.
+279,2024-12-06 17:52:00.000000,2024-12-06 18:35:02.000000,Politické a spoločenské podujatie,Protest proti korupcii,1352,Podujatie prebiehalo bez incidentov.
+280,2024-08-28 11:48:00.000000,2024-08-28 12:36:50.000000,Neočakávané podujatie,Náhla evakuácia budovy,52,Podujatie prebiehalo bez incidentov.
+281,2024-09-25 19:29:00.000000,2024-09-25 20:12:07.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,78,Podujatie prebiehalo bez incidentov.
+282,2024-04-01 10:05:00.000000,2024-04-01 10:52:26.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,188,Nahlásené menšie technické problémy.
+283,2024-04-23 14:11:00.000000,2024-04-23 14:54:47.000000,Súkromná udalosť,Rodinné stretnutie v parku,63,Z bezpečnostných dôvodov boli prijaté opatrenia.
+341,2025-01-29 09:03:00.000000,2025-01-29 09:45:57.000000,Verejná akcia,Svetový deň dobrovoľníctva,555,Podujatie prebiehalo bez incidentov.
+342,2024-10-09 15:08:00.000000,2024-10-09 15:56:55.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,347,Počas podujatia došlo k nepredvídaným komplikáciám.
+343,2025-01-12 11:52:00.000000,2025-01-12 12:32:50.000000,Kultúrne podujatie,Stand-up comedy večer,845,Počas podujatia došlo k nepredvídaným komplikáciám.
+344,2024-03-02 19:47:00.000000,2024-03-02 20:35:12.000000,Súkromná udalosť,Firemný teambuilding,15,Počas podujatia došlo k nepredvídaným komplikáciám.
+345,2024-08-15 15:34:00.000000,2024-08-15 16:21:00.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,1681,Nahlásené menšie technické problémy.
+346,2025-01-22 09:10:00.000000,2025-01-22 09:53:23.000000,Kultúrne podujatie,Stand-up comedy večer,1292,Podujatie prebiehalo bez incidentov.
+347,2024-10-20 14:38:00.000000,2024-10-20 15:25:38.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,898,Z bezpečnostných dôvodov boli prijaté opatrenia.
+348,2024-03-13 17:31:00.000000,2024-03-13 18:15:32.000000,Politické a spoločenské podujatie,Protest proti korupcii,1954,"Veľký záujem verejnosti, vysoká účasť."
+349,2024-04-29 11:05:00.000000,2024-04-29 11:48:26.000000,Neočakávané podujatie,Náhla evakuácia budovy,129,"Veľký záujem verejnosti, vysoká účasť."
+350,2024-11-18 08:47:00.000000,2024-11-18 09:34:44.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2897,Podujatie prebiehalo bez incidentov.
+351,2024-02-14 15:32:00.000000,2024-02-14 16:13:14.000000,Športové podujatie,Bežecká súťaž na 10 km,4881,Z bezpečnostných dôvodov boli prijaté opatrenia.
+352,2024-05-02 17:14:00.000000,2024-05-02 18:01:02.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,628,Z bezpečnostných dôvodov boli prijaté opatrenia.
+353,2025-01-26 15:28:00.000000,2025-01-26 16:14:02.000000,Verejná akcia,Pouličný trh a remeslá,664,"Veľký záujem verejnosti, vysoká účasť."
+354,2024-11-16 19:14:00.000000,2024-11-16 19:55:03.000000,Športové podujatie,Svetový šampionát v plávaní,2542,Nahlásené menšie technické problémy.
+355,2024-05-12 10:05:00.000000,2024-05-12 10:51:38.000000,Športové podujatie,Svetový šampionát v plávaní,3831,Podujatie prebiehalo bez incidentov.
+356,2024-04-30 15:36:00.000000,2024-04-30 16:18:30.000000,Náboženské a duchovné podujatie,Gospelový koncert,87,Počas podujatia došlo k nepredvídaným komplikáciám.
+357,2024-08-05 16:42:00.000000,2024-08-05 17:31:02.000000,Mimoriadna udalosť,Policajná operácia v centre,229,"Veľký záujem verejnosti, vysoká účasť."
+358,2024-02-23 15:00:00.000000,2024-02-23 15:49:32.000000,Športové podujatie,Medzinárodný futbalový turnaj,4445,"Veľký záujem verejnosti, vysoká účasť."
+359,2024-12-24 10:08:00.000000,2024-12-24 10:49:12.000000,Neočakávané podujatie,Náhla evakuácia budovy,147,Počas podujatia došlo k nepredvídaným komplikáciám.
+360,2024-09-20 14:10:00.000000,2024-09-20 14:55:37.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,636,Nahlásené menšie technické problémy.
+361,2024-06-13 09:17:00.000000,2024-06-13 10:02:12.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,136,"Veľký záujem verejnosti, vysoká účasť."
+362,2024-02-27 16:18:00.000000,2024-02-27 17:02:54.000000,Vzdelávacie podujatie,Hackathon pre študentov,285,Z bezpečnostných dôvodov boli prijaté opatrenia.
+363,2024-12-06 18:07:00.000000,2024-12-06 18:48:20.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,480,Počas podujatia došlo k nepredvídaným komplikáciám.
+364,2024-09-02 13:50:00.000000,2024-09-02 14:32:03.000000,Kultúrne podujatie,Literárna noc v knižnici,1303,Počas podujatia došlo k nepredvídaným komplikáciám.
+365,2024-07-07 09:22:00.000000,2024-07-07 10:10:52.000000,Mimoriadna udalosť,Policajná operácia v centre,881,Počas podujatia došlo k nepredvídaným komplikáciám.
+366,2024-08-03 15:30:00.000000,2024-08-03 16:19:27.000000,Športové podujatie,Hokejový zápas finále ligy,4845,"Veľký záujem verejnosti, vysoká účasť."
+367,2024-10-14 12:22:00.000000,2024-10-14 13:09:53.000000,Súkromná udalosť,Rodinné stretnutie v parku,35,Počas podujatia došlo k nepredvídaným komplikáciám.
+368,2024-06-21 11:16:00.000000,2024-06-21 11:59:35.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,111,"Veľký záujem verejnosti, vysoká účasť."
+369,2024-04-18 10:28:00.000000,2024-04-18 11:15:50.000000,Súkromná udalosť,Firemný teambuilding,53,Počas podujatia došlo k nepredvídaným komplikáciám.
+370,2025-01-09 15:28:00.000000,2025-01-09 16:08:45.000000,Politické a spoločenské podujatie,Pochod za práva žien,1500,"Veľký záujem verejnosti, vysoká účasť."
+371,2024-03-31 13:27:00.000000,2024-03-31 14:13:03.000000,Súkromná udalosť,Firemný teambuilding,31,Nahlásené menšie technické problémy.
+372,2024-12-03 16:38:00.000000,2024-12-03 17:25:51.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,199,"Veľký záujem verejnosti, vysoká účasť."
+373,2024-12-24 10:08:00.000000,2024-12-24 10:57:33.000000,Športové podujatie,Hokejový zápas finále ligy,3398,Počas podujatia došlo k nepredvídaným komplikáciám.
+374,2024-08-12 14:37:00.000000,2024-08-12 15:21:00.000000,Politické a spoločenské podujatie,Pochod za práva žien,2297,"Veľký záujem verejnosti, vysoká účasť."
+375,2024-11-11 10:33:00.000000,2024-11-11 11:15:29.000000,Neočakávané podujatie,Náhla evakuácia budovy,48,Počas podujatia došlo k nepredvídaným komplikáciám.
+376,2024-05-09 18:58:00.000000,2024-05-09 19:44:26.000000,Náboženské a duchovné podujatie,Meditačný workshop,160,Z bezpečnostných dôvodov boli prijaté opatrenia.
+377,2024-02-18 15:03:00.000000,2024-02-18 15:47:38.000000,Neočakávané podujatie,Havária vodovodného potrubia,122,Z bezpečnostných dôvodov boli prijaté opatrenia.
+378,2024-03-23 14:11:00.000000,2024-03-23 14:52:01.000000,Športové podujatie,Bežecká súťaž na 10 km,1671,Z bezpečnostných dôvodov boli prijaté opatrenia.
+379,2024-02-20 08:40:00.000000,2024-02-20 09:27:58.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,470,Z bezpečnostných dôvodov boli prijaté opatrenia.
+380,2024-04-06 16:54:00.000000,2024-04-06 17:42:26.000000,Mimoriadna udalosť,Policajná operácia v centre,780,Podujatie prebiehalo bez incidentov.
+381,2024-11-03 12:49:00.000000,2024-11-03 13:30:02.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1803,Podujatie prebiehalo bez incidentov.
+382,2024-10-15 10:11:00.000000,2024-10-15 10:54:06.000000,Športové podujatie,Bežecká súťaž na 10 km,4840,Z bezpečnostných dôvodov boli prijaté opatrenia.
+383,2024-04-16 11:17:00.000000,2024-04-16 12:01:49.000000,Neočakávané podujatie,Náhly výpadok elektriny,125,Počas podujatia došlo k nepredvídaným komplikáciám.
+384,2024-09-06 15:17:00.000000,2024-09-06 16:02:52.000000,Športové podujatie,Hokejový zápas finále ligy,1414,Z bezpečnostných dôvodov boli prijaté opatrenia.
+385,2024-03-23 17:55:00.000000,2024-03-23 18:41:43.000000,Športové podujatie,Svetový šampionát v plávaní,3939,Z bezpečnostných dôvodov boli prijaté opatrenia.
+386,2024-09-12 10:30:00.000000,2024-09-12 11:19:51.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,68,"Veľký záujem verejnosti, vysoká účasť."
+387,2024-06-08 18:44:00.000000,2024-06-08 19:25:24.000000,Kultúrne podujatie,Výstava súčasného umenia,624,Podujatie prebiehalo bez incidentov.
+388,2024-07-31 19:11:00.000000,2024-07-31 19:59:18.000000,Kultúrne podujatie,Výstava súčasného umenia,918,Podujatie prebiehalo bez incidentov.
+389,2025-02-01 07:57:00.000000,2025-02-01 08:42:21.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,941,Z bezpečnostných dôvodov boli prijaté opatrenia.
+390,2024-06-13 19:28:00.000000,2024-06-13 20:13:54.000000,Mimoriadna udalosť,Policajná operácia v centre,373,Nahlásené menšie technické problémy.
+391,2024-06-02 08:50:00.000000,2024-06-02 09:36:41.000000,Športové podujatie,Bežecká súťaž na 10 km,2474,Nahlásené menšie technické problémy.
+392,2024-11-30 10:57:00.000000,2024-11-30 11:43:43.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,144,"Veľký záujem verejnosti, vysoká účasť."
+393,2024-04-27 18:26:00.000000,2024-04-27 19:06:35.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,859,Nahlásené menšie technické problémy.
+394,2024-11-14 13:40:00.000000,2024-11-14 14:24:33.000000,Súkromná udalosť,Firemný teambuilding,54,Z bezpečnostných dôvodov boli prijaté opatrenia.
+395,2024-05-09 09:17:00.000000,2024-05-09 09:58:44.000000,Súkromná udalosť,Svadobná hostina,24,Nahlásené menšie technické problémy.
+284,2024-11-05 12:46:00.000000,2024-11-05 13:28:49.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,216,Nahlásené menšie technické problémy.
+285,2024-12-03 08:17:00.000000,2024-12-03 09:00:30.000000,Kultúrne podujatie,Jazzový koncert v parku,1178,"Veľký záujem verejnosti, vysoká účasť."
+286,2024-03-05 19:30:00.000000,2024-03-05 20:14:49.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,424,Z bezpečnostných dôvodov boli prijaté opatrenia.
+287,2024-12-29 13:05:00.000000,2024-12-29 13:47:45.000000,Kultúrne podujatie,Letný filmový festival,375,"Veľký záujem verejnosti, vysoká účasť."
+288,2024-04-09 13:13:00.000000,2024-04-09 14:00:31.000000,Súkromná udalosť,Svadobná hostina,30,Nahlásené menšie technické problémy.
+289,2024-08-27 08:05:00.000000,2024-08-27 08:51:00.000000,Neočakávané podujatie,Havária vodovodného potrubia,39,"Veľký záujem verejnosti, vysoká účasť."
+290,2024-06-04 14:52:00.000000,2024-06-04 15:34:47.000000,Neočakávané podujatie,Náhly výpadok elektriny,157,"Veľký záujem verejnosti, vysoká účasť."
+291,2024-05-07 12:40:00.000000,2024-05-07 13:24:27.000000,Verejná akcia,Svetový deň dobrovoľníctva,335,"Veľký záujem verejnosti, vysoká účasť."
+292,2024-11-25 15:48:00.000000,2024-11-25 16:31:10.000000,Kultúrne podujatie,Výstava súčasného umenia,1378,Z bezpečnostných dôvodov boli prijaté opatrenia.
+293,2024-10-31 08:20:00.000000,2024-10-31 09:02:33.000000,Verejná akcia,Pouličný trh a remeslá,419,Podujatie malo pozitívny ohlas v médiách.
+294,2025-01-01 11:37:00.000000,2025-01-01 12:19:42.000000,Náboženské a duchovné podujatie,Meditačný workshop,570,Počas podujatia došlo k nepredvídaným komplikáciám.
+295,2024-03-18 19:28:00.000000,2024-03-18 20:08:56.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1666,Nahlásené menšie technické problémy.
+296,2024-07-13 19:37:00.000000,2024-07-13 20:21:37.000000,Športové podujatie,Hokejový zápas finále ligy,3022,Z bezpečnostných dôvodov boli prijaté opatrenia.
+297,2024-04-05 10:39:00.000000,2024-04-05 11:27:07.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,902,Počas podujatia došlo k nepredvídaným komplikáciám.
+298,2025-01-17 12:05:00.000000,2025-01-17 12:53:35.000000,Kultúrne podujatie,Jazzový koncert v parku,1184,Podujatie prebiehalo bez incidentov.
+299,2024-03-15 10:45:00.000000,2024-03-15 11:33:26.000000,Politické a spoločenské podujatie,Protest proti korupcii,2544,"Veľký záujem verejnosti, vysoká účasť."
+300,2024-12-20 08:18:00.000000,2024-12-20 09:00:06.000000,Verejná akcia,Svetový deň dobrovoľníctva,171,Podujatie malo pozitívny ohlas v médiách.
+301,2024-02-24 12:54:00.000000,2024-02-24 13:39:31.000000,Neočakávané podujatie,Náhly výpadok elektriny,80,"Veľký záujem verejnosti, vysoká účasť."
+302,2024-11-02 19:35:00.000000,2024-11-02 20:23:32.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,720,Podujatie prebiehalo bez incidentov.
+303,2024-11-22 13:39:00.000000,2024-11-22 14:26:14.000000,Neočakávané podujatie,Náhly výpadok elektriny,107,Z bezpečnostných dôvodov boli prijaté opatrenia.
+304,2024-06-25 16:15:00.000000,2024-06-25 17:01:16.000000,Neočakávané podujatie,Náhla evakuácia budovy,200,Z bezpečnostných dôvodov boli prijaté opatrenia.
+305,2024-09-18 16:24:00.000000,2024-09-18 17:11:31.000000,Verejná akcia,Mestská diskusia so starostom,337,"Veľký záujem verejnosti, vysoká účasť."
+306,2024-08-27 12:53:00.000000,2024-08-27 13:40:04.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,349,Nahlásené menšie technické problémy.
+307,2025-01-11 10:00:00.000000,2025-01-11 10:45:04.000000,Neočakávané podujatie,Náhla evakuácia budovy,80,"Veľký záujem verejnosti, vysoká účasť."
+308,2024-04-03 07:59:00.000000,2024-04-03 08:47:20.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,401,Podujatie prebiehalo bez incidentov.
+309,2024-04-15 11:33:00.000000,2024-04-15 12:14:14.000000,Kultúrne podujatie,Stand-up comedy večer,954,"Veľký záujem verejnosti, vysoká účasť."
+310,2024-10-30 13:30:00.000000,2024-10-30 14:16:58.000000,Verejná akcia,Svetový deň dobrovoľníctva,561,"Veľký záujem verejnosti, vysoká účasť."
+311,2024-11-03 14:35:00.000000,2024-11-03 15:23:10.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,536,Počas podujatia došlo k nepredvídaným komplikáciám.
+312,2024-10-10 14:22:00.000000,2024-10-10 15:08:03.000000,Súkromná udalosť,Firemný teambuilding,69,Nahlásené menšie technické problémy.
+313,2024-04-28 13:53:00.000000,2024-04-28 14:40:24.000000,Mimoriadna udalosť,Policajná operácia v centre,767,Podujatie prebiehalo bez incidentov.
+314,2024-10-20 09:49:00.000000,2024-10-20 10:36:16.000000,Súkromná udalosť,Firemný teambuilding,14,Nahlásené menšie technické problémy.
+315,2024-10-21 16:29:00.000000,2024-10-21 17:13:02.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,379,Z bezpečnostných dôvodov boli prijaté opatrenia.
+316,2024-08-27 09:20:00.000000,2024-08-27 10:07:33.000000,Súkromná udalosť,Svadobná hostina,17,Počas podujatia došlo k nepredvídaným komplikáciám.
+317,2024-04-08 08:13:00.000000,2024-04-08 08:58:21.000000,Verejná akcia,Pouličný trh a remeslá,112,"Veľký záujem verejnosti, vysoká účasť."
+318,2025-01-24 17:09:00.000000,2025-01-24 17:53:02.000000,Politické a spoločenské podujatie,Pochod za práva žien,2870,Z bezpečnostných dôvodov boli prijaté opatrenia.
+319,2025-02-04 17:31:00.000000,2025-02-04 18:18:36.000000,Športové podujatie,Svetový šampionát v plávaní,1571,Nahlásené menšie technické problémy.
+320,2025-01-14 16:58:00.000000,2025-01-14 17:39:01.000000,Súkromná udalosť,Rodinné stretnutie v parku,33,"Veľký záujem verejnosti, vysoká účasť."
+321,2024-02-12 16:59:00.000000,2024-02-12 17:43:28.000000,Verejná akcia,Pouličný trh a remeslá,402,Nahlásené menšie technické problémy.
+322,2024-03-25 14:05:00.000000,2024-03-25 14:54:22.000000,Súkromná udalosť,Firemný teambuilding,42,"Veľký záujem verejnosti, vysoká účasť."
+323,2024-12-29 18:11:00.000000,2024-12-29 18:59:08.000000,Súkromná udalosť,Rodinné stretnutie v parku,12,Počas podujatia došlo k nepredvídaným komplikáciám.
+324,2024-09-08 10:57:00.000000,2024-09-08 11:40:37.000000,Súkromná udalosť,Firemný teambuilding,29,Z bezpečnostných dôvodov boli prijaté opatrenia.
+325,2024-04-27 10:55:00.000000,2024-04-27 11:43:34.000000,Súkromná udalosť,Firemný teambuilding,35,Nahlásené menšie technické problémy.
+326,2024-08-21 13:14:00.000000,2024-08-21 13:58:52.000000,Verejná akcia,Svetový deň dobrovoľníctva,707,Počas podujatia došlo k nepredvídaným komplikáciám.
+327,2024-04-09 17:32:00.000000,2024-04-09 18:14:44.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,964,Počas podujatia došlo k nepredvídaným komplikáciám.
+328,2025-01-06 19:08:00.000000,2025-01-06 19:57:49.000000,Neočakávané podujatie,Náhla evakuácia budovy,141,Podujatie prebiehalo bez incidentov.
+329,2024-08-11 16:28:00.000000,2024-08-11 17:17:39.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,394,Podujatie malo pozitívny ohlas v médiách.
+330,2024-11-14 08:44:00.000000,2024-11-14 09:28:01.000000,Kultúrne podujatie,Výstava súčasného umenia,545,Počas podujatia došlo k nepredvídaným komplikáciám.
+331,2025-01-11 15:37:00.000000,2025-01-11 16:26:14.000000,Verejná akcia,Pouličný trh a remeslá,252,"Veľký záujem verejnosti, vysoká účasť."
+332,2024-11-02 13:22:00.000000,2024-11-02 14:04:40.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,55,Podujatie prebiehalo bez incidentov.
+333,2025-01-02 12:41:00.000000,2025-01-02 13:30:44.000000,Súkromná udalosť,Rodinné stretnutie v parku,44,Počas podujatia došlo k nepredvídaným komplikáciám.
+334,2024-09-30 18:12:00.000000,2024-09-30 18:59:46.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,1044,Nahlásené menšie technické problémy.
+335,2024-06-02 09:04:00.000000,2024-06-02 09:47:37.000000,Náboženské a duchovné podujatie,Pútnická cesta do Ríma,968,Z bezpečnostných dôvodov boli prijaté opatrenia.
+336,2024-08-21 16:52:00.000000,2024-08-21 17:36:46.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,105,Nahlásené menšie technické problémy.
+337,2024-09-21 09:02:00.000000,2024-09-21 09:48:54.000000,Súkromná udalosť,Firemný teambuilding,71,Nahlásené menšie technické problémy.
+338,2024-06-20 08:14:00.000000,2024-06-20 09:01:09.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,501,Počas podujatia došlo k nepredvídaným komplikáciám.
+339,2025-01-21 14:40:00.000000,2025-01-21 15:25:21.000000,Kultúrne podujatie,Výstava súčasného umenia,939,"Veľký záujem verejnosti, vysoká účasť."
+340,2024-10-31 09:02:00.000000,2024-10-31 09:43:44.000000,Vzdelávacie podujatie,Hackathon pre študentov,431,"Veľký záujem verejnosti, vysoká účasť."
+4,2024-03-08 14:14:00.000000,2024-03-08 15:03:46.000000,Športové podujatie,Bežecká súťaž na 10 km,4388,Podujatie prebiehalo bez incidentov.
+5,2024-11-29 19:32:00.000000,2024-11-29 20:17:52.000000,Neočakávané podujatie,Náhla evakuácia budovy,190,Podujatie malo pozitívny ohlas v médiách.
+6,2024-10-07 14:45:00.000000,2024-10-07 15:32:15.000000,Športové podujatie,Hokejový zápas finále ligy,3602,Z bezpečnostných dôvodov boli prijaté opatrenia.
+7,2024-10-16 09:57:00.000000,2024-10-16 10:43:59.000000,Športové podujatie,Hokejový zápas finále ligy,3291,Z bezpečnostných dôvodov boli prijaté opatrenia.
+8,2024-05-30 11:13:00.000000,2024-05-30 12:01:18.000000,Kultúrne podujatie,Jazzový koncert v parku,496,"Veľký záujem verejnosti, vysoká účasť."
+9,2024-03-09 11:16:00.000000,2024-03-09 12:06:00.000000,Verejná akcia,Svetový deň dobrovoľníctva,185,Nahlásené menšie technické problémy.
+10,2024-05-18 12:11:00.000000,2024-05-18 12:59:58.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,118,Počas podujatia došlo k nepredvídaným komplikáciám.
+11,2025-01-22 19:30:00.000000,2025-01-22 20:13:59.000000,Neočakávané podujatie,Náhla evakuácia budovy,172,Nahlásené menšie technické problémy.
+12,2024-05-01 08:03:00.000000,2024-05-01 08:45:44.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,1516,"Veľký záujem verejnosti, vysoká účasť."
+13,2024-08-01 14:45:00.000000,2024-08-01 15:30:08.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,393,Z bezpečnostných dôvodov boli prijaté opatrenia.
+14,2024-04-24 17:27:00.000000,2024-04-24 18:08:18.000000,Politické a spoločenské podujatie,Protest proti korupcii,1396,Nahlásené menšie technické problémy.
+15,2025-01-21 17:53:00.000000,2025-01-21 18:37:17.000000,Politické a spoločenské podujatie,Pochod za práva žien,2993,"Veľký záujem verejnosti, vysoká účasť."
+16,2025-01-12 12:06:00.000000,2025-01-12 12:53:13.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1862,Počas podujatia došlo k nepredvídaným komplikáciám.
+17,2024-12-16 14:28:00.000000,2024-12-16 15:17:37.000000,Športové podujatie,Medzinárodný futbalový turnaj,3438,"Veľký záujem verejnosti, vysoká účasť."
+18,2024-12-24 14:10:00.000000,2024-12-24 14:58:33.000000,Športové podujatie,Národný šachový turnaj,4135,Nahlásené menšie technické problémy.
+19,2024-11-28 14:09:00.000000,2024-11-28 14:58:18.000000,Kultúrne podujatie,Stand-up comedy večer,267,"Veľký záujem verejnosti, vysoká účasť."
+20,2024-08-06 09:19:00.000000,2024-08-06 10:02:04.000000,Súkromná udalosť,Súkromná oslava narodenín,26,"Veľký záujem verejnosti, vysoká účasť."
+21,2024-04-24 12:44:00.000000,2024-04-24 13:32:11.000000,Verejná akcia,Mestská diskusia so starostom,357,Z bezpečnostných dôvodov boli prijaté opatrenia.
+22,2024-08-26 16:36:00.000000,2024-08-26 17:17:42.000000,Verejná akcia,Svetový deň dobrovoľníctva,608,Nahlásené menšie technické problémy.
+23,2024-12-06 10:17:00.000000,2024-12-06 11:06:53.000000,Mimoriadna udalosť,Policajná operácia v centre,748,Z bezpečnostných dôvodov boli prijaté opatrenia.
+24,2024-12-24 12:38:00.000000,2024-12-24 13:21:41.000000,Kultúrne podujatie,Stand-up comedy večer,983,Z bezpečnostných dôvodov boli prijaté opatrenia.
+25,2025-01-11 19:01:00.000000,2025-01-11 19:42:54.000000,Súkromná udalosť,Rodinné stretnutie v parku,53,Z bezpečnostných dôvodov boli prijaté opatrenia.
+26,2025-02-03 09:38:00.000000,2025-02-03 10:23:53.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,771,"Veľký záujem verejnosti, vysoká účasť."
+27,2025-02-05 17:54:00.000000,2025-02-05 18:36:53.000000,Kultúrne podujatie,Stand-up comedy večer,440,Nahlásené menšie technické problémy.
+28,2024-08-24 16:49:00.000000,2024-08-24 17:31:37.000000,Neočakávané podujatie,Náhly výpadok elektriny,115,Nahlásené menšie technické problémy.
+29,2024-03-14 12:56:00.000000,2024-03-14 13:36:43.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,484,Nahlásené menšie technické problémy.
+30,2024-04-13 09:23:00.000000,2024-04-13 10:08:39.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,634,Počas podujatia došlo k nepredvídaným komplikáciám.
+31,2024-11-30 13:58:00.000000,2024-11-30 14:44:05.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,975,Nahlásené menšie technické problémy.
+32,2024-03-25 12:03:00.000000,2024-03-25 12:45:38.000000,Kultúrne podujatie,Výstava súčasného umenia,1453,Nahlásené menšie technické problémy.
+33,2024-08-04 18:36:00.000000,2024-08-04 19:22:23.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,69,"Veľký záujem verejnosti, vysoká účasť."
+34,2024-11-24 12:53:00.000000,2024-11-24 13:39:48.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,831,Podujatie prebiehalo bez incidentov.
+35,2024-10-01 19:31:00.000000,2024-10-01 20:20:32.000000,Neočakávané podujatie,Náhly výpadok elektriny,167,Z bezpečnostných dôvodov boli prijaté opatrenia.
+36,2024-02-19 19:47:00.000000,2024-02-19 20:29:06.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,91,Podujatie prebiehalo bez incidentov.
+37,2024-12-17 16:06:00.000000,2024-12-17 16:52:43.000000,Súkromná udalosť,Firemný teambuilding,85,Z bezpečnostných dôvodov boli prijaté opatrenia.
+38,2024-04-20 15:34:00.000000,2024-04-20 16:18:49.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,264,Z bezpečnostných dôvodov boli prijaté opatrenia.
+39,2024-08-04 11:51:00.000000,2024-08-04 12:36:30.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,388,Z bezpečnostných dôvodov boli prijaté opatrenia.
+40,2024-11-27 12:02:00.000000,2024-11-27 12:43:08.000000,Športové podujatie,Svetový šampionát v plávaní,3532,Počas podujatia došlo k nepredvídaným komplikáciám.
+41,2024-07-22 19:31:00.000000,2024-07-22 20:12:39.000000,Verejná akcia,Mestská diskusia so starostom,686,"Veľký záujem verejnosti, vysoká účasť."
+42,2025-01-15 15:47:00.000000,2025-01-15 16:32:42.000000,Súkromná udalosť,Rodinné stretnutie v parku,30,Podujatie malo pozitívny ohlas v médiách.
+43,2024-06-19 10:15:00.000000,2024-06-19 11:04:30.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,371,Podujatie prebiehalo bez incidentov.
+44,2024-04-15 10:35:00.000000,2024-04-15 11:18:20.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,823,Počas podujatia došlo k nepredvídaným komplikáciám.
+45,2025-01-08 15:26:00.000000,2025-01-08 16:15:26.000000,Vopred nahlásené podujatie,Otvorenie novej galérie,817,Z bezpečnostných dôvodov boli prijaté opatrenia.
+46,2024-03-17 13:30:00.000000,2024-03-17 14:15:06.000000,Vopred nahlásené podujatie,Bežecký maratón mestom,850,Podujatie prebiehalo bez incidentov.
+47,2024-05-08 09:30:00.000000,2024-05-08 10:17:50.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,69,Počas podujatia došlo k nepredvídaným komplikáciám.
+48,2025-01-25 19:04:00.000000,2025-01-25 19:51:30.000000,Kultúrne podujatie,Výstava súčasného umenia,1361,"Veľký záujem verejnosti, vysoká účasť."
+49,2024-06-26 13:45:00.000000,2024-06-26 14:29:54.000000,Kultúrne podujatie,Výstava súčasného umenia,1392,Z bezpečnostných dôvodov boli prijaté opatrenia.
+50,2025-02-05 13:42:00.000000,2025-02-05 14:24:07.000000,Súkromná udalosť,Firemný teambuilding,97,Nahlásené menšie technické problémy.
+51,2024-05-23 19:27:00.000000,2024-05-23 20:11:15.000000,Súkromná udalosť,Firemný teambuilding,66,Podujatie prebiehalo bez incidentov.
+52,2024-09-01 09:02:00.000000,2024-09-01 09:47:36.000000,Neočakávané podujatie,Náhla evakuácia budovy,91,Počas podujatia došlo k nepredvídaným komplikáciám.
+53,2024-08-24 15:54:00.000000,2024-08-24 16:38:12.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,215,Z bezpečnostných dôvodov boli prijaté opatrenia.
+54,2024-11-26 17:19:00.000000,2024-11-26 18:03:43.000000,Neočakávané podujatie,Náhla evakuácia budovy,188,"Veľký záujem verejnosti, vysoká účasť."
+55,2025-01-16 12:15:00.000000,2025-01-16 12:58:34.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,274,Nahlásené menšie technické problémy.
+56,2024-06-17 18:47:00.000000,2024-06-17 19:37:10.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,246,Z bezpečnostných dôvodov boli prijaté opatrenia.
+57,2024-10-10 09:18:00.000000,2024-10-10 10:00:11.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,662,Počas podujatia došlo k nepredvídaným komplikáciám.
+58,2024-04-26 15:27:00.000000,2024-04-26 16:08:03.000000,Neočakávané podujatie,Náhly výpadok elektriny,199,Z bezpečnostných dôvodov boli prijaté opatrenia.
+59,2025-01-23 11:40:00.000000,2025-01-23 12:23:20.000000,Verejná akcia,Mestská diskusia so starostom,619,Nahlásené menšie technické problémy.
+60,2024-11-03 15:59:00.000000,2024-11-03 16:44:25.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,446,Nahlásené menšie technické problémy.
+61,2024-12-31 11:41:00.000000,2024-12-31 12:23:02.000000,Verejná akcia,Mestská diskusia so starostom,471,Počas podujatia došlo k nepredvídaným komplikáciám.
+62,2024-06-07 16:43:00.000000,2024-06-07 17:28:08.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2565,Z bezpečnostných dôvodov boli prijaté opatrenia.
+63,2024-06-25 19:10:00.000000,2024-06-25 19:57:45.000000,Mimoriadna udalosť,Policajná operácia v centre,745,Nahlásené menšie technické problémy.
+64,2024-05-30 09:30:00.000000,2024-05-30 10:19:19.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,424,Počas podujatia došlo k nepredvídaným komplikáciám.
+65,2024-02-13 14:35:00.000000,2024-02-13 15:20:02.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,793,Nahlásené menšie technické problémy.
+66,2025-01-07 16:18:00.000000,2025-01-07 17:05:43.000000,Neočakávané podujatie,Náhla evakuácia budovy,85,Z bezpečnostných dôvodov boli prijaté opatrenia.
+67,2024-02-14 11:22:00.000000,2024-02-14 12:10:15.000000,Náboženské a duchovné podujatie,Veľkonočné stretnutie veriacich,776,Počas podujatia došlo k nepredvídaným komplikáciám.
+68,2024-10-07 08:32:00.000000,2024-10-07 09:15:13.000000,Kultúrne podujatie,Stand-up comedy večer,947,"Veľký záujem verejnosti, vysoká účasť."
+69,2024-03-10 14:56:00.000000,2024-03-10 15:39:39.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,2894,Počas podujatia došlo k nepredvídaným komplikáciám.
+70,2024-04-16 18:24:00.000000,2024-04-16 19:08:11.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,1079,"Veľký záujem verejnosti, vysoká účasť."
+71,2024-06-08 19:26:00.000000,2024-06-08 20:14:56.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,489,Počas podujatia došlo k nepredvídaným komplikáciám.
+72,2024-09-28 12:55:00.000000,2024-09-28 13:40:14.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,302,Z bezpečnostných dôvodov boli prijaté opatrenia.
+73,2024-03-04 15:20:00.000000,2024-03-04 16:07:03.000000,Kultúrne podujatie,Výstava súčasného umenia,598,Počas podujatia došlo k nepredvídaným komplikáciám.
+74,2024-04-17 12:56:00.000000,2024-04-17 13:43:06.000000,Kultúrne podujatie,Jazzový koncert v parku,1309,"Veľký záujem verejnosti, vysoká účasť."
+75,2024-09-11 14:18:00.000000,2024-09-11 15:01:16.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,727,Z bezpečnostných dôvodov boli prijaté opatrenia.
+76,2024-05-26 17:09:00.000000,2024-05-26 17:52:53.000000,Kultúrne podujatie,Výstava súčasného umenia,1496,Podujatie prebiehalo bez incidentov.
+77,2024-03-01 16:00:00.000000,2024-03-01 16:47:19.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,51,Z bezpečnostných dôvodov boli prijaté opatrenia.
+78,2024-02-17 16:57:00.000000,2024-02-17 17:42:17.000000,Kultúrne podujatie,Letný filmový festival,434,Podujatie malo pozitívny ohlas v médiách.
+79,2025-01-19 12:46:00.000000,2025-01-19 13:30:01.000000,Kultúrne podujatie,Stand-up comedy večer,1433,Nahlásené menšie technické problémy.
+80,2024-03-12 08:43:00.000000,2024-03-12 09:28:33.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,176,Z bezpečnostných dôvodov boli prijaté opatrenia.
+81,2024-03-14 11:59:00.000000,2024-03-14 12:42:34.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,144,"Veľký záujem verejnosti, vysoká účasť."
+82,2025-02-09 14:17:00.000000,2025-02-09 15:06:54.000000,Neočakávané podujatie,Náhla evakuácia budovy,133,Počas podujatia došlo k nepredvídaným komplikáciám.
+83,2025-01-30 08:51:00.000000,2025-01-30 09:36:41.000000,Politické a spoločenské podujatie,Debata o klimatických zmenách,1442,Z bezpečnostných dôvodov boli prijaté opatrenia.
+84,2024-08-10 14:45:00.000000,2024-08-10 15:27:40.000000,Kultúrne podujatie,Jazzový koncert v parku,838,Z bezpečnostných dôvodov boli prijaté opatrenia.
+85,2024-12-02 10:58:00.000000,2024-12-02 11:47:05.000000,Neočakávané podujatie,Havária vodovodného potrubia,102,Počas podujatia došlo k nepredvídaným komplikáciám.
+86,2024-08-15 18:49:00.000000,2024-08-15 19:33:55.000000,Politické a spoločenské podujatie,Pochod za práva žien,1706,"Veľký záujem verejnosti, vysoká účasť."
+87,2024-11-25 16:13:00.000000,2024-11-25 17:00:09.000000,Neočakávané podujatie,Náhla evakuácia budovy,31,Počas podujatia došlo k nepredvídaným komplikáciám.
+88,2024-11-04 08:56:00.000000,2024-11-04 09:37:46.000000,Politické a spoločenské podujatie,Tlačová konferencia vládneho predstaviteľa,526,Nahlásené menšie technické problémy.
+89,2024-10-27 13:59:00.000000,2024-10-27 14:47:10.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,980,Z bezpečnostných dôvodov boli prijaté opatrenia.
+90,2024-03-10 11:51:00.000000,2024-03-10 12:36:38.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,455,Počas podujatia došlo k nepredvídaným komplikáciám.
+91,2024-07-06 10:53:00.000000,2024-07-06 11:41:15.000000,Verejná akcia,Mestská diskusia so starostom,288,"Veľký záujem verejnosti, vysoká účasť."
+92,2024-07-18 07:59:00.000000,2024-07-18 08:42:11.000000,Verejná akcia,Svetový deň dobrovoľníctva,593,Počas podujatia došlo k nepredvídaným komplikáciám.
+93,2025-01-27 13:21:00.000000,2025-01-27 14:06:35.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,105,Nahlásené menšie technické problémy.
+94,2024-06-29 14:15:00.000000,2024-06-29 15:05:03.000000,Neočakávané podujatie,Náhly výpadok elektriny,25,Nahlásené menšie technické problémy.
+95,2024-04-19 16:42:00.000000,2024-04-19 17:30:38.000000,Verejná akcia,Svetový deň dobrovoľníctva,219,Podujatie malo pozitívny ohlas v médiách.
+96,2025-01-03 14:40:00.000000,2025-01-03 15:27:47.000000,Súkromná udalosť,Firemný teambuilding,97,Nahlásené menšie technické problémy.
+97,2025-01-21 13:34:00.000000,2025-01-21 14:17:16.000000,Neočakávané podujatie,Náhla evakuácia budovy,71,"Veľký záujem verejnosti, vysoká účasť."
+98,2024-11-27 15:36:00.000000,2024-11-27 16:19:18.000000,Politické a spoločenské podujatie,Pochod za práva žien,1323,"Veľký záujem verejnosti, vysoká účasť."
+99,2024-11-15 09:24:00.000000,2024-11-15 10:08:08.000000,Verejná akcia,Svetový deň dobrovoľníctva,229,Nahlásené menšie technické problémy.
+100,2024-12-18 13:55:00.000000,2024-12-18 14:44:48.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,29,Počas podujatia došlo k nepredvídaným komplikáciám.
+101,2024-05-14 11:51:00.000000,2024-05-14 12:37:48.000000,Kultúrne podujatie,Jazzový koncert v parku,1429,Podujatie malo pozitívny ohlas v médiách.
+102,2024-07-25 16:31:00.000000,2024-07-25 17:17:19.000000,Športové podujatie,Medzinárodný futbalový turnaj,2635,Z bezpečnostných dôvodov boli prijaté opatrenia.
+103,2024-10-23 10:07:00.000000,2024-10-23 10:53:43.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,133,Nahlásené menšie technické problémy.
+104,2024-02-23 14:42:00.000000,2024-02-23 15:31:15.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,883,"Veľký záujem verejnosti, vysoká účasť."
+105,2024-04-14 14:45:00.000000,2024-04-14 15:31:49.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,419,Nahlásené menšie technické problémy.
+106,2024-07-16 12:00:00.000000,2024-07-16 12:42:41.000000,Neočakávané podujatie,Havária vodovodného potrubia,44,Podujatie prebiehalo bez incidentov.
+107,2024-12-08 16:46:00.000000,2024-12-08 17:27:22.000000,Neočakávané podujatie,Náhla evakuácia budovy,71,Nahlásené menšie technické problémy.
+108,2024-08-12 18:43:00.000000,2024-08-12 19:28:32.000000,Kultúrne podujatie,Letný filmový festival,415,Podujatie malo pozitívny ohlas v médiách.
+109,2024-08-17 19:38:00.000000,2024-08-17 20:24:33.000000,Politické a spoločenské podujatie,Protest proti korupcii,2689,Podujatie prebiehalo bez incidentov.
+110,2024-12-03 08:03:00.000000,2024-12-03 08:49:36.000000,Kultúrne podujatie,Jazzový koncert v parku,1191,Nahlásené menšie technické problémy.
+111,2024-06-26 12:37:00.000000,2024-06-26 13:26:15.000000,Športové podujatie,Národný šachový turnaj,3927,Nahlásené menšie technické problémy.
+112,2024-03-17 17:26:00.000000,2024-03-17 18:09:16.000000,Mimoriadna udalosť,Zásah hasičov pri požiari,862,Podujatie prebiehalo bez incidentov.
+113,2024-07-03 14:01:00.000000,2024-07-03 14:51:00.000000,Mimoriadna udalosť,Policajná operácia v centre,360,Nahlásené menšie technické problémy.
+114,2024-12-08 13:44:00.000000,2024-12-08 14:27:27.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,969,Počas podujatia došlo k nepredvídaným komplikáciám.
+115,2024-03-21 13:10:00.000000,2024-03-21 13:56:34.000000,Súkromná udalosť,Rodinné stretnutie v parku,22,Nahlásené menšie technické problémy.
+116,2025-01-20 13:28:00.000000,2025-01-20 14:17:08.000000,Neočakávané podujatie,Náhly výpadok elektriny,125,Podujatie prebiehalo bez incidentov.
+117,2024-11-23 18:53:00.000000,2024-11-23 19:41:15.000000,Verejná akcia,Svetový deň dobrovoľníctva,293,Podujatie malo pozitívny ohlas v médiách.
+118,2024-05-29 10:48:00.000000,2024-05-29 11:37:34.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,677,Nahlásené menšie technické problémy.
+119,2024-08-12 16:34:00.000000,2024-08-12 17:19:45.000000,Súkromná udalosť,Firemný teambuilding,34,"Veľký záujem verejnosti, vysoká účasť."
+120,2024-05-19 14:26:00.000000,2024-05-19 15:07:27.000000,Neočakávané podujatie,Havária vodovodného potrubia,53,"Veľký záujem verejnosti, vysoká účasť."
+121,2024-10-03 14:16:00.000000,2024-10-03 15:05:06.000000,Verejná akcia,Svetový deň dobrovoľníctva,398,Z bezpečnostných dôvodov boli prijaté opatrenia.
+122,2025-01-29 18:49:00.000000,2025-01-29 19:33:43.000000,Mimoriadna udalosť,Policajná operácia v centre,763,"Veľký záujem verejnosti, vysoká účasť."
+123,2024-12-13 07:53:00.000000,2024-12-13 08:37:27.000000,Verejná akcia,Pouličný trh a remeslá,321,Počas podujatia došlo k nepredvídaným komplikáciám.
+124,2024-06-23 10:29:00.000000,2024-06-23 11:14:11.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,359,Počas podujatia došlo k nepredvídaným komplikáciám.
+125,2024-11-16 11:32:00.000000,2024-11-16 12:14:13.000000,Súkromná udalosť,Svadobná hostina,16,"Veľký záujem verejnosti, vysoká účasť."
+126,2024-02-19 09:39:00.000000,2024-02-19 10:26:51.000000,Politické a spoločenské podujatie,Pochod za práva žien,1344,Z bezpečnostných dôvodov boli prijaté opatrenia.
+127,2024-05-19 10:17:00.000000,2024-05-19 11:06:09.000000,Športové podujatie,Hokejový zápas finále ligy,2970,Podujatie prebiehalo bez incidentov.
+128,2024-06-28 08:01:00.000000,2024-06-28 08:43:39.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,41,Počas podujatia došlo k nepredvídaným komplikáciám.
+129,2024-11-23 13:38:00.000000,2024-11-23 14:19:04.000000,Politické a spoločenské podujatie,Pochod za práva žien,2735,"Veľký záujem verejnosti, vysoká účasť."
+130,2024-04-15 15:16:00.000000,2024-04-15 16:05:43.000000,Kultúrne podujatie,Jazzový koncert v parku,892,Z bezpečnostných dôvodov boli prijaté opatrenia.
+131,2024-10-05 13:43:00.000000,2024-10-05 14:31:51.000000,Športové podujatie,Hokejový zápas finále ligy,3982,Nahlásené menšie technické problémy.
+132,2024-12-20 10:34:00.000000,2024-12-20 11:23:01.000000,Náboženské a duchovné podujatie,Gospelový koncert,87,Počas podujatia došlo k nepredvídaným komplikáciám.
+133,2024-12-03 16:45:00.000000,2024-12-03 17:30:36.000000,Športové podujatie,Bežecká súťaž na 10 km,4219,Podujatie malo pozitívny ohlas v médiách.
+134,2024-02-26 18:42:00.000000,2024-02-26 19:22:37.000000,Športové podujatie,Hokejový zápas finále ligy,1114,Počas podujatia došlo k nepredvídaným komplikáciám.
+135,2024-05-03 08:59:00.000000,2024-05-03 09:44:33.000000,Mimoriadna udalosť,Hromadná dopravná nehoda,701,"Veľký záujem verejnosti, vysoká účasť."
+136,2024-02-15 11:41:00.000000,2024-02-15 12:26:01.000000,Verejná akcia,Letný mestský piknik,290,Nahlásené menšie technické problémy.
+137,2024-08-26 15:40:00.000000,2024-08-26 16:24:42.000000,Športové podujatie,Bežecká súťaž na 10 km,1723,Z bezpečnostných dôvodov boli prijaté opatrenia.
+138,2024-11-05 15:43:00.000000,2024-11-05 16:27:17.000000,Kultúrne podujatie,Stand-up comedy večer,755,Podujatie malo pozitívny ohlas v médiách.
+139,2024-03-14 16:59:00.000000,2024-03-14 17:46:34.000000,Športové podujatie,Svetový šampionát v plávaní,3682,Počas podujatia došlo k nepredvídaným komplikáciám.
+140,2024-05-16 11:12:00.000000,2024-05-16 11:58:33.000000,Športové podujatie,Hokejový zápas finále ligy,3138,Podujatie prebiehalo bez incidentov.
+141,2024-09-09 12:31:00.000000,2024-09-09 13:11:42.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,538,Z bezpečnostných dôvodov boli prijaté opatrenia.
+142,2024-11-21 14:05:00.000000,2024-11-21 14:49:10.000000,Kultúrne podujatie,Jazzový koncert v parku,1103,Podujatie prebiehalo bez incidentov.
+143,2024-11-19 18:11:00.000000,2024-11-19 18:57:04.000000,Verejná akcia,Svetový deň dobrovoľníctva,815,Podujatie malo pozitívny ohlas v médiách.
+144,2024-03-26 14:41:00.000000,2024-03-26 15:26:23.000000,Mimoriadna udalosť,Výpadok komunikačných sietí,840,Podujatie prebiehalo bez incidentov.
+145,2024-10-13 14:20:00.000000,2024-10-13 15:06:45.000000,Kultúrne podujatie,Literárna noc v knižnici,1285,Z bezpečnostných dôvodov boli prijaté opatrenia.
+146,2025-01-14 13:39:00.000000,2025-01-14 14:22:51.000000,Politické a spoločenské podujatie,Pochod za práva žien,2458,Podujatie prebiehalo bez incidentov.
+147,2024-03-30 16:39:00.000000,2024-03-30 17:27:57.000000,Neočakávané podujatie,Náhla evakuácia budovy,161,Podujatie prebiehalo bez incidentov.
+148,2024-08-22 15:15:00.000000,2024-08-22 16:01:54.000000,Politické a spoločenské podujatie,Pochod za práva žien,2944,Nahlásené menšie technické problémy.
+149,2024-06-15 16:15:00.000000,2024-06-15 17:03:37.000000,Neočakávané podujatie,Náhly výpadok elektriny,36,Podujatie malo pozitívny ohlas v médiách.
+150,2024-06-27 10:06:00.000000,2024-06-27 10:50:43.000000,Vopred nahlásené podujatie,Celomestská dobrovoľnícka akcia,280,Počas podujatia došlo k nepredvídaným komplikáciám.
+151,2025-01-17 10:50:00.000000,2025-01-17 11:38:24.000000,Vzdelávacie podujatie,Hackathon pre študentov,340,Počas podujatia došlo k nepredvídaným komplikáciám.
+152,2024-08-27 16:47:00.000000,2024-08-27 17:29:47.000000,Kultúrne podujatie,Jazzový koncert v parku,1441,Nahlásené menšie technické problémy.
+153,2024-12-16 16:02:00.000000,2024-12-16 16:51:43.000000,Vzdelávacie podujatie,Konferencia o ochrane životného prostredia,273,"Veľký záujem verejnosti, vysoká účasť."
+154,2024-10-02 14:44:00.000000,2024-10-02 15:28:39.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,918,Podujatie prebiehalo bez incidentov.
+155,2024-06-15 10:46:00.000000,2024-06-15 11:29:53.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,350,Z bezpečnostných dôvodov boli prijaté opatrenia.
+156,2024-12-07 11:58:00.000000,2024-12-07 12:39:55.000000,Kultúrne podujatie,Stand-up comedy večer,420,Z bezpečnostných dôvodov boli prijaté opatrenia.
+157,2024-05-25 09:48:00.000000,2024-05-25 10:33:33.000000,Verejná akcia,Letný mestský piknik,951,Nahlásené menšie technické problémy.
+158,2024-05-27 13:19:00.000000,2024-05-27 14:06:53.000000,Vzdelávacie podujatie,Prednáška o umelej inteligencii,454,"Veľký záujem verejnosti, vysoká účasť."
+159,2024-05-18 17:10:00.000000,2024-05-18 17:52:59.000000,Politické a spoločenské podujatie,Pochod za práva žien,1863,"Veľký záujem verejnosti, vysoká účasť."
+160,2024-09-30 16:52:00.000000,2024-09-30 17:40:21.000000,Vzdelávacie podujatie,Kurz finančnej gramotnosti,193,Počas podujatia došlo k nepredvídaným komplikáciám.
+161,2024-02-14 16:39:00.000000,2024-02-14 17:22:02.000000,Náboženské a duchovné podujatie,Ekumenická bohoslužba,376,Počas podujatia došlo k nepredvídaným komplikáciám.
+162,2024-10-17 17:18:00.000000,2024-10-17 18:06:19.000000,Politické a spoločenské podujatie,Verejná diskusia s prezidentom,956,Podujatie malo pozitívny ohlas v médiách.
+163,2024-10-13 17:40:00.000000,2024-10-13 18:27:45.000000,Športové podujatie,Svetový šampionát v plávaní,3114,Počas podujatia došlo k nepredvídaným komplikáciám.
+164,2024-11-03 14:27:00.000000,2024-11-03 15:10:06.000000,Kultúrne podujatie,Výstava súčasného umenia,702,Podujatie prebiehalo bez incidentov.
+165,2024-05-20 15:01:00.000000,2024-05-20 15:42:51.000000,Politické a spoločenské podujatie,Pochod za práva žien,744,"Veľký záujem verejnosti, vysoká účasť."
+166,2024-06-24 11:13:00.000000,2024-06-24 11:58:45.000000,Verejná akcia,Letný mestský piknik,741,Z bezpečnostných dôvodov boli prijaté opatrenia.
+167,2024-06-07 12:58:00.000000,2024-06-07 13:39:35.000000,Náboženské a duchovné podujatie,Meditačný workshop,836,Z bezpečnostných dôvodov boli prijaté opatrenia.
+168,2024-12-08 18:44:00.000000,2024-12-08 19:28:51.000000,Neočakávané podujatie,Náhla evakuácia budovy,188,Počas podujatia došlo k nepredvídaným komplikáciám.
+169,2024-10-13 19:02:00.000000,2024-10-13 19:44:32.000000,Neočakávané podujatie,Dopravná nehoda na hlavnej ceste,76,Z bezpečnostných dôvodov boli prijaté opatrenia.
+170,2025-01-08 18:17:00.000000,2025-01-08 19:05:48.000000,Vzdelávacie podujatie,Workshop digitálneho marketingu,250,Počas podujatia došlo k nepredvídaným komplikáciám.

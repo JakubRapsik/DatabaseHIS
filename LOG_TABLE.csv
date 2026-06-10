@@ -1,0 +1,193 @@
+11,2024-03-16 10:09:39,USER_TAB,failed login,User with ip 91.148.48.35 has tried to log into 107 with password: 123456,91.148.48.35,null
+43,2024-04-19 16:27:23,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+13,2024-03-27 12:36:49,USER_TAB,failed login,User with ip 78.99.32.210 has tried to log into 2739 with password: robertcibulas,78.99.32.210,null
+46,2024-04-19 20:33:13,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+48,2024-04-19 20:38:45,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+16,2024-04-14 20:37:39,USER_TAB,failed login,User with ip 195.55.23.2 has failed to log in,195.55.23.2,null
+25,2024-04-19 16:20:51,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+59,2024-04-22 09:51:31,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+63,2024-04-22 09:53:08,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+65,2024-04-22 09:56:00,os_udaje,failed to get ratio,Failed to get ratio,null,null
+73,2024-05-13 15:09:55,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+77,2024-05-13 15:13:06,pacient,failed to get patient info,Failed to get info of patient with id: undefined,null,null
+82,2024-05-13 15:15:21,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 618,null,null
+85,2024-05-13 15:15:26,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20054,null,null
+91,2024-05-13 15:16:40,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+94,2024-05-15 08:32:30,USER_TAB,failed login,User with ip 46.34.228.192 has failed to log in,46.34.228.192,null
+101,2024-05-27 21:12:37,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+111,2024-06-02 14:20:04,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+118,2024-06-05 17:19:31,USER_TAB,failed login,User with ip 46.34.229.134 has failed to log in,46.34.229.134,null
+126,2024-06-07 17:22:44,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+128,2024-06-09 21:24:22,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20532,null,null
+132,2024-06-09 22:00:08,USER_TAB,failed login,User with ip 31.170.89.164 has failed to log in,31.170.89.164,null
+143,2024-06-10 18:39:58,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20034,null,null
+154,2024-11-19 12:02:56,os_udaje,failed to get ratio,Failed to get ratio,null,null
+156,2024-11-28 17:04:20,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 135,null,null
+157,2024-11-28 17:07:14,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20585,null,null
+164,2025-01-28 16:48:21,os_udaje,failed to get ratio,Failed to get ratio,null,null
+171,2025-11-14 18:29:44,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 127,null,null
+180,2025-11-14 18:30:27,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20284,null,null
+181,2025-11-14 18:36:19,os_udaje,failed to get ratio,Failed to get ratio,null,null
+182,2025-11-14 18:36:31,os_udaje,failed to get ratio,Failed to get ratio,null,null
+185,2025-12-01 21:21:49,USER_TAB,failed login,User with ip null has failed to log in,null,null
+188,2025-12-01 21:22:12,USER_TAB,failed login,User with ip null has failed to log in,null,null
+2,2024-03-09 22:41:46,USER_TAB,failed login,Zle prihlasienie,90.64.238.11,null
+3,2024-03-09 22:42:34,USER_TAB,failed login,User with id 110 has logged in with password 251532,90.64.238.11,null
+4,2024-03-09 22:44:09,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log in 110 with password: 215235,90.64.238.11,null
+5,2024-03-10 10:14:36,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log into 1' or '1' = '1 with password: 1' or '1' = '1,90.64.238.11,null
+27,2024-04-19 16:21:02,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+12,2024-03-27 11:26:08,USER_TAB,Wrong parameters,User with ip 78.99.32.210 has tried to log into 27391 with password: robertcibulas1,78.99.32.210,null
+28,2024-04-19 16:21:05,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+19,2024-04-14 20:37:40,USER_TAB,failed login,User with ip 195.55.23.2 has failed to log in,195.55.23.2,null
+26,2024-04-19 16:21:00,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+29,2024-04-19 16:21:08,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20049,null,null
+30,2024-04-19 16:21:10,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+31,2024-04-19 16:21:12,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+33,2024-04-19 16:24:45,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+34,2024-04-19 16:24:47,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+41,2024-04-19 16:26:53,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20236,null,null
+44,2024-04-19 16:27:31,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 18,null,null
+45,2024-04-19 20:24:42,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+55,2024-04-21 18:32:30,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+57,2024-04-21 18:59:03,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+75,2024-05-13 15:10:46,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+84,2024-05-13 15:15:23,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+86,2024-05-13 15:15:31,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+96,2024-05-27 14:48:02,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+104,2024-05-27 21:12:46,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+105,2024-05-28 11:54:02,USER_TAB,failed login,User with ip 84.16.33.162 has failed to log in,84.16.33.162,null
+106,2024-05-28 11:54:08,USER_TAB,failed login,User with ip 84.16.33.162 has failed to log in,84.16.33.162,null
+134,2024-06-10 10:07:30,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20531,null,null
+135,2024-06-10 10:07:58,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+138,2024-06-10 10:08:29,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 135,null,null
+141,2024-06-10 18:39:53,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+142,2024-06-10 18:39:57,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20037,null,null
+149,2024-11-19 12:02:28,os_udaje,failed to get ratio,Failed to get ratio,null,null
+151,2024-11-19 12:02:47,os_udaje,failed to get ratio,Failed to get ratio,null,null
+160,2025-01-28 16:47:21,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20585,null,null
+161,2025-01-28 16:47:28,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20236,null,null
+165,2025-02-08 12:29:51,USER_TAB,failed login,User with ip undefined has failed to log in,null,null
+168,2025-11-14 18:29:32,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 119,null,null
+169,2025-11-14 18:29:39,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 122,null,null
+172,2025-11-14 18:30:00,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 19077,null,null
+173,2025-11-14 18:30:04,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 2709,null,null
+175,2025-11-14 18:30:10,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 14140,null,null
+192,2025-12-01 21:31:15,USER_TAB,failed login,User with ip null has failed to log in,null,null
+36,2024-04-19 16:26:13,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+22,2024-04-14 21:43:47,USER_TAB,failed login,User with ip 90.64.238.11 has failed to log in,90.64.238.11,null
+24,2024-04-15 14:52:37,HOSPITALIZACIA_TAB,failed to get hospitalizacie,Failed to get hospitalizacie with id:107,null,null
+10,2024-03-12 22:34:56,USER_TAB,Wrong parameters,User with ip 90.64.238.11 has tried to log into 123414 with password: etet,90.64.238.11,null
+37,2024-04-19 16:26:27,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+39,2024-04-19 16:26:44,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+47,2024-04-19 20:37:26,HOSPITALIZACIA,failed to end hospitalization,Failed to end hospitalization,null,null
+49,2024-04-19 20:39:55,HOSPITALIZACIA,failed to end hospitalization,Failed to end hospitalization,null,null
+50,2024-04-21 10:30:46,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+51,2024-04-21 10:31:18,USER_TAB,failed login,User with ip null has failed to log in,null,null
+52,2024-04-21 15:23:15,USER_TAB,failed login,User with ip 90.64.238.11 has failed to log in,90.64.238.11,null
+53,2024-04-21 18:24:52,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20238,null,null
+61,2024-04-22 09:52:13,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20236,null,null
+67,2024-04-22 09:56:55,os_udaje,failed to get ratio,Failed to get ratio,null,null
+78,2024-05-13 15:13:54,pacient,failed to get patient info,Failed to get info of patient with id: undefined,null,null
+81,2024-05-13 15:15:19,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 19255,null,null
+90,2024-05-13 15:15:39,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20044,null,null
+92,2024-05-13 15:20:41,os_udaje,failed to get ratio,Failed to get ratio,null,null
+95,2024-05-15 08:37:13,USER_TAB,failed login,User with ip 46.34.228.192 has failed to log in,46.34.228.192,null
+99,2024-05-27 20:21:52,os_udaje,failed to get ratio,Failed to get ratio,null,null
+103,2024-05-27 21:12:41,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+108,2024-06-02 14:10:47,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+110,2024-06-02 14:18:32,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20236,null,null
+112,2024-06-02 14:20:12,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+113,2024-06-02 14:20:18,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+130,2024-06-09 21:25:14,Hospitalizacia,failed insert hospitalizacia,Failed to insert hospitalizacia with body: NAZOV: dssdPOPIS:dssdsd DATUM:10/06/2024 21:24:59,null,null
+146,2024-11-10 20:57:42,USER_TAB,failed login,User with ip 158.193.82.107 has failed to log in,158.193.82.107,null
+147,2024-11-11 16:18:08,USER_TAB,failed login,User with ip 158.193.143.8 has failed to log in,158.193.143.8,null
+152,2024-11-19 12:02:49,os_udaje,failed to get ratio,Failed to get ratio,null,null
+155,2024-11-28 17:04:05,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20012,null,null
+162,2025-01-28 16:47:46,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 135,null,null
+163,2025-01-28 16:47:50,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 18,null,null
+170,2025-11-14 18:29:42,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 121,null,null
+186,2025-12-01 21:21:58,USER_TAB,failed login,User with ip null has failed to log in,null,null
+189,2025-12-01 21:22:29,USER_TAB,failed login,User with ip null has failed to log in,null,null
+6,2024-03-10 10:16:04,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log into 1' or '1' = '1'))/* with password: foo,90.64.238.11,null
+7,2024-03-12 16:35:12,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log into 107 with password: dawdawd,90.64.238.11,null
+8,2024-03-12 17:40:43,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log into 107 with password: 12345,90.64.238.11,null
+17,2024-04-14 20:37:39,USER_TAB,failed login,User with ip 195.55.23.2 has failed to log in,195.55.23.2,null
+23,2024-04-15 14:36:27,HOSPITALIZACIA_TAB,failed to get hospitalizacie,Failed to get hospitalizacie with id:107,null,null
+32,2024-04-19 16:21:39,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 119,null,null
+21,2024-04-14 20:44:46,USER_TAB,failed login,User with ip 90.64.238.11 has failed to log in,90.64.238.11,null
+35,2024-04-19 16:24:57,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+38,2024-04-19 16:26:35,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+42,2024-04-19 16:27:16,Operacia,failed insert operacia,Failed to insert operacia with body: NAZOV: aweafPOPIS:aefasef DATUM:01/04/2024 16:27:03,null,null
+58,2024-04-22 09:51:10,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+60,2024-04-22 09:51:54,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+68,2024-04-22 09:58:43,LOG_TABLE,failed to get logs,Failed to get logs,null,null
+69,2024-04-24 10:45:54,liek,failed to get all drugs,Failed to get all drugs,null,null
+70,2024-04-24 15:51:48,sklad,failed to get drugs,Failed to get drugs of department with id: 2739,null,null
+71,2024-05-13 15:09:47,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+72,2024-05-13 15:09:50,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+74,2024-05-13 15:10:35,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+79,2024-05-13 15:14:45,pacient,failed to get patient info,Failed to get info of patient with id: undefined,null,null
+80,2024-05-13 15:15:18,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+83,2024-05-13 15:15:22,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+87,2024-05-13 15:15:33,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+88,2024-05-13 15:15:34,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20048,null,null
+89,2024-05-13 15:15:36,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20046,null,null
+93,2024-05-15 08:30:32,USER_TAB,failed login,User with ip 46.34.228.192 has failed to log in,46.34.228.192,null
+107,2024-05-31 12:24:59,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 985,null,null
+114,2024-06-02 14:48:27,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+117,2024-06-02 14:49:04,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20050,null,null
+120,2024-06-06 19:53:23,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20584,null,null
+121,2024-06-06 19:53:56,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+122,2024-06-06 19:54:35,os_udaje,failed to get ratio,Failed to get ratio,null,null
+125,2024-06-07 17:22:39,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20584,null,null
+127,2024-06-09 21:23:12,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+129,2024-06-09 21:24:44,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+131,2024-06-09 21:25:20,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 135,null,null
+137,2024-06-10 10:08:23,Operacia,failed insert operacia,Failed to insert operacia with body: NAZOV: dsdsPOPIS:sdds DATUM:02/06/2024 10:08:16,null,null
+139,2024-06-10 10:08:31,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 985,null,null
+140,2024-06-10 18:39:51,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20042,null,null
+144,2024-11-10 20:57:05,USER_TAB,failed login,User with ip 158.193.82.107 has failed to log in,158.193.82.107,null
+145,2024-11-10 20:57:23,USER_TAB,failed login,User with ip 158.193.82.107 has failed to log in,158.193.82.107,null
+148,2024-11-19 12:02:25,os_udaje,failed to get ratio,Failed to get ratio,null,null
+153,2024-11-19 12:02:52,os_udaje,failed to get ratio,Failed to get ratio,null,null
+158,2024-11-28 17:07:44,os_udaje,failed to get ratio,Failed to get ratio,null,null
+159,2025-01-28 16:47:13,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20026,null,null
+166,2025-02-08 12:30:09,USER_TAB,failed login,User with ip undefined has failed to log in,null,null
+167,2025-02-08 12:30:25,USER_TAB,failed login,User with ip undefined has failed to log in,null,null
+174,2025-11-14 18:30:07,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 3040,null,null
+178,2025-11-14 18:30:24,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20012,null,null
+183,2025-11-14 18:36:40,os_udaje,failed to get ratio,Failed to get ratio,null,null
+184,2025-12-01 21:21:43,USER_TAB,failed login,User with ip null has failed to log in,null,null
+187,2025-12-01 21:22:04,USER_TAB,failed login,User with ip null has failed to log in,null,null
+193,2025-12-01 21:39:16,USER_TAB,failed login,User with ip null has failed to log in,null,null
+14,2024-03-27 12:39:15,USER_TAB,failed login,User with ip 78.99.32.210 has tried to log into 2739 with password: robertcibulas,78.99.32.210,null
+1,2024-03-09 22:41:38,USER_TAB,failed login,Zle prihlasienie,90.64.238.11,null
+9,2024-03-12 17:41:16,USER_TAB,failed login,User with ip 90.64.238.11 has tried to log into 107 with password: 123456,90.64.238.11,null
+15,2024-04-12 19:21:17,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 6247,null,null
+40,2024-04-19 16:26:46,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20581,null,null
+18,2024-04-14 20:37:40,USER_TAB,failed login,User with ip 195.55.23.2 has failed to log in,195.55.23.2,null
+20,2024-04-14 20:37:41,USER_TAB,failed login,User with ip 195.55.23.2 has failed to log in,195.55.23.2,null
+54,2024-04-21 18:24:55,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+56,2024-04-21 18:49:25,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 2181,null,null
+62,2024-04-22 09:52:18,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20243,null,null
+64,2024-04-22 09:55:32,LEKAR_TAB,failed to get lekar info,Failed to get lekar info with id:830,null,null
+66,2024-04-22 09:56:53,oddelenie,failed to get number of examinations,Failed to get number of examinations of department,null,null
+76,2024-05-13 15:10:57,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+97,2024-05-27 20:21:45,os_udaje,failed to get ratio,Failed to get ratio,null,null
+98,2024-05-27 20:21:48,os_udaje,failed to get ratio,Failed to get ratio,null,null
+100,2024-05-27 20:21:57,os_udaje,failed to get ratio,Failed to get ratio,null,null
+102,2024-05-27 21:12:40,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+109,2024-06-02 14:18:26,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+115,2024-06-02 14:48:32,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+116,2024-06-02 14:48:43,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20583,null,null
+119,2024-06-05 17:19:38,USER_TAB,failed login,User with ip 46.34.229.134 has failed to log in,46.34.229.134,null
+123,2024-06-06 22:16:40,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20584,null,null
+124,2024-06-06 22:17:27,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20041,null,null
+133,2024-06-10 10:05:50,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20532,null,null
+136,2024-06-10 10:08:00,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20578,null,null
+150,2024-11-19 12:02:47,os_udaje,failed to get ratio,Failed to get ratio,null,null
+176,2025-11-14 18:30:13,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 11987,null,null
+177,2025-11-14 18:30:22,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20281,null,null
+179,2025-11-14 18:30:25,zdravotny_zaznam,failed to get attachment,Failed to get attachment of record with id: 20282,null,null
+190,2025-12-01 21:22:36,USER_TAB,failed login,User with ip null has failed to log in,null,null
+191,2025-12-01 21:25:52,USER_TAB,failed login,User with ip null has failed to log in,null,null
