@@ -23,8 +23,10 @@ The repository includes:
 - `DatabaseScript.ddl` - database schema definition script
 - `README.md` - project documentation
 - `*.csv` - table-level CSV exports
+- `generate_scaled_his_datasets.py` - script for generating scaled dataset variants
+- `scaled_output/` - generated baseline and scaled CSV subsets
 
-Each CSV file represents one database table. The file names follow the original table names used in the database model.
+Each CSV file represents one database table. CSV file names are written in English `snake_case` for repository readability. The schema script may still use the original database table names.
 
 ## Dataset Scope
 
@@ -74,6 +76,32 @@ Typical usage workflow:
 5. Run analytical, experimental, or educational SQL queries over the imported data.
 
 When importing into a relational database, table dependencies may require importing reference tables before transactional tables.
+
+## Scaled Dataset Variants
+
+The repository also contains generated scaled subsets in `scaled_output/`.
+
+Available variants:
+
+- `baseline` - original selected source tables used by the generator
+- `scale_100k` - scaled to 100,000 rows in `medical_records.csv`
+- `scale_500k` - scaled to 500,000 rows in `medical_records.csv`
+- `scale_1m` - scaled to 1,000,000 rows in `medical_records.csv`
+
+The scaled variants include:
+
+- `medical_cards.csv`
+- `medical_records.csv`
+- `hospitalizations.csv`
+- `examinations.csv`
+
+Large CSV files inside `scaled_output/` are tracked with Git LFS because some generated files exceed GitHub's regular 100 MB file limit.
+
+To regenerate the scaled datasets:
+
+```bash
+py generate_scaled_his_datasets.py --input-dir . --output-dir scaled_output
+```
 
 ## Notes
 
